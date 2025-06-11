@@ -35,3 +35,10 @@ function langOpenClose(target_lang) {
         target_elems[i].classList.toggle("hide");
     }
 }
+
+function foldSection(id) {
+    const section = document.getElementById(id).parentElement;
+    for (var i = 1; i < section.children.length; i++) {
+        section.children[i].classList.toggle("hide");
+    }
+}
