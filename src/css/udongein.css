@@ -5,42 +5,14 @@
     styles used in all pages
 */
 
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=42dot+Sans:wght@300..800&family=M+PLUS+Rounded+1c:wght@300;400;700&display=swap');
+
+/* Resets */
 * {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-}
-
-/* Fonts */
-@font-face {
-    font-family: "Naru";
-    src: url("../fonts/Naru-thin.woff2") format("woff2");
-    font-weight: 300;
-}
-@font-face {
-    font-family: "Naru";
-    src: url("../fonts/Naru-regular.woff2") format("woff2");
-    font-weight: 500;
-}
-@font-face {
-    font-family: "Naru";
-    src: url("../fonts/Naru-bold.woff2") format("woff2");
-    font-weight: 700;
-}
-@font-face {
-    font-family: "M Plus";
-    src: url("../fonts/Mplus1-Light.woff2") format("woff2");
-    font-weight: 300;
-}
-@font-face {
-    font-family: "M Plus";
-    src: url("../fonts/Mplus1-Regular.woff2") format("woff2");
-    font-weight: 500;
-}
-@font-face {
-    font-family: "M Plus";
-    src: url("../fonts/Mplus1-Bold.woff2") format("woff2");
-    font-weight: 700;
 }
 
 /* Colors */
@@ -172,7 +144,6 @@ li>.datestamp::after {
 a {
     font-weight: 300;
     color: var(--main-text-color);
-    font-size: 0.9em;
 }
 a::after {
     content: '⇒';
@@ -181,7 +152,7 @@ a:hover {
     color: var(--accent-color);
 }
 button {
-    font-family: 'M Plus', 'Naru', 'Verdana', sans-serif;
+    font-family: '42dot Sans', 'M PLUS Rounded 1c', 'Verdana', sans-serif;
     font-size: 0.8em;
     color: var(--main-text-color);
     background: var(--main-background-color);
@@ -215,8 +186,8 @@ button:hover {
 
 /* Wrappers and layouts */
 body {
-    font-family: 'M Plus', 'Naru', 'Verdana', sans-serif;
-    font-weight: 500;
+    font-family: '42dot Sans', 'M PLUS Rounded 1c', 'Verdana', sans-serif;
+    font-weight: 400;
     text-underline-offset: 0.2em;
     background-color: var(--main-background-color);
     display: flex;
@@ -265,9 +236,22 @@ header {
 }
 header .pagetitle {
     font-weight: 300;
-    font-size: 1.2em;
+    font-size: 1.4em;
     color: var(--main-text-color);
     cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 0.2em;
+}
+header .pagetitle::before {
+    content: '';
+    display: inline-block;
+    width: 0.8em;
+    height: 0.8em;
+    background-image: url(../img/favicon.ico);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 nav {
     display: flex;
