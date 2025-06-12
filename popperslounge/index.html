@@ -10,6 +10,7 @@
     <link rel="stylesheet" href="../src/css/udongein.css">
     <!-- scripts -->
     <script src="../src/js/common.js"></script>
+    <script src="../src/js/parse.js"></script>
 </head>
 
 <body>
@@ -24,15 +25,83 @@
 
     <section>
         <h2>소개</h2>
-        <p><b>팝퍼즈 라운지</b>는 팝픈뮤직 1~4의 구동 기간 중 공개된 인터뷰 모음집입니다. 총 34개의 에피소드가 존재합니다.</p>
+        <p><b>팝퍼즈 라운지</b>는 팝픈뮤직 1~4의 구동 기간 중 공개된 인터뷰 모음집입니다. 총 34개의 에피소드가 존재합니다.
+            아카이브된 원본 페이지는 <a href="https://web.archive.org/web/20070120202246/http://www.konami.jp/bemani/popn/music1_4/html/lounge.html" target="_blank" title="web.archive.org: 팝퍼즈 라운지 원본 페이지">이 링크</a>에서 열람하실 수 있습니다.</p>
+        <blockquote class="horizontal_wrapper">
+            <p>ここはわたしとジュディ、アヤが出演しているダンス番組のトークコーナーよ。ポップンミュージックのキャラクターをゲストにむかえてファンの質問に答えてもらっちゃうNiceなコーナーなの！ 気になる情報が聞き出せるチャンスよね。
+                全３４回のオンエアをゆっくり楽しんでね！
+
+                여긴 나와 쥬디, 아야가 출연하고 있는 댄스 프로그램의 토크 코너. 팝픈뮤직의 캐릭터를 게스트로 초대해 팬들의 질문에 대한 답변을 받는 Nice한 코너야! 관심 있는 정보를 들을 찬스지?
+                총 34회의 방송, 천천히 즐겨 줘!</p>
+            <img src="./assets/img/mail.gif" alt="마리가 우편 봉투를 들고 있는 그림" style="width:140px;height:164px;align-self:last baseline;">
+        </blockquote>
+        <h3>회차</h3>
+        <ul id="lounge-index">
+        </ul>
     </section>
 
-    <section>
-        <p><small>~준비 중~</small></p>
+    <section id="lounge-list">
+        <h2>본문</h2>
+        <small>번역 출처: 운영자(1회)</small>
     </section>
 
     <footer>
     </footer>
+
+    <script>
+        parseLounge('./assets/data/popperslounge.json');
+    </script>
+
+    <style>
+        h4 {
+            margin-bottom: -0.5em;
+        }
+
+        ul.dialogue {
+            display: flex;
+            flex-direction: column;
+            gap: 0.5em;
+            list-style: none;
+            max-width: none;
+            align-items: baseline;
+            padding-left: 1rem;
+        }
+
+        ul.dialogue>li {
+            border-bottom: none;
+            position: relative;
+            padding: 0;
+        }
+
+        .ja {
+            color: var(--sub-text-color);
+            font-size: 0.8em;
+        }
+
+        .icon {
+            width: 1em;
+            height: 1em;
+            display: inline-block;
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: center;
+            position: absolute;
+            left: -1.5em;
+            top: 0.25em;
+        }
+
+        .icon.Aya {
+            background-image: url(./assets/img/3ay_icon.gif);
+        }
+
+        .icon.Mary {
+            background-image: url(./assets/img/3ma_icon.gif);
+        }
+
+        .icon.Judy {
+            background-image: url(./assets/img/3ju_icon.gif);
+        }
+    </style>
 </body>
 
 </html>

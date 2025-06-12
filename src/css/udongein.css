@@ -74,8 +74,9 @@ h1, h2, h3, h4, h5, h6, p, a {
 h1 {
     font-size: 1.8em;
 }
-h2 {
+h1, h2, h3 {
     display: flex;
+    flex-wrap: wrap;
     align-items: center;
     gap: 0.5em;
 }
@@ -99,9 +100,6 @@ h3::before {
     width: 8px;
     height: 8px;
     background-color: var(--accent-color);
-    position: absolute;
-    left: -12px;
-    bottom: 4px;
 }
 p {
     line-height: 160%;
@@ -135,11 +133,13 @@ blockquote {
     max-width: 720px;
     padding: 8px 16px;
     border-radius: 4px;
-    font-weight: 700;
+    font-size: 0.9em;
+    font-weight: 500;
     background-color: var(--sub-background-color-mild);
     color: var(--main-text-color);
     font-style: italic;
     position: relative;
+    white-space: pre-line;
 }
 blockquote::before {
     content: '';
@@ -321,6 +321,7 @@ footer {
 }
 .button.fold {
     margin-left: auto;
+    min-width: fit-content;
 }
 
 /* Decorations */
