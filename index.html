@@ -10,6 +10,7 @@
     <link rel="stylesheet" href="./src/css/udongein.css">
     <!-- scripts -->
     <script src="./src/js/common.js"></script>
+    <script src="./src/js/parse.js"></script>
 </head>
 
 <body>
@@ -26,18 +27,196 @@
         <p>본 웹사이트는 <a href="https://ko.wikipedia.org/wiki/%EC%BD%94%EB%82%98%EB%AF%B8" target="_blank" title="위키피디아: 코나미">코나미</a>의 아케이드 리듬 게임 <a href="https://ko.wikipedia.org/wiki/%ED%8C%9D%ED%94%88_%EB%AE%A4%EC%A7%81" target="_blank" title="위키피디아: 팝픈뮤직">팝픈뮤직</a>과 관련된 <b>공식</b> 정보, 컨텐츠, 문헌 등의 원문 및 한국어 번역을 한 곳에 모아 백업하기 위해 개설되었습니다.</p>
         <p>취미로 운영하는 사이트기에, 내용의 업데이트는 별다른 주기 없이 천천히 할 예정입니다.
             이곳에 백업하고 싶은 자료를 가지고 계시다면 <a href="mailto:d@lnaba.reisen">운영자에게 이메일</a>해 주시면 감사하겠습니다.</p>
+        <div class="horizontal_wrapper">
+            <div class="horizontal_element">
+                <h3>사이트맵</h3>
+                <ul>
+                    <li><a href="./popperslounge/">팝퍼즈 라운지</a></li>
+                    <li><a href="./hellopopn/">헬로! 팝픈뮤직: 이메일 일람</a></li>
+                </ul>
+            </div>
+            <div class="horizontal_element">
+                <h3>유용한 링크</h3>
+                <ul>
+                    <li><a href="https://p.eagate.573.jp/game/popn/" target="_blank" class="official">팝픈뮤직 e-Amusement 페이지</a></li>
+                    <li><a href="popnmusicdatabase.neocities.org" target="_blank" class="external">popnmusicdatabase</a></li>
+                </ul>
+            </div>
+        </div>
     </section>
 
     <section>
-        <h2>사이트맵</h2>
-        <p><small>*아직 대부분의 페이지가 미완성입니다.</small></p>
-        <ul>
-            <li><a href="./hellopopn/">헬로! 팝픈뮤직: 이메일 일람</a></li>
+        <h2>팝픈뮤직 연표 <button class="fold" onclick="foldSection('main-popn-history')">단락 접기/펼치기</button></h2>
+        <ul class="history" id="main-popn-history">
         </ul>
     </section>
+    <style>
+        ul.history {
+            display: flex;
+            list-style: none;
+            max-width: none;
+            align-items: center;
+            justify-content: space-between;
+            overflow-x: scroll;
+            overflow-y: hidden;
+            height: 10rem;
+            gap: 2rem;
+            padding: 1rem;
+        }
+
+        ul.history>li {
+            min-width: fit-content;
+            font-size: 0.8rem;
+            border-bottom: none;
+            padding: 0 0.5em;
+            border-radius: 0.25em;
+            border: 1px dashed var(--main-text-color);
+            position: relative;
+        }
+
+        ul.history>li>p.release {
+            position: absolute;
+            font-size: 0.75em;
+            left: 0;
+            top: -1.5em;
+        }
+
+        ul.history>li::before {
+            content: "";
+            display: inline-block;
+            position: absolute;
+            left: 0;
+            bottom: -1.2rem;
+            width: 1rem;
+            height: 0.85rem;
+            background: var(--popn-white);
+            border-radius: 100%;
+        }
+
+        ul.history>li:nth-child(8n+2)::before,
+        ul.history>li:nth-child(8n+8)::before {
+            background: var(--popn-yellow);
+        }
+
+        ul.history>li:nth-child(8n+3)::before,
+        ul.history>li:nth-child(8n+7)::before {
+            background: var(--popn-green);
+        }
+
+        ul.history>li:nth-child(8n+4)::before,
+        ul.history>li:nth-child(8n+6)::before {
+            background: var(--popn-blue);
+        }
+
+        ul.history>li:nth-child(8n+5)::before {
+            background: var(--popn-red);
+        }
+
+        ul.history>li::after {
+            content: "";
+            display: inline-block;
+            position: absolute;
+            left: 0;
+            bottom: -0.9rem;
+            width: 1rem;
+            height: 0.2rem;
+            background: var(--real-white);
+        }
+
+        ul.history>li:nth-child(odd) {
+            transform: rotate(12deg) translateY(1rem);
+        }
+
+        ul.history>li:nth-child(even) {
+            transform: rotate(-12deg) translateY(-1rem);
+        }
+
+        ul.history>li .title-ja {
+            display: none;
+            font-size: 0.6em;
+        }
+
+        ul.history>li:hover {
+            font-size: 1rem;
+        }
+
+        ul.history>li:hover>p {
+            display: block;
+        }
+
+        @media screen and (max-width: 768px) {
+            ul.history {
+                flex-direction: column;
+                overflow-x: scroll;
+                overflow-y: hidden;
+                height: auto;
+                gap: 0.5rem;
+            }
+
+            ul.history>li {
+                min-width: 75%;
+                font-size: 1rem;
+            }
+
+            ul.history>li>p.release {
+                left: auto;
+                right: 0.5em;
+                top: 0.5em;
+            }
+
+            ul.history>li:nth-child(odd) {
+                transform: translateX(-5%);
+            }
+
+            ul.history>li:nth-child(even) {
+                transform: translateX(5%);
+            }
+
+            ul.history>li::before {
+                content: "";
+                display: inline-block;
+                position: absolute;
+                left: -1.2rem;
+                bottom: -0.8rem;
+                width: 1rem;
+                height: 0.85rem;
+                background: var(--popn-white);
+                border-radius: 100%;
+            }
+
+            ul.history>li::after {
+                content: "";
+                display: inline-block;
+                position: absolute;
+                left: -1.2rem;
+                bottom: -0.48rem;
+                width: 1rem;
+                height: 0.2rem;
+                background: var(--real-white);
+            }
+
+            ul.history>li:nth-child(even)::before {
+                left: auto;
+                right: -1.2rem;
+            }
+
+            ul.history>li:nth-child(even)::after {
+                left: auto;
+                right: -1.2rem;
+            }
+
+            ul.history>li .title-ja {
+                display: block;
+            }
+        }
+    </style>
 
     <footer>
     </footer>
+
+    <script>
+        parseHistory('./src/data/popnhistory.json');
+    </script>
 </body>
 
 </html>
