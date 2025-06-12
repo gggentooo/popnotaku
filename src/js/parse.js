@@ -52,7 +52,7 @@ async function parseLounge(src) {
         }
 
         const section_content = `<section>
-            <h3 id="`+ d["idx"] + `">제 ` + d["idx"] + `회<button class="fold" onclick="foldSection('` + d["idx"] + `')">단락 접기/펼치기</button><button onclick="langOpenClose('ja')">원문 (일본어) 숨기기/보기</button></h3>
+            <h3 id="`+ d["idx"] + `">제 ` + d["idx"] + `회<button class="fold" onclick="foldSection('` + d["idx"] + `')">단락 접기/펼치기</button></h3>
             <h4 class="title ko">`+ d["title-ko"] + `</h4>
             <h4 class="title ja">`+ d["title-ja"] + `</h4>
             <ul class="dialogue">`+ ul_content + `</ul>

@@ -28,6 +28,12 @@ document.addEventListener('DOMContentLoaded', () => {
         <small>본 사이트는 팬메이드로, 원작자 및 공식 유통자와 연관되어 있지 않습니다. <a href="mailto:d@lnaba.reisen">사이트 운영: D</a></small>
         <small><a href="https://github.com/gggentooo/popnotaku" target="_blank" title="깃허브: popnotaku 소스 리포지토리">사이트 소스</a></small>
         `;
+
+    const absolute_buttons = document.createElement("div");
+    absolute_buttons.classList.add("buttons-absolute");
+    absolute_buttons.innerHTML = `<button onclick="scrollToTop();">페이지 상단으로</button>
+        <button onclick="langOpenClose('ja')">원문 보기/숨기기</button>`;
+    document.querySelector('body').append(absolute_buttons);
 });
 
 function langOpenClose(target_lang) {
@@ -42,4 +48,8 @@ function foldSection(id) {
     for (var i = 1; i < section.children.length; i++) {
         section.children[i].classList.toggle("hide");
     }
+}
+
+function scrollToTop() {
+    window.scrollTo(0, 0);
 }

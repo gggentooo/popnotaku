@@ -314,6 +314,15 @@ footer {
     width: 100%;
     margin: -1em 0;
 }
+.buttons-absolute {
+    position: fixed;
+    bottom: 4rem;
+    right: 4rem;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    gap: 1rem;
+}
 
 /* Functionality */
 .hide {
