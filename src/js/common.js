@@ -26,6 +26,7 @@ document.addEventListener('DOMContentLoaded', () => {
     document.getElementsByTagName('footer')[0].innerHTML = `
         <small>Pop'n Music © Konami Digital Entertainment Co., Ltd</small>
         <small>본 사이트는 팬메이드로, 원작자 및 공식 유통자와 연관되어 있지 않습니다. <a href="mailto:d@lnaba.reisen">사이트 운영: D</a></small>
+        <small><a href="https://github.com/gggentooo/popnotaku" target="_blank" title="깃허브: popnotaku 소스 리포지토리">사이트 소스</a></small>
         `;
 });
 
