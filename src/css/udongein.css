@@ -37,7 +37,7 @@
 /* Colors */
 html {
     --real-white: #fff;
-    
+
     --popn-white: #f5f4f2;
     --popn-yellow: #f8e02b;
     --popn-green: #31d13e;
@@ -363,5 +363,10 @@ footer {
     }
     .lang_buttons {
         flex-direction: column;
+    }
+    .buttons-absolute {
+        bottom: 1rem;
+        right: 1rem;
+        gap: 0.5rem;
     }
 }

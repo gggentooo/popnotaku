@@ -31,8 +31,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const absolute_buttons = document.createElement("div");
     absolute_buttons.classList.add("buttons-absolute");
-    absolute_buttons.innerHTML = `<button onclick="scrollToTop();">페이지 상단으로</button>
-        <button onclick="langOpenClose('ja')">원문 보기/숨기기</button>`;
+    absolute_buttons.innerHTML = `<button onclick="scrollToTop();">페이지\n상단으로</button>
+        <button onclick="langOpenClose('ja')">원문\n보기/숨기기</button>`;
     document.querySelector('body').append(absolute_buttons);
 });
 
