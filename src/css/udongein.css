@@ -348,8 +348,15 @@ footer {
     html {
         font-size: 14px;
     }
+    body {
+        gap: 1.5em;
+        padding: 2em 1em;
+    }
     header {
         gap: 0.5em;
+    }
+    section {
+        padding: 1em 0.5em;
     }
     nav {
         width: 100%;
