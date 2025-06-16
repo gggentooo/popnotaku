@@ -1,233 +1,65 @@
 [
-    {
-        "char": [
-            "Aya\t"
-        ],
-        "content-ja": "チュッス！Poper`s★loungeが始まるよ！",
-        "content-ko": ""
-    },
-    {
-        "char": [
-            "Judy"
-        ],
-        "content-ja": "１２回目のゲストは元気少女リンリンだよ！リンリンへのメッセージには「かわいい」って声がとっても多かったんだ。それに、ゲスト希望も随分来たよ。",
-        "content-ko": ""
-    },
-    {
-        "char": [
-            "Lingling"
-        ],
-        "content-ja": "アイヤァ！テレるアルよ。",
-        "content-ko": ""
-    },
-    {
-        "char": [
-            "Mary"
-        ],
-        "content-ja": "みんなから沢山質問が来ているから答えてちょうだいね！『リンリンの名前って漢字でどう書くの？リンリンは香港出身（広東語圏）なのになんでパンダは ハオハオ（北京語）なんですか？』て、言葉に関する質問は結構あったのよ。",
-        "content-ko": ""
-    },
-    {
-        "char": [
-            "Lingling\t"
-        ],
-        "content-ja": "詳しいアルね！嬉しいアル。まずリンリンは『伶伶』って書くアル。でもニッポンでは読み方が違うと聞いたから、みんなにはリンリンって呼んでほしいアル♥好好（ハオハオ）は北京に住んでいるワタシのお婆ちゃんが育てていたパンダだから北京語の名前アル。",
-        "content-ko": ""
-    },
-    {
-        "char": [
-            "Aya"
-        ],
-        "content-ja": "…何だか難しい話で頭痛くなって来た。それよかリンリンのお婆ちゃん、パンダって飼ってんの？",
-        "content-ko": ""
-    },
-    {
-        "char": [
-            "Lingling"
-        ],
-        "content-ja": "お婆ちゃんは環境保護の仕事をしていて、とても尊敬する人アル。森林の環境調査している時に怪我をした好好を保護して大人になったら自然に返す予定だったアルよ。",
-        "content-ko": ""
-    },
-    {
-        "char": [
-            "Judy"
-        ],
-        "content-ja": "それがどうしてリンリンのところに？『好好とはどこで知り合ったんですか？好好についてくわしく教えて！』って質問も沢山あったよ。",
-        "content-ko": ""
-    },
-    {
-        "char": [
-            "Lingling"
-        ],
-        "content-ja": "ワタシのお家、雑技団をやって世界中を廻っているアルよ！お婆ちゃんの住んでいる町にも遠征した事があって、そこにお婆ちゃんと好好が来てくれたのが出会いアルね。雑技団には曲芸をするパンダもいるアルが、好好がそのパンダをお母さんだと思っちゃって…可哀想だから一緒に旅をすることにしたアル。",
-        "content-ko": ""
-    },
-    {
-        "char": [
-            "Mary"
-        ],
-        "content-ja": "そうだったの！『皿回しはどこで覚えたの？』というのはもちろん…。",
-        "content-ko": ""
-    },
-    {
-        "char": [
-            "Lingling"
-        ],
-        "content-ja": "雑技団アル。小さい頃からいろんな芸を特訓したアルよ。",
-        "content-ko": ""
-    },
-    {
-        "char": [
-            "Aya"
-        ],
-        "content-ja": "そんじゃ、お次は『香港から日本に来て、良かったなと思うことはどんなことですか？日本は好きですか？』だって。",
-        "content-ko": ""
-    },
-    {
-        "char": [
-            "Lingling"
-        ],
-        "content-ja": "そうアルねぇ、料理の味は結構気に入ったアルよ。あ、この前中華街で飲茶食べて来たアル。混んでるアルよ～。それから、ニッポンのお菓子美味しいアル！！香港帰る時は沢山お土産に買って帰るアル。",
-        "content-ko": ""
-    },
-    {
-        "char": [
-            "Aya"
-        ],
-        "content-ja": "食べてばっかじゃん…。",
-        "content-ko": ""
-    },
-    {
-        "char": [
-            "Lingling"
-        ],
-        "content-ja": "あははははは。運動するとすぐにお腹が空くアルよ。",
-        "content-ko": ""
-    },
-    {
-        "char": [
-            "Judy"
-        ],
-        "content-ja": "『食べてばかりで太りませんか？』",
-        "content-ko": ""
-    },
-    {
-        "char": [
-            "Lingling"
-        ],
-        "content-ja": "運動しているから大丈夫アル！",
-        "content-ko": ""
-    },
-    {
-        "char": [
-            "Mary"
-        ],
-        "content-ja": "『キライな食べ物ってある？』という質問はどう？",
-        "content-ko": ""
-    },
-    {
-        "char": [
-            "Lingling"
-        ],
-        "content-ja": "セロリ！",
-        "content-ko": ""
-    },
-    {
-        "char": [
-            "Aya"
-        ],
-        "content-ja": "即答だったね。じゃ『じゃんけんは誰に教わったの？どれくらい弱いの？』",
-        "content-ko": ""
-    },
-    {
-        "char": [
-            "Lingling"
-        ],
-        "content-ja": "教えてくれたのはマリィだったアル。ポップンパーティーで順番待ちしている時、暇潰しにって遊んだアルよ。でも１回も勝てなかったアル。",
-        "content-ko": ""
-    },
-    {
-        "char": [
-            "Mary"
-        ],
-        "content-ja": "あれは偶然よ。気に病まないでちょうだい、リンリン。",
-        "content-ko": ""
-    },
-    {
-        "char": [
-            "Lingling"
-        ],
-        "content-ja": "あの後ポエットともケイトとキャンディとダイヤとドナともやったアルけど勝てなかったアル…。",
-        "content-ko": ""
-    },
-    {
-        "char": [
-            "Judy"
-        ],
-        "content-ja": "じ、じゃあ次の質問！『仲の良い人は？好きな子とかいますか？』",
-        "content-ko": ""
-    },
-    {
-        "char": [
-            "Lingling"
-        ],
-        "content-ja": "みんな仲良しアルよ。好きな子はまだいないアルが…好好が一番大好きアル♥",
-        "content-ko": ""
-    },
-    {
-        "char": [
-            "Aya"
-        ],
-        "content-ja": "『ライバルはいるの？』",
-        "content-ko": ""
-    },
-    {
-        "char": [
-            "Lingling"
-        ],
-        "content-ja": "ポエット。髪を結わくゴムが同じだから近くにいると何だか気になるアルよ。買ったお店まで同じだったアル。気まずいアル！",
-        "content-ko": ""
-    },
-    {
-        "char": [
-            "Mary"
-        ],
-        "content-ja": "さて、最後はまた食べ物の質問よ。『リンリンはブタまんしか食べないの？あんまんやにくまん、カレーまんは好きですか？』",
-        "content-ko": ""
-    },
-    {
-        "char": [
-            "Lingling"
-        ],
-        "content-ja": "ニッポンには中華マンも色々な種類があるから制覇を目指すアル！でもこの前食べたお饅頭はくだものだったり魚だったアルよ。すごい味だったアル。",
-        "content-ko": ""
-    },
-    {
-        "char": [
-            "Judy"
-        ],
-        "content-ja": "Thanks!それじゃ、ファンのみんなに一言。",
-        "content-ko": ""
-    },
-    {
-        "char": [
-            "Lingling"
-        ],
-        "content-ja": "みんな楽しくポップンしているアルか？今度雑技団にも遊びに来てほしいアル！",
-        "content-ko": ""
-    },
-    {
-        "char": [
-            "Aya"
-        ],
-        "content-ja": "また遊びに来て！",
-        "content-ko": ""
-    },
-    {
-        "char": [
-            ""
-        ],
-        "content-ja": "★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★",
-        "content-ko": ""
-    }
+    "pori",
+    "shuchishin",
+    "bluebird",
+    "kiseki",
+    "lovin",
+    "natsu",
+    "romantic",
+    "rouge",
+    "butter",
+
+    "pink",
+    "elebits",
+    "folk",
+    "capsule",
+    "cutie_tek",
+    "french",
+    "land",
+    "wazan",
+    "alipro",
+    "cinema2",
+    "lovely_mo",
+    "russia2",
+    "noir",
+    "clown",
+    "star",
+    "girl_alt",
+    "hy_fan",
+    "j_rock",
+    "hard_act",
+    "core",
+    "ninja",
+
+    "elebits_w",
+    "will",
+    "happyj_rmx",
+    "tokyo_rmx",
+    "metal_f",
+    
+    "lunatic",
+    "tek_child",
+    "deep_sea",
+    "ryusei_rmx",
+    "okinawassive",
+    "mada",
+    "robo_rmx",
+    "ffffff",
+    "eldora",
+    "konoko",
+    "handz",
+    "hanafubuki",
+    "polaris",
+    "midnight_dnb",
+    "battle_sym",
+    "goth",
+    "twin",
+    "cyber_w",
+    "contem4",
+    "pianotec",
+    "kaiju",
+    "happy",
+    "m_opera",
+    "silent",
+    "s_opera"
 ]

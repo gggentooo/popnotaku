@@ -8,8 +8,10 @@
     <link rel="icon" href="../src/img/favicon.ico" type="image/x-icon">
     <!-- stylesheets -->
     <link rel="stylesheet" href="../src/css/udongein.css">
+    <link rel="stylesheet" href="../src/css/title.css">
     <!-- scripts -->
     <script src="../src/js/common.js"></script>
+    <script src="../src/js/title.js"></script>
 </head>
 
 <body>
@@ -18,15 +20,28 @@
 
     <section>
         <h1>작품 일람</h1>
+        <em>! 미완성 페이지입니다.</em>
         <p class="datestamp">마지막 수정: 2025-06-16</p>
     </section>
 
     <section>
-        <p><small>~준비 중~</small></p>
+        <h2>목록</h2>
+        <h3>아케이드</h3>
+        <ul class="select-list" id="list-arcade"></ul>
+    </section>
+
+    <section id="title-frame">
+
     </section>
 
     <footer>
     </footer>
+
+    <script>
+        const params = new URLSearchParams(window.location.search);
+        const tnum = params.get("t");
+        loadTitles("../src/data/title/arcade_titles.json", tnum);
+    </script>
 </body>
 
 </html>
