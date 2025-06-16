@@ -8,6 +8,7 @@
     <link rel="icon" href="./src/img/favicon.ico" type="image/x-icon">
     <!-- stylesheets -->
     <link rel="stylesheet" href="./src/css/udongein.css">
+    <link rel="stylesheet" href="./src/css/popnhistory.css">
     <!-- scripts -->
     <script src="./src/js/common.js"></script>
     <script src="./src/js/parse.js"></script>
@@ -48,169 +49,9 @@
 
     <section>
         <h2>아케이드 작품 연표 <button class="fold" onclick="foldSection('main-popn-history')">단락 접기/펼치기</button></h2>
-        <ul class="history" id="main-popn-history">
+        <ul class="popnhistory" id="main-popn-history">
         </ul>
     </section>
-    <style>
-        ul.history {
-            display: flex;
-            list-style: none;
-            max-width: none;
-            align-items: center;
-            justify-content: space-between;
-            overflow-x: scroll;
-            overflow-y: hidden;
-            height: 10rem;
-            gap: 2rem;
-            padding: 1rem;
-        }
-
-        ul.history>li {
-            min-width: fit-content;
-            font-size: 0.8rem;
-            border-bottom: none;
-            padding: 0 0.5em;
-            border-radius: 0.25em;
-            border: 1px dashed var(--main-text-color);
-            position: relative;
-        }
-
-        ul.history>li>p.release {
-            position: absolute;
-            font-size: 0.75em;
-            left: 0;
-            top: -1.5em;
-        }
-
-        ul.history>li::before {
-            content: "";
-            display: inline-block;
-            position: absolute;
-            left: 0;
-            bottom: -1.2rem;
-            width: 1rem;
-            height: 0.85rem;
-            background: var(--popn-white);
-            border-radius: 100%;
-        }
-
-        ul.history>li:nth-child(8n+2)::before,
-        ul.history>li:nth-child(8n+8)::before {
-            background: var(--popn-yellow);
-        }
-
-        ul.history>li:nth-child(8n+3)::before,
-        ul.history>li:nth-child(8n+7)::before {
-            background: var(--popn-green);
-        }
-
-        ul.history>li:nth-child(8n+4)::before,
-        ul.history>li:nth-child(8n+6)::before {
-            background: var(--popn-blue);
-        }
-
-        ul.history>li:nth-child(8n+5)::before {
-            background: var(--popn-red);
-        }
-
-        ul.history>li::after {
-            content: "";
-            display: inline-block;
-            position: absolute;
-            left: 0;
-            bottom: -0.9rem;
-            width: 1rem;
-            height: 0.2rem;
-            background: var(--real-white);
-        }
-
-        ul.history>li:nth-child(odd) {
-            transform: rotate(12deg) translateY(1rem);
-        }
-
-        ul.history>li:nth-child(even) {
-            transform: rotate(-12deg) translateY(-1rem);
-        }
-
-        ul.history>li .title-ja {
-            display: none;
-            font-size: 0.6em;
-        }
-
-        ul.history>li:hover {
-            font-size: 1rem;
-        }
-
-        ul.history>li:hover>p {
-            display: block;
-        }
-
-        @media screen and (max-width: 768px) {
-            ul.history {
-                flex-direction: column;
-                overflow-x: scroll;
-                overflow-y: hidden;
-                height: auto;
-                gap: 1.5rem;
-            }
-
-            ul.history>li {
-                min-width: 75%;
-                font-size: 1rem;
-            }
-
-            ul.history>li>p.release {
-                left: auto;
-                right: 0.5em;
-                top: -1.5em;
-            }
-
-            ul.history>li:nth-child(odd) {
-                transform: translateX(-5%);
-            }
-
-            ul.history>li:nth-child(even) {
-                transform: translateX(5%);
-            }
-
-            ul.history>li::before {
-                content: "";
-                display: inline-block;
-                position: absolute;
-                left: -1.2rem;
-                bottom: -0.8rem;
-                width: 1rem;
-                height: 0.85rem;
-                background: var(--popn-white);
-                border-radius: 100%;
-            }
-
-            ul.history>li::after {
-                content: "";
-                display: inline-block;
-                position: absolute;
-                left: -1.2rem;
-                bottom: -0.48rem;
-                width: 1rem;
-                height: 0.2rem;
-                background: var(--real-white);
-            }
-
-            ul.history>li:nth-child(even)::before {
-                left: auto;
-                right: -1.2rem;
-            }
-
-            ul.history>li:nth-child(even)::after {
-                left: auto;
-                right: -1.2rem;
-            }
-
-            ul.history>li .title-ja {
-                display: block;
-            }
-        }
-    </style>
 
     <footer>
     </footer>

@@ -337,6 +337,10 @@ footer {
     margin-left: auto;
     min-width: fit-content;
 }
+.ja {
+    color: var(--sub-text-color);
+    font-size: 0.8em;
+}
 
 /* Decorations */
 .official::before {
