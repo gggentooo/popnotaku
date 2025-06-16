@@ -115,16 +115,21 @@ def generate_genre_strings_from_html_songnum():
     
 def generate_song_jsonframes(title):
     frame = {
+        "version": title,
         "genre": "",
         "title": "",
         "artist": [],
         "character": "",
-        "artist-comment-ja": "",
-        "artist-comment-ko": "",
-        "character-comment-ja": "",
-        "character-comment-ko": "",
-        "staff-comment-ja": [],
-        "staff-comment-ko": [],
+        "content-ja": {
+            "artist-comment": "",
+            "character-comment": "",
+            "staff-comment": []
+        },
+        "content-ko": {
+            "artist-comment": "",
+            "character-comment": "",
+            "staff-comment": []
+        }
     }
     
     with open(f'../data/title/{title}.json', 'r') as source:

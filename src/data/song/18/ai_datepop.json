@@ -1,12 +1,22 @@
 {
-    "genre": "",
-    "title": "",
-    "artist": [],
-    "character": "",
-    "artist-comment-ja": "",
-    "artist-comment-ko": "",
-    "character-comment-ja": "",
-    "character-comment-ko": "",
-    "staff-comment-ja": [],
-    "staff-comment-ko": []
+    "version": 18,
+    "genre": "A.I. DATE POP",
+    "title": "隅田川夏恋歌",
+    "artist": [
+        {
+            "display": "seiya-murai feat.ALT",
+            "real": "村井聖夜"
+        }
+    ],
+    "character": "ALT",
+    "content-ja": {
+        "artist-comment": "",
+        "character-comment": "",
+        "staff-comment": []
+    },
+    "content-ko": {
+        "artist-comment": "",
+        "character-comment": "",
+        "staff-comment": []
+    }
 }
