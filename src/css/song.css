@@ -1,0 +1,33 @@
+p.genre {
+    font-size: 1rem;
+    font-weight: 500;
+    padding: 0.25rem 1rem;
+    border-radius: 0.25rem;
+    background: var(--inverted-background-color);
+    color: var(--inverted-text-color);
+    margin-bottom: -0.5rem;
+}
+
+#song-content>h1 {
+    border-bottom: 1.5px dashed var(--main-text-color);
+    width: fit-content;
+    margin-bottom: 1rem;
+}
+
+.baseinfo-wrap {
+    display: flex;
+    flex-direction: column;
+    gap: 0.2rem;
+    align-items: baseline;
+    justify-content: center;
+}
+.baseinfo-wrap>.baseinfo-lr {
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+    justify-content: baseline;
+}
+.baseinfo-wrap>.baseinfo-lr>:first-child {
+    width: 6rem;
+    color: var(--sub-text-color);
+}

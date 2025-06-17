@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en" class="">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>popnotaku</title>
+    <link rel="icon" href="../src/img/favicon.ico" type="image/x-icon">
+    <!-- stylesheets -->
+    <link rel="stylesheet" href="../src/css/udongein.css">
+    <link rel="stylesheet" href="../src/css/song.css">
+    <!-- scripts -->
+    <script src="../src/js/common.js"></script>
+    <script src="../src/js/load.js"></script>
+</head>
+
+<body>
+    <header>
+    </header>
+
+    <section id="song-content">
+
+    </section>
+
+    <footer>
+    </footer>
+
+    <script>
+        const params = new URLSearchParams(window.location.search);
+        const snum = params.get("s");
+        loadSongPage(parseInt(snum));
+    </script>
+</body>
+
+</html>

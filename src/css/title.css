@@ -47,6 +47,9 @@ ul.select-list>li>.title-ja {
     font-size: 0.45em;
 }
 
+#title-frame>h2 {
+    line-height: 1em;
+}
 #title-frame>.info {
     display: flex;
     align-items: center;
@@ -135,15 +138,7 @@ ul.song-list>li:hover>span {
     color: var(--accent-color);
 }
 ul.song-list>li:hover>span.genre {
-    font-size: 0.8em;
-    margin-right: auto;
-    border-radius: 0.25em;
-    padding: 0.25em;
-    text-align: left;
     background: var(--accent-color);
-    color: var(--inverted-text-color);
-}
-ul.song-list>li.selected>span {
     color: var(--inverted-text-color);
 }
 
