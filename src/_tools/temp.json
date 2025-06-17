@@ -1,65 +1,400 @@
-[
-    "pori",
-    "shuchishin",
-    "bluebird",
-    "kiseki",
-    "lovin",
-    "natsu",
-    "romantic",
-    "rouge",
-    "butter",
-
-    "pink",
-    "elebits",
-    "folk",
-    "capsule",
-    "cutie_tek",
-    "french",
-    "land",
-    "wazan",
-    "alipro",
-    "cinema2",
-    "lovely_mo",
-    "russia2",
-    "noir",
-    "clown",
-    "star",
-    "girl_alt",
-    "hy_fan",
-    "j_rock",
-    "hard_act",
-    "core",
-    "ninja",
-
-    "elebits_w",
-    "will",
-    "happyj_rmx",
-    "tokyo_rmx",
-    "metal_f",
-    
-    "lunatic",
-    "tek_child",
-    "deep_sea",
-    "ryusei_rmx",
-    "okinawassive",
-    "mada",
-    "robo_rmx",
-    "ffffff",
-    "eldora",
-    "konoko",
-    "handz",
-    "hanafubuki",
-    "polaris",
-    "midnight_dnb",
-    "battle_sym",
-    "goth",
-    "twin",
-    "cyber_w",
-    "contem4",
-    "pianotec",
-    "kaiju",
-    "happy",
-    "m_opera",
-    "silent",
-    "s_opera"
-]
+{
+    "number": 18,
+    "title": "pop'n music 18 せんごく列伝",
+    "title-ko": "팝픈뮤직 18 전국열전",
+    "release": "2010-01-20",
+    "songs": [
+        {
+            "category": "tvanime",
+            "category-display": "TV&アニメ",
+            "list": [
+                {
+                    "id": "uso",
+                    "genre": "嘘",
+                    "title": "嘘",
+                    "artist": "♪♪♪♪♪"
+                },
+                {
+                    "id": "hotarunohikari",
+                    "genre": "ホタルノヒカリ",
+                    "title": "ホタルノヒカリ",
+                    "artist": "♪♪♪♪♪"
+                },
+                {
+                    "id": "itoshisa",
+                    "genre": "恋しさと せつなさと 心強さと",
+                    "title": "恋しさと せつなさと 心強さと",
+                    "artist": "♪♪♪♪♪"
+                },
+                {
+                    "id": "shinken",
+                    "genre": "侍戦隊シンケンジャー",
+                    "title": "侍戦隊シンケンジャー",
+                    "artist": "♪♪♪♪♪"
+                },
+                {
+                    "id": "aruite",
+                    "genre": "歩いて帰ろう",
+                    "title": "歩いて帰ろう",
+                    "artist": "ガチャPON"
+                },
+                {
+                    "id": "donten",
+                    "genre": "曇天",
+                    "title": "曇天",
+                    "artist": "♪♪♪♪♪"
+                },
+                {
+                    "id": "butterfly",
+                    "genre": "Butterfly",
+                    "title": "Butterfly",
+                    "artist": "♪♪♪♪♪"
+                },
+                {
+                    "id": "loversoul",
+                    "genre": "ラバソー",
+                    "title": "ラバソー　～lover soul～",
+                    "artist": "♪♪♪♪♪"
+                },
+                {
+                    "id": "jap",
+                    "genre": "ＪＡＰ",
+                    "title": "JAP",
+                    "artist": "♪♪♪♪♪"
+                }
+            ]
+        },
+        {
+            "category": "original",
+            "category-display": "ORIGINAL",
+            "list": [
+                {
+                    "id": "positive2",
+                    "genre": "ポジティブ２",
+                    "title": "Heart of dreamｓ",
+                    "artist": "浅井裕子"
+                },
+                {
+                    "id": "parabola",
+                    "genre": "パラボラ",
+                    "title": "パラボラ",
+                    "artist": "パーキッツ"
+                },
+                {
+                    "id": "electro_rock",
+                    "genre": "エレクトロロック",
+                    "title": "Let it go",
+                    "artist": "阿部靖広"
+                },
+                {
+                    "id": "teasy_listening",
+                    "genre": "茶事リスニング",
+                    "title": "Afternoon tea dream",
+                    "artist": "ELEKTEL"
+                },
+                {
+                    "id": "mandolin_step",
+                    "genre": "マンドリンステップ",
+                    "title": "Liebe～望郷～",
+                    "artist": "劇団レコードfeat.さな"
+                },
+                {
+                    "id": "cutie_elepop",
+                    "genre": "キューティーエレポップ",
+                    "title": "Blow Me Up",
+                    "artist": "Sota Fujimori feat. Calin"
+                },
+                {
+                    "id": "girls_country",
+                    "genre": "ガールズ・カントリー",
+                    "title": "Twin Trip",
+                    "artist": "Mika☆Rika"
+                },
+                {
+                    "id": "j-housepop2",
+                    "genre": "Ｊ－ハウスポップ２",
+                    "title": "心のコラージュ",
+                    "artist": "つよし"
+                },
+                {
+                    "id": "castlevania_slot",
+                    "genre": "悪魔城ドラキュラSLOT",
+                    "title": "trezire de spirit",
+                    "artist": "倉持武志"
+                },
+                {
+                    "id": "symphonic_jinraku",
+                    "genre": "シンフォニック陣楽",
+                    "title": "天の峠",
+                    "artist": "Q-Mex"
+                },
+                {
+                    "id": "nadeshikometal",
+                    "genre": "撫子メタル",
+                    "title": "黒髪乱れし修羅となりて",
+                    "artist": "村正クオリア"
+                },
+                {
+                    "id": "chipnroll",
+                    "genre": "チップンロール",
+                    "title": "青春ピコピコRock'n Roll",
+                    "artist": "ウッチーズＺ"
+                },
+                {
+                    "id": "hiprock5",
+                    "genre": "ヒップロック５",
+                    "title": "一激必翔",
+                    "artist": "Des-ROW・組スペシアルr"
+                },
+                {
+                    "id": "hyper_japanesque3",
+                    "genre": "ハイパージャパネスク３",
+                    "title": "天上の星 ～黎明記～",
+                    "artist": "TЁЯRA"
+                },
+                {
+                    "id": "nustyle_rockabilly",
+                    "genre": "ＮＵスタイルロカビリー",
+                    "title": "Electronic or Treat!",
+                    "artist": "PON"
+                },
+                {
+                    "id": "tranceeuro_remix",
+                    "genre": "トランスユーロREMIX",
+                    "title": "Foundation of You (DJ Command mix)",
+                    "artist": "水橋舞"
+                },
+                {
+                    "id": "technohosomichi",
+                    "genre": "てくのほそみち",
+                    "title": "五七五",
+                    "artist": "V.C.O."
+                },
+                {
+                    "id": "ladiesmetal",
+                    "genre": "レディースメタル",
+                    "title": "麗破唖甦～rebirth～",
+                    "artist": "good-cool ft. AYANO"
+                },
+                {
+                    "id": "oriental_folklore",
+                    "genre": "オリエンタルフォークロア",
+                    "title": "旗",
+                    "artist": "Akino"
+                }
+            ]
+        },
+        {
+            "category": "secret",
+            "category-display": "SECRET",
+            "list": [
+                {
+                    "id": "getsufuma-den",
+                    "genre": "月風魔伝",
+                    "title": "月風魔伝",
+                    "artist": "コナミ矩形波動剣"
+                },
+                {
+                    "id": "chamberpop",
+                    "genre": "チェンバーポップ",
+                    "title": "ボクをさがしに",
+                    "artist": "Sana"
+                },
+                {
+                    "id": "happycute_rock",
+                    "genre": "ハッピーキュートロック",
+                    "title": "starmine -swallowtail mix-",
+                    "artist": "ピンクターボ "
+                },
+                {
+                    "id": "gekokujo_drumnbass",
+                    "genre": "下克上ドラムンベース",
+                    "title": "Ge-Ko-Ku-Jo",
+                    "artist": "kors k feat. MC RALLY"
+                },
+                {
+                    "id": "lovely_kunoichi_pop",
+                    "genre": "ラブリーくのいちポップ",
+                    "title": "くさびかたびら☆下克上! ～ 暗躍の樹海ＭＩＸ ",
+                    "artist": "SATOE vs. 上野圭市 transforming into MASAO♥Lovely"
+                },
+                {
+                    "id": "ai_datepop",
+                    "genre": "Ａ．Ｉ．デイトポップ",
+                    "title": "隅田川夏恋歌",
+                    "artist": "seiya-murai feat.ALT"
+                },
+                {
+                    "id": "ikki",
+                    "genre": "一揆",
+                    "title": "IKKI! Explosion",
+                    "artist": "ひので155"
+                }
+            ]
+        },
+        {
+            "category": "event",
+            "category-display": "ポップン風雲録",
+            "list": [
+                {
+                    "id": "forestsnow2",
+                    "genre": "フォレストスノウ２",
+                    "title": "白夜幻燈",
+                    "artist": "猫叉Master"
+                },
+                {
+                    "id": "des-nawa",
+                    "genre": "デスナワ",
+                    "title": "夢添うてぃ（desmix2010）",
+                    "artist": "Des-ROW"
+                },
+                {
+                    "id": "reckless_rave",
+                    "genre": "レクリスレイヴ",
+                    "title": "GOLD RUSH (pop'n GOLD MOUNTAIN rush)",
+                    "artist": "DJ YOSHITAKA-G feat.Michael a la mode"
+                },
+                {
+                    "id": "aranami_enka",
+                    "genre": "荒波演歌",
+                    "title": "しまなみ海道　男道",
+                    "artist": "すがはらやすのり"
+                },
+                {
+                    "id": "momovisual",
+                    "genre": "桃ヴィジュアル",
+                    "title": "紅ノ桃",
+                    "artist": "good-cool ft. Jouei from 閃-4-AIM"
+                },
+                {
+                    "id": "heatup",
+                    "genre": "ヒートアップ",
+                    "title": "Ignited Night",
+                    "artist": "HHH"
+                },
+                {
+                    "id": "jongara_spiritual",
+                    "genre": "じょんがらスピリチュアル",
+                    "title": "TSUGARU",
+                    "artist": "RevenG VS DE-SIRE"
+                },
+                {
+                    "id": "melodic_speed",
+                    "genre": "メロディックスピード",
+                    "title": "TRINITY ARROW",
+                    "artist": "TAG"
+                },
+                {
+                    "id": "jinki_progressive",
+                    "genre": "陣旗プログレッシブ",
+                    "title": "風林火山",
+                    "artist": "96"
+                },
+                {
+                    "id": "psychobilly",
+                    "genre": "サイコビリー",
+                    "title": "辞世テンプレート",
+                    "artist": "ギラギラ眼帯団"
+                },
+                {
+                    "id": "muhon_trance",
+                    "genre": "謀叛トランス",
+                    "title": "NOBUNAGA",
+                    "artist": "本能寺尊之"
+                },
+                {
+                    "id": "tai-ko_hip-hop",
+                    "genre": "太閤ヒップホップ",
+                    "title": "三日天下モンキー",
+                    "artist": "秀よし君"
+                },
+                {
+                    "id": "funkykota",
+                    "genre": "ファンキーコタ",
+                    "title": "AKATSUKI",
+                    "artist": "L.E.D. Vs GUHROOVY"
+                },
+                {
+                    "id": "senranemaki",
+                    "genre": "戦乱絵巻",
+                    "title": "西軍||∴⊂SEKIGAHARA⊃∴||東軍",
+                    "artist": "Yukky+DES"
+                },
+                {
+                    "id": "paradise_showa",
+                    "genre": "パラダイス昭和",
+                    "title": "情熱 fun! fun!",
+                    "artist": "YAMATO組"
+                },
+                {
+                    "id": "kurofunefunk",
+                    "genre": "黒船ファンク",
+                    "title": "ペリーでぇす！",
+                    "artist": "ブタパンチ"
+                },
+                {
+                    "id": "hiprock3_5",
+                    "genre": "ヒップロック3.5",
+                    "title": "差無来！！",
+                    "artist": "Des-ROW・組"
+                },
+                {
+                    "id": "megane_kayo",
+                    "genre": "メガネ歌謡",
+                    "title": "ポップミュージック続論",
+                    "artist": "ギラギラメガネ楽団 feat.MAKI"
+                },
+                {
+                    "id": "ginrock",
+                    "genre": "吟ロック",
+                    "title": "O・KU・NI",
+                    "artist": "seiya-murai feat.楽芭"
+                },
+                {
+                    "id": "mongol_remix",
+                    "genre": "モンゴルREMIX",
+                    "title": "怒れる大きな白い馬～S.S.D.の役～",
+                    "artist": "M.B.D Rmx by S.S.D."
+                },
+                {
+                    "id": "fluch",
+                    "genre": "フルーフ",
+                    "title": "水面静かに大地の烈日わたらせて",
+                    "artist": "あさき"
+                },
+                {
+                    "id": "manyoka",
+                    "genre": "フルーフ",
+                    "title": "防人恋歌",
+                    "artist": "あさき"
+                },
+                {
+                    "id": "zenpokoen_beats",
+                    "genre": "前方後円ビーツ",
+                    "title": "踊る埴輪",
+                    "artist": "響レイ奈 &amp; AKIRA YAMAOKA"
+                },
+                {
+                    "id": "dogu_techno",
+                    "genre": "土偶テクノ",
+                    "title": "Dogu Ditty",
+                    "artist": "Dp.Honda feat.まりも"
+                },
+                "oriental_mythorogy",
+                {
+                    "id": "furukoto",
+                    "genre": "ふること",
+                    "title": "序",
+                    "artist": "かむがたりべ"
+                },
+                {
+                    "id": "nengo_rock",
+                    "genre": "年号ロック",
+                    "title": "すわひでおのゴロゴロ年号覚え唄決定版",
+                    "artist": "すわひでお"
+                }
+            ]
+        }
+    ],
+    "sections": []
+}
