@@ -19,6 +19,7 @@ ul.popnhistory>li {
     border-radius: 0.25em;
     border: 1px dashed var(--main-text-color);
     position: relative;
+    cursor: pointer;
 }
 
 ul.popnhistory>li>p.release {

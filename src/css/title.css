@@ -18,6 +18,7 @@ ul.select-list>li {
     padding: 4px;
     border-radius: 4px;
     border: 1px dashed var(--sub-text-color);
+    cursor: pointer;
 }
 ul.select-list>li:hover {
     border: 1px dashed var(--accent-color);
@@ -96,6 +97,7 @@ ul.song-list>li {
     padding: 0 0.5rem;
     border-radius: 4px;
     border: 1px dashed var(--sub-text-color);
+    cursor: pointer;
 }
 ul.song-list>li:hover {
     border: 1px dashed var(--accent-color);

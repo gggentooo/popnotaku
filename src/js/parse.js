@@ -13,7 +13,7 @@ async function parseHistory(src) {
 
     for (var i = 0; i < raw.length; i++) {
         const d = raw[i];
-        const content = `<li>
+        const content = `<li onclick="location.href='https://popnotaku.lnaba.reisen/title/?t=` + d["number"] + `'">
                 <p class="title-ko">` + d["title-ko"] + `</p>
                 <p class="title-ja">` + d["title"] + `</p>
                 <p class="release">` + d["release"] + `</p>
