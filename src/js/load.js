@@ -98,24 +98,81 @@ async function loadSongPage(num) {
     }
 
     const target = document.getElementById("song-content");
-    target.innerHTML = "";
+    target.innerHTML = ``;
 
     const return_button = `<button onclick="location.href='../title/?t=` + idxdata["debut"] + `'">⇐작품 페이지로 돌아가기</button>`
+
     target.innerHTML += return_button;
 
     const basic_info = `
         <p class="genre">` + idxdata["genre"] + `</p>
         <h1>` + idxdata["title"] + `</h1>
-        <h2>기본 정보</h2>
-        <div class="baseinfo-wrap">
-            <div class="baseinfo-lr"><span>추가작</span><span>` + idxdata["debut"] + `</span></div>
-            <div class="baseinfo-lr"><span>아티스트</span><span>` + idxdata["artist"] + `</span></div>
-            <div class="baseinfo-lr"><span>담당 캐릭터</span><span>` + idxdata["chara"] + `</span></div>
-            <a href="https://remywiki.com/` + idxdata["remy"] + `" target="_blank">RemyWiki 바로가기</a>
-        </div>
+        <section>
+            <h2 id="base-info">기본 정보<button class="fold" onclick="foldSection('base-info')">단락 접기/펼치기</button></h2>
+            <div class="baseinfo-wrap">
+                <div class="baseinfo-lr"><span>추가작</span><span>` + idxdata["debut"] + `</span></div>
+                <div class="baseinfo-lr"><span>아티스트</span><span>` + idxdata["artist"] + `</span></div>
+                <div class="baseinfo-lr"><span>담당 캐릭터</span><span>` + idxdata["chara"] + `</span></div>
+                <a href="https://remywiki.com/` + idxdata["remy"] + `" target="_blank">RemyWiki 바로가기</a>
+            </div>
+        </section>
     `;
 
     target.innerHTML += basic_info;
 
-    target.innerHTML += `<small>본 문구가 보이는 경우 해당 악곡의 상세 정보 백업이 이루어지지 않은 상태입니다.</small>`;
+    const response_individualjson = await fetch(`../../src/data/song/detail/` + idxdata["id"] + `_` + idxdata["slug"] + `.json`);
+    const content_raw = await response_individualjson.json();
+
+    if (content_raw[0]["section-content"].length === 0 && content_raw[1]["section-content"].length === 0) {
+        target.innerHTML += `<small>본 문구가 보이는 경우 해당 악곡의 상세 정보 백업이 이루어지지 않은 상태입니다.</small>`;
+        return;
+    }
+
+    for (var i = 0; i < content_raw.length; i++) {
+        const section_raw = content_raw[i];
+        if (section_raw["section-content"].length != 0) {
+            if (section_raw["section-id"] === "staff-comment" && section_raw["section-content"].length <= 1) continue;
+            var section_content = `
+                <section>
+                    <h2 id="` + section_raw["section-id"] + `">` + section_raw["section-display-name"] + `<button class="fold" onclick="foldSection('` + section_raw["section-id"] + `')">단락 접기/펼치기</button></h2>
+            `;
+
+            if (section_raw["source"] != undefined) {
+                section_content += `<a class="source" href="` + section_raw["source"] + `" target="_blank">출처 (외부 링크)</a>`;
+            }
+
+            const s_c_raw = section_raw["section-content"];
+            const s_c_raw_ko = section_raw["section-content-ko"];
+            if (section_raw["section-id"] === "staff-comment") {
+                for (var j = 0; j < s_c_raw.length; j++) {
+                    const staff_cont = s_c_raw[j];
+                    section_content += `
+                        <section class="staff-comment-content">
+                            <h3>` + staff_cont["staff-name"] + `</h3>
+                    `;
+                    if (staff_cont["comment-content-ko"] != "") {
+                        section_content += `<p class="ko">` + staff_cont["comment-content-ko"] + `</p>`;
+                    }
+                    section_content += `<p class="ja">` + staff_cont["comment-content"] + `</p></section>`;
+                }
+            } else {
+                for (var j = 0; j < s_c_raw.length; j++) {
+                    const cont = s_c_raw[j];
+                    const cont_ko = s_c_raw_ko[j];
+                    if (cont_ko != "") {
+                        section_content += `<p class="ko">` + cont_ko + `</p>`;
+                    }
+                    section_content += `<p class="ja">` + cont + `</p>`;
+                }
+            }
+
+            if (section_raw["section-id"] === "music-comment" || section_raw["section-id"] === "chara-comment") {
+                section_content += `<span class="signature">` + section_raw["signature"] + `</span>`;
+            }
+
+            section_content += `</section>`;
+
+            target.innerHTML += section_content;
+        }
+    }
 }

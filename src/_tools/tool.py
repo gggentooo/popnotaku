@@ -249,18 +249,21 @@ def generate_song_individual_frames():
             obj = [
                 {
                     "section-id": "music-comment",
+                    "section-display-name": "아티스트 코멘트",
                     "section-content": [],
                     "signature": "",
                     "section-content-ko": []
                 },
                 {
                     "section-id": "chara-comment",
+                    "section-display-name": "캐릭터 코멘트",
                     "section-content": [],
                     "signature": "",
                     "section-content-ko": []
                 },
                 {
                     "section-id": "staff-comment",
+                    "section-display-name": "스태프 코멘트",
                     "section-content": [
                         {
                             "staff-name": "",
@@ -268,6 +271,18 @@ def generate_song_individual_frames():
                             "comment-content-ko": ""
                         }
                     ]
+                },
+                {
+                    "section-id": "lyrics-game",
+                    "section-display-name": "가사 (인게임 버전)",
+                    "section-content": [],
+                    "section-content-ko": []
+                },
+                {
+                    "section-id": "lyrics-full",
+                    "section-display-name": "가사 (풀 버전)",
+                    "section-content": [],
+                    "section-content-ko": []
                 }
             ]
             json.dump(obj, outfile, ensure_ascii=False)

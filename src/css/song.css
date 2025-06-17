@@ -1,3 +1,15 @@
+h2 {
+    font-size: 1.25rem;
+}
+
+section#song-content {
+    padding: 0 0;
+    border: none;
+}
+section#song-content>section:has(#music-comment)>p:last-of-type:not(:first-of-type) {
+    margin-top: 2rem;
+}
+
 p.genre {
     font-size: 1rem;
     font-weight: 500;
@@ -11,7 +23,6 @@ p.genre {
 #song-content>h1 {
     border-bottom: 1.5px dashed var(--main-text-color);
     width: fit-content;
-    margin-bottom: 1rem;
 }
 
 .baseinfo-wrap {
@@ -34,4 +45,36 @@ p.genre {
 }
 .baseinfo-wrap>a {
     font-size: 0.9em;
+}
+
+span.signature {
+    font-size: 1rem;
+    font-weight: 700;
+    color: var(--inverted-text-color);
+    background: var(--inverted-background-color);
+    border-radius: 0.25rem;
+    padding: 0.2rem 0.5rem;
+    margin-left: auto;
+}
+
+section.staff-comment-content {
+    padding: 0.25rem 0.5rem;
+    border: none;
+    border-radius: 0;
+    border-left: 2px solid var(--accent-color);
+}
+section.staff-comment-content>h3 {
+    font-size: 1rem;
+    color: var(--inverted-text-color);
+    background: var(--inverted-background-color);
+    width: fit-content;
+    border-radius: 0.25rem;
+    padding: 0.2rem 0.5rem;
+}
+section.staff-comment-content>h3::before {
+    display: none;
+}
+
+a.source {
+    width: fit-content;
 }
