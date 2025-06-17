@@ -26,8 +26,12 @@ p.genre {
     gap: 1rem;
     align-items: center;
     justify-content: baseline;
+    color: var(--main-text-color);
 }
 .baseinfo-wrap>.baseinfo-lr>:first-child {
     min-width: 6rem;
     color: var(--sub-text-color);
+}
+.baseinfo-wrap>a {
+    font-size: 0.9em;
 }

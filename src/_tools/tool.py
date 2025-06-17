@@ -240,10 +240,41 @@ def sift_rawdata():
     
     outfile = open('./data_sifted.json', 'w', encoding='utf8')
     json.dump(out, outfile, ensure_ascii=False)
-    
+
+def generate_song_individual_frames():
+    with open('../data/song/all.json', 'r') as raw:
+        dat = json.load(raw)
+        for entry in dat:
+            outfile = open(f"../data/song/detail/{entry["id"]}_{entry["slug"]}.json", 'w', encoding='utf8')
+            obj = [
+                {
+                    "section-id": "music-comment",
+                    "section-content": [],
+                    "signature": "",
+                    "section-content-ko": []
+                },
+                {
+                    "section-id": "chara-comment",
+                    "section-content": [],
+                    "signature": "",
+                    "section-content-ko": []
+                },
+                {
+                    "section-id": "staff-comment",
+                    "section-content": [
+                        {
+                            "staff-name": "",
+                            "comment-content": "",
+                            "comment-content-ko": ""
+                        }
+                    ]
+                }
+            ]
+            json.dump(obj, outfile, ensure_ascii=False)
+
 
 def main():
-    generate_history_individual_json()
+    generate_song_individual_frames()
 
 if __name__ == "__main__":
     main()
