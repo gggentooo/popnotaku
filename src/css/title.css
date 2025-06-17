@@ -19,6 +19,9 @@ ul.select-list>li {
     border-radius: 4px;
     border: 1px dashed var(--sub-text-color);
 }
+ul.select-list>li:hover {
+    border: 1px dashed var(--accent-color);
+}
 ul.select-list>li.selected {
     background: var(--inverted-background-color);
     border: 1px solid var(--inverted-background-color);
@@ -94,6 +97,9 @@ ul.song-list>li {
     border-radius: 4px;
     border: 1px dashed var(--sub-text-color);
 }
+ul.song-list>li:hover {
+    border: 1px dashed var(--accent-color);
+}
 ul.song-list>li.selected {
     background: var(--inverted-background-color);
     border: 1px solid var(--inverted-background-color);
@@ -109,8 +115,9 @@ ul.song-list>li>span.genre {
     margin-right: auto;
     border-radius: 0.25em;
     padding: 0.25em;
-    border: 1px dashed;
     text-align: left;
+    background: var(--sub-text-color);
+    color: var(--inverted-text-color);
 }
 ul.song-list>li>span.r-title {
     font-size: 0.6em;
@@ -124,6 +131,15 @@ ul.song-list>li>span.artist {
 
 ul.song-list>li:hover>span {
     color: var(--accent-color);
+}
+ul.song-list>li:hover>span.genre {
+    font-size: 0.8em;
+    margin-right: auto;
+    border-radius: 0.25em;
+    padding: 0.25em;
+    text-align: left;
+    background: var(--accent-color);
+    color: var(--inverted-text-color);
 }
 ul.song-list>li.selected>span {
     color: var(--inverted-text-color);
