@@ -6,9 +6,6 @@ section#song-content {
     padding: 0 0;
     border: none;
 }
-section#song-content>section:has(#music-comment)>p:last-of-type:not(:first-of-type) {
-    margin-top: 2rem;
-}
 
 p.genre {
     font-size: 1rem;
