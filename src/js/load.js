@@ -62,8 +62,16 @@ async function loadTitleContent(num) {
 
     const subsection_songs = document.createElement("section");
     subsection_songs.innerHTML += `<h3 id="m_c">수록곡<button class="fold" onclick="foldSection('m_c')">단락 접기/펼치기</button></h3>
-        <small>상하 스크롤 가능 | 타일 클릭 시 악곡 상세 페이지로 이동됩니다.</small>`;
-    var songlist = `<ul class="song-list">`;
+        <small>상하 스크롤 가능<br>타일 클릭 시 악곡 상세 페이지로 이동됩니다.<br>아래 버튼을 이용해 정렬 방식을 바꿀 수 있습니다.</small>
+        <div class="sort-button-wrap">
+            <button onclick="sortSongs('id');">ID</button>
+            <button onclick="sortSongs('title');">제목</button>
+            <button onclick="sortSongs('genre');">장르</button>
+            <button onclick="sortSongs('artist');">아티스트</button>
+            <button onclick="sortSongs('chara');">캐릭터</button>
+        </div>
+        `;
+    var songlist = `<ul class="song-list" id="song-list">`;
     for (var i = 0; i < songs_raw.length; i++) {
         entry = songs_raw[i];
         if (entry["debut"] === num.toString()) {
@@ -92,6 +100,19 @@ async function loadTitleContent(num) {
 
     const loading = document.getElementById("loading");
     loading.classList.add("hide");
+}
+
+function sortSongs(what) {
+    var categoryItems = document.querySelectorAll("[data-" + what + "]");
+    var categoryItemsArray = Array.from(categoryItems);
+
+    let sorted = categoryItemsArray.sort(sorter);
+
+    function sorter(a, b) {
+        return a.dataset.categoryGroup.localeCompare(b.dataset.categoryGroup);
+    }
+
+    sorted.forEach(e => document.querySelector("#song-list").appendChild(e))
 }
 
 async function loadSongPage(num) {
@@ -129,7 +150,7 @@ async function loadSongPage(num) {
             <div class="baseinfo-wrap">
                 <div class="baseinfo-lr"><span>추가작</span><span>` + idxdata["debut"] + `</span></div>
                 <div class="baseinfo-lr"><span>아티스트</span><span>` + idxdata["artist"] + `</span></div>
-                <div class="baseinfo-lr"><span>담당 캐릭터</span><span>` + idxdata["chara"] + `</span></div>
+                <div class="baseinfo-lr"><span>담당 캐릭터</span><span><a href="../chara/?c=` + idxdata["chara"] + `">` + idxdata["chara"] + `</a></span></div>
                 <a href="https://remywiki.com/` + idxdata["remy"] + `" target="_blank">RemyWiki 바로가기</a>
             </div>
     `;
@@ -203,4 +224,30 @@ async function loadSongPage(num) {
         section_content += `</section>`;
         target.innerHTML += section_content;
     }
+}
+
+async function loadChara(querystr) {
+    const response = await fetch("../../src/data/chara/all.json");
+    const charlist_raw = await response.json();
+    var chardata_raw = {};
+    var failed_charasearch = true;
+
+    for (var i = 0; i < charlist_raw.length; i++) {
+        const entry = charlist_raw[i];
+        if (entry["name-dat"] === querystr) {
+            chardata_raw = entry;
+            failed_charasearch = false;
+            break;
+        }
+    }
+
+    const target = document.getElementById("chara-content");
+    target.innerHTML = ``;
+
+    if (failed_charasearch) {
+        target.innerHTML += `<em>404: 요청하신 캐릭터 정보를 찾지 못했습니다.</em>`;
+        return;
+    }
+
+    target.innerHTML += `<em>` + chardata_raw["name-dat"] + `</em>`;
 }

@@ -47,6 +47,16 @@ ul.select-list>li>.title-ja {
     font-size: 0.45em;
 }
 
+.sort-button-wrap {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    max-width: 80vw;
+    margin-top: -0.5rem;
+}
+
 #title-frame>h2 {
     line-height: 1em;
 }
@@ -124,7 +134,7 @@ ul.song-list>li>span.genre {
     border-radius: 0.25em;
     padding: 0.25em;
     text-align: left;
-    background: var(--sub-background-color-mild);
+    background: var(--sub-background-color);
     color: var(--inverted-text-color);
 }
 ul.song-list>li>span.r-title {

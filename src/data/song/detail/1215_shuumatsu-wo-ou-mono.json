@@ -1,1 +1,48 @@
-[{"type": "meta", "source-original": [{"link": "", "description": ""}], "source-translation": "", "finished-backup": false, "finished-translate": false}, {"type": "section-comment", "section-id": "music-comment", "section-display-name": "아티스트 코멘트", "section-content": [{"entry-author": "", "entry-content": "", "entry-content-ko": ""}]}, {"type": "section-comment", "section-id": "chara-comment", "section-display-name": "캐릭터 코멘트", "section-content": [{"entry-author": "", "entry-content": "", "entry-content-ko": ""}]}, {"type": "section-staff", "section-id": "staff-comment", "section-display-name": "스태프 코멘트", "section-content": [{"entry-author": "", "entry-content": "", "entry-content-ko": ""}]}]
+[
+    {
+        "type": "meta",
+        "source-original": [
+            {
+                "link": "https://web.archive.org/web/20150507133539/http://www.konami.jp/bemani/popn/sunnypark/mc/16/judge.html",
+                "description": "(아카이브) 서니 파크 곡/캐릭터 소개 페이지"
+            }
+        ],
+        "source-translation": "",
+        "finished-backup": true,
+        "finished-translate": false
+    },
+    {
+        "type": "section-comment",
+        "section-id": "music-comment",
+        "section-display-name": "아티스트 코멘트",
+        "section-content": [
+            {
+                "entry-author": "ショッチョー",
+                "entry-content": "どうも、どういうわけか合作続きのショッチョーです！今年だけで4曲目になります。\nなんと今回はドカンと来ちゃって早、数ヶ月経つ男、PON君と作らせていただきました！\n最近、PON君がボーカル続きだったこともあり、インストでドカンとさせたいということでお互い合意しました。\nまあ、まだ世に出てない時点でこれを書いてるので、実際のところは怖くて仕方ないですけどね！\nみんなで終末を追おうぜ！",
+                "entry-content-ko": ""
+            },
+            {
+                "entry-author": "PON",
+                "entry-content": "今回は連動企画ということで、たまにはこんな曲をどうかな？と、ハードなインスト4つ打ちにしてみました。\n分担としては、ショッチョーさんがつくった曲を元に、ボクがアレンジを施した感じです。\n4つ打ちな中にも他の4つ打ち曲に無い個性を求めて、変拍子＆ユニゾンな箇所を入れたりと、「ゲーム音楽としてのポップさ」を大事にしました。\nつくっている最中は新しい発見があったりして楽しかったです。\n合作は成長を促しますね！まさに相乗効果。促進がヤバいです。",
+                "entry-content-ko": ""
+            }
+        ]
+    },
+    {
+        "type": "section-comment",
+        "section-id": "chara-comment",
+        "section-display-name": "캐릭터 코멘트",
+        "section-content": [
+            {
+                "entry-author": "ちっひ",
+                "entry-content": "ステキなアイデアをたくさん頂いたので、アニメにする係をやりました。\nイベントもりもり盛りだくさんで目の回るような日々ですが、みなさんの目指す先にこの子がいるんだ！と思って魂をこめました。\n\nフライングディスクに終わりを迎えた星の記憶を集めるスペーストップブリーダーのカノープスさん。\n設定をアニメで伝え切れるかがいつも気を使うところですがこれは難しかった～；\n\n当初、PONさんから「ノーヴァのライバルキャラ的なイメージ」と伺っていたのですがデザインを進めるうちにあまり関係なくなってきたので\n最終的にはご近所さん的な感じで友情出演とさせていただきました。\n「すみません～ウチの犬がまたオジャマしちゃって～」「いえいえいいんですよ～」\n宇宙のご近所さんてとっても遠そうですね。\n\n厳しいスケジュールにもかかわらずjubeatデザイナーのT田さんが奮起してくださったので、デザイン面でもちゃんとコラボすることができました！ありがとうございました！\nそんなjubeatのジャケットのカノープスさんもお供のワンコもイケメン度マシマシで幸せです。\nぜひチェックしてみてくださいね～",
+                "entry-content-ko": ""
+            },
+            {
+                "entry-author": "T田",
+                "entry-content": "キャラ担当のちっひさんとキャッキャウフフとギャラクティカトークしているうちに\nあれよあれよとカノープスが生まれました。\n星が終わるときその歴史をディスクに残す伝説のトップブリーダー\n…気品溢れる佇まいにうっとりせずにはいられない。\nでも、地球にはまだ訪れないでいただきたく！",
+                "entry-content-ko": ""
+            }
+        ]
+    }
+]

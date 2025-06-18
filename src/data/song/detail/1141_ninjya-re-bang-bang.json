@@ -1,1 +1,53 @@
-[{"type": "meta", "source-original": [{"link": "", "description": ""}], "source-translation": "", "finished-backup": false, "finished-translate": false}, {"type": "section-comment", "section-id": "music-comment", "section-display-name": "아티스트 코멘트", "section-content": [{"entry-author": "", "entry-content": "", "entry-content-ko": ""}]}, {"type": "section-comment", "section-id": "chara-comment", "section-display-name": "캐릭터 코멘트", "section-content": [{"entry-author": "", "entry-content": "", "entry-content-ko": ""}]}, {"type": "section-staff", "section-id": "staff-comment", "section-display-name": "스태프 코멘트", "section-content": [{"entry-author": "", "entry-content": "", "entry-content-ko": ""}]}]
+[
+    {
+        "type": "meta",
+        "source-original": [
+            {
+                "link": "https://web.archive.org/web/20150508131351/http://www.konami.jp/bemani/popn/sunnypark/mc/11/ninjari.html",
+                "description": "(아카이브) 서니 파크 곡 소개 페이지"
+            }
+        ],
+        "source-translation": "",
+        "finished-backup": true,
+        "finished-translate": false
+    },
+    {
+        "type": "section-comment",
+        "section-id": "music-comment",
+        "section-display-name": "아티스트 코멘트",
+        "section-content": [
+            {
+                "entry-author": "PON",
+                "entry-content": "ジャパニーズニンジャネー！\nキャリサーンキャリサーン、ニドメノトウジョウヨー！\nエンジョイスルネー！\nなんでこのテンションでインデックスコメント書いたのか謎なんですが、結構気に入っています。\n多分、忍者といえば外国の方が喜ぶんじゃないか！\n外国の方が喜んだらこんな感じじゃないか？という独自の視点だったのではないかと思います。\n\nコンセプトがはっきりしている楽曲なので、譜面の調整もすんなり出来ました。\n飛び跳ねるような手さばきが体感できる、まさに忍者なゲーム内容です。",
+                "entry-content-ko": ""
+            }
+        ]
+    },
+    {
+        "type": "section-staff",
+        "section-id": "staff-comment",
+        "section-display-name": "스태프 코멘트",
+        "section-content": [
+            {
+                "entry-author": "まめしば",
+                "entry-content": "音楽シミュレーションゲーム界最多の忍者曲収録ゲーム、それが、pop'n music！(←発音良く)\n今までいろいろ忍者の曲聞いてきましたけど、今までにない方向性というか、ポップ＆キュート＆オシャレ！ですね。\n点数も出やすくて好きです。\n\nさて問題。\nこの曲を、打席に入る時の曲に使用していた選手がいる。\n○か？×か？",
+                "entry-content-ko": ""
+            },
+            {
+                "entry-author": "が～す～",
+                "entry-content": "「にんじゃりばんばん」の意味を知ろうと歌詞を見たら、半分くらいが「にんじゃりばんばん」で埋め尽くされていました。。",
+                "entry-content-ko": ""
+            },
+            {
+                "entry-author": "shio",
+                "entry-content": "きゃりーぱみゅぱみゅさん２曲目です！ほんとかわいくてゲームとの相性もよいステキなアーティストさんで、また曲をお招きできてよかった～。BEMANI全機種遊んだら、最近の曲はほぼ網羅できちゃう快進撃ですね。アルバムも楽しみだ～。\nしかもポップンは・・・・にんじゃ！です！\nやった～。歴代の忍者ソングでお分かりのように、つねづね恋と忍者は親和性が高いと思ってたんですよ！ポップンチームは忍者好きという噂がまことしやかに囁かれておりますが、いいことですね。クールジャパンはみんなだいすき『NINJA』で推していけばいいのに･･･って思ってます。国際会議にどんでん返しで登場したり･･･。天井に張り付いてるのもインパクト大ですね。外交姿勢としては常にイニシアティブをとらなくては！その際はアドバイサーとしていつでも政府の召喚に応じる構えです。\n\nついつい忍者のコメント多めになったこと、遺憾の意を示す次第です。",
+                "entry-content-ko": ""
+            },
+            {
+                "entry-author": "wac",
+                "entry-content": "つけまつけるに続いて一作に同アーティストの版権曲が二曲入っちゃうのはかの筋肉少女帯以来だったりしますでしょうか。\nさすが世界のきゃりーさんです。\n僕らいつまでたっても忍者ラブですから忍者の曲はいくらあってもいいと思うのです。\nそしてなにしろ忍者ラブゆえに担当キャラクターにもことかかないのです。\nことかかないにもほどがあり過ぎたために、あやめ派とシノビアン子派とシノビアン派とヨシオ派で担当キャラを争う激論激闘がくりひろげられたとかなんとか。\n今思うと案外ヨシオも良かったかもしれないと思う。ハートのシャツだし。",
+                "entry-content-ko": ""
+            }
+        ]
+    }
+]

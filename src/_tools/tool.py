@@ -298,9 +298,59 @@ def generate_song_individual_frames():
             ]
             json.dump(obj, outfile, ensure_ascii=False)
 
+def generate_chara_json():
+    charalist = []
+    
+    with open('../data/song/all.json', 'r') as raw:
+        dat = json.load(raw)
+        for entry in dat:
+            charaobj = None
+            for chara in charalist:
+                if chara["name-dat"] == entry["chara"]:
+                    charaobj = chara
+            if charaobj == None:
+                charaobj = {
+                    "name-dat": entry["chara"],
+                    "name-ja": "",
+                    "name-ko": "",
+                    "debut": entry["debut"],
+                    "songs": [entry["id"]],
+                    "designer": "",
+                    "profile": {
+                        "description": "",
+                        "from": "",
+                        "hobby": "",
+                        "likes": "",
+                        "dislikes": ""
+                    },
+                    "profile-ko": {
+                        "description": "",
+                        "from": "",
+                        "hobby": "",
+                        "likes": "",
+                        "dislikes": ""
+                    },
+                    "birthday": {
+                        "month": 1,
+                        "day": 1
+                    },
+                    "quotes": [
+                        {
+                            "from": "",
+                            "content": "",
+                            "content-ko": ""
+                        }
+                    ]
+                }
+                charalist.append(charaobj)
+            else:
+                charaobj["songs"].append(entry["id"])
+            
+    outfile = open('./chara_all.json', 'w', encoding='utf8')
+    json.dump(charalist, outfile, ensure_ascii=False)
 
 def main():
-    generate_song_individual_frames()
+    generate_chara_json()
 
 if __name__ == "__main__":
     main()

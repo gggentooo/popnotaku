@@ -1,1 +1,70 @@
-[{"type": "meta", "source-original": [{"link": "", "description": ""}], "source-translation": "", "finished-backup": false, "finished-translate": false}, {"type": "section-comment", "section-id": "music-comment", "section-display-name": "아티스트 코멘트", "section-content": [{"entry-author": "", "entry-content": "", "entry-content-ko": ""}]}, {"type": "section-comment", "section-id": "chara-comment", "section-display-name": "캐릭터 코멘트", "section-content": [{"entry-author": "", "entry-content": "", "entry-content-ko": ""}]}, {"type": "section-staff", "section-id": "staff-comment", "section-display-name": "스태프 코멘트", "section-content": [{"entry-author": "", "entry-content": "", "entry-content-ko": ""}]}]
+[
+    {
+        "type": "meta",
+        "source-original": [
+            {
+                "link": "https://web.archive.org/web/20150715040706/http://www.konami.jp/bemani/popn/sunnypark/mc/03/drumn.html",
+                "description": "(아카이브) 서니 파크 곡/캐릭터 소개 페이지"
+            }
+        ],
+        "source-translation": "",
+        "finished-backup": true,
+        "finished-translate": false
+    },
+    {
+        "type": "section-comment",
+        "section-id": "music-comment",
+        "section-display-name": "아티스트 코멘트",
+        "section-content": [
+            {
+                "entry-author": "Positive MAD-crew と ニアちゃんのうたのひと",
+                "entry-content": "機械ヴォイスですか？\nってよっく聞かれます。\nが、実は、全部生身の音声なのです。\n（positive MA氏談/よく作ったような「ソフトのような」声だねって言われるんですよ）\nそう、新進気鋭のヴォーカリスト、ニアちゃんのうたのひとのデヴュー曲になりました。\n収録は、なんとぶっつけ本番でやってもらうと言う暴挙\n（MAD氏談/ごめんなさい）\nそんな状況の中、紆余曲折をへて生まれだした曲なのです。\n（positive MA氏談/あれは軽やかだったね）\nそういえば、読み方について、いろいろいくつか議論があったみたいだね\n（D-crew氏談/なんだか幻想てきな感じを意識したとかしないとか・・）\nうたについては、そこそこやれました的な話も出ています。\n（ニアちゃんのうたのひと談/はじめまして～）\n\nで始めの話に戻って、機械ヴォイスの件ですが、\n生身の声の証拠って言うのもなんですが、\nニアちゃんのうたのひとは、これからもガンガンに歌ってもらうよていです。\n（MAD氏談/そんなの、全然証拠にならないよ！・・）\n\nさてと、\n（クルー氏談/垂れ流されていくような早い時代の流れの中でも、\nきっと、頭に焼きつくネガみたいものはあるんですよ・・・）",
+                "entry-content-ko": ""
+            }
+        ]
+    },
+    {
+        "type": "section-comment",
+        "section-id": "chara-comment",
+        "section-display-name": "캐릭터 코멘트",
+        "section-content": [
+            {
+                "entry-author": "ちっひ",
+                "entry-content": "みなさまこんにちは、憂鬱ガールのニアちゃんです。\n自分の殻にとじこもりがちで、ずっとそのまま生きていたら自分の気持ちさえもわからなくなってしまったけれど\n音楽が彼女の人生に、まるで寄せる小さな波のように、気づけば大海原へと連れ出してくれた…\n他動的に見えるけれど底の方には歌うことが大好きな気持ちがゆらゆら漂っているような、そんなイメージです。\n\nとはいえ、アイドルという職業はメンタルがある程度強くないと続かない気がするので心配です。\n良プレーを連発すると画面の右側でちっさくなってプルプルふるえちゃうので、彼女の気持ちが落ち着くまでは優しくしてあげてくださいね。\n\nこの曲は出だしから刻んでいく感じがカッコイイです！\n歌詞が超ネガティブなのに、曲調のせいなのか聴いていると気分があがる！不思議です～\n\nさっそくjubeatに曲と一緒にニアちゃんもお呼ばれしましたので、ジャケットを描かせていただきました(*^o^*）う～れし～い！\nジャケのラフデザインではアーティスト名が下の方に居たのですが、pMcさんのご指摘で「ここがいい」という現在の位置にもってきたら\nニアちゃんが(｡_。)｡oハッ！！アタシいいアーティスト名ひらめいたわ～みたいな感じになっちゃいました。\nそこが気に入っています。\n\nずっと曲名の読み仮名がはっきりしないので今回の曲紹介が楽しみです。\n…って結局わからないのか～",
+                "entry-content-ko": ""
+            }
+        ]
+    },
+    {
+        "type": "section-staff",
+        "section-id": "staff-comment",
+        "section-display-name": "스태프 코멘트",
+        "section-content": [
+            {
+                "entry-author": "masaru",
+                "entry-content": "さいごまで、positive な MAD の crew さんの曲コメ読みましたが、結局曲名なんて読むのかわからずじまい。\nだれか、カタカナで教えてください！",
+                "entry-content-ko": ""
+            },
+            {
+                "entry-author": "eimy",
+                "entry-content": "まず歌詞が印象的でしたね～。かなり鬱々してたので、キャラクターがちゃんと超絶かわいい子になって、救いがあってよかったなって思います！\n一回聴いただけで頭に残ってしまう曲がたまにあるんですが、この曲もそうですね！！しかし切ない曲調で風呂場で鼻歌ってるとちょっと悲しくなるのでやめました。",
+                "entry-content-ko": ""
+            },
+            {
+                "entry-author": "PON",
+                "entry-content": "positive MAD-crewにお願いした、アグレッシブな意欲作です。\nゲームも高難易度を意識した意欲作になっています。\nポップンサニパ着荷記念によって、jubeatでも遊べるようになっている意欲作です。\nキャラクターのニアちゃんも人気で、これはもうとっても意欲作です！！",
+                "entry-content-ko": ""
+            },
+            {
+                "entry-author": "shio",
+                "entry-content": "曲選択のデモ部分が好きでプレーするたび「まだかな？まだかな？きたー！」ってもりあがるのが好きです。初プレー時は「あれっ博士が歌うの？」っておどろきましたが後半の二人の掛け合いもばっちりでステキです。\nこの曲とキャラは私がすこしお休みいただいてた間に完成してたので楽ちんでよかったな～。なので、ユーザーさん視点で楽しめたのでさらに印象深いです。ほんと意欲作誕生ですし、大人気でやったね！これからもこれでぜひっ。",
+                "entry-content-ko": ""
+            },
+            {
+                "entry-author": "まめしば",
+                "entry-content": "電子的なんですが、なんだか幼少時代のような雰囲気のある、不思議な曲です。\nたぶん原因はBメロ？\nなんかこう、童謡というか、もういいかい、や、はないちもんめっぽい空気です。\nちなみに曲名のMynarcoは読み方から意味に至るまで、微妙に謎です。\n謎と言えばボーカルですね。\nMAD氏なんでしょうか、クルー氏なんでしょうか、positive MA氏なんでしょうか、D-crew氏なんでしょうか・・・\n謎は残ります。",
+                "entry-content-ko": ""
+            }
+        ]
+    }
+]
