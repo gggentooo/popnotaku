@@ -62,15 +62,15 @@ async function loadTitleContent(num) {
 
     const subsection_songs = document.createElement("section");
     subsection_songs.innerHTML += `<h3 id="m_c">수록곡<button class="fold" onclick="foldSection('m_c')">단락 접기/펼치기</button></h3>
-        <small>상하 스크롤 가능 | 타일 클릭 시 악곡 상세 페이지로 이동됩니다.<br>색이 옅은 타일은 곡의 상세 정보 백업이 완료되지 않음을 뜻합니다.</small>`;
+        <small>상하 스크롤 가능 | 타일 클릭 시 악곡 상세 페이지로 이동됩니다.</small>`;
     var songlist = `<ul class="song-list">`;
     for (var i = 0; i < songs_raw.length; i++) {
         entry = songs_raw[i];
         if (entry["debut"] === num.toString()) {
-            const response_individualjson = await fetch(`../../src/data/song/detail/` + entry["id"] + `_` + entry["slug"] + `.json`);
-            const song_raw = await response_individualjson.json();
+            // const response_individualjson = await fetch(`../../src/data/song/detail/` + entry["id"] + `_` + entry["slug"] + `.json`);
+            // const song_raw = await response_individualjson.json();
             var class_name = "";
-            if (song_raw[0]["finished-backup"] === true) { class_name = "has-data"; }
+            // if (song_raw[0]["finished-backup"] === true) { class_name = "has-data"; }
 
             var element = `
                 <li class="` + class_name + `" onclick="location.href='../song/?s=` + entry["id"] + `'" data-title='` + entry["fw-title"] + `' data-genre='` + entry["fw-genre"] + `' data-artist='` + entry["artist"] + `' data-chara='` + entry["chara"] + `'>
@@ -87,7 +87,7 @@ async function loadTitleContent(num) {
     subsection_songs.innerHTML += songlist;
 
     target.appendChild(subsection_songs);
-    
+
     target.innerHTML += `<em>! 본 문구가 보이는 경우 해당 작품의 상세 정보 백업이 완료되지 않은 상태입니다.</em>`;
 
     const loading = document.getElementById("loading");
