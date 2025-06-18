@@ -59,7 +59,6 @@ async function loadTitleContent(num) {
             <span class="release">` + raw["release"] + `</span>
         </div>`;
     target.innerHTML += t_top;
-    target.innerHTML += `<em>! 본 문구가 보이는 경우 해당 작품의 상세 정보 백업이 완료되지 않은 상태입니다.</em>`;
 
     const subsection_songs = document.createElement("section");
     subsection_songs.innerHTML += `<h3 id="m_c">수록곡<button class="fold" onclick="foldSection('m_c')">단락 접기/펼치기</button></h3>
@@ -88,6 +87,8 @@ async function loadTitleContent(num) {
     subsection_songs.innerHTML += songlist;
 
     target.appendChild(subsection_songs);
+    
+    target.innerHTML += `<em>! 본 문구가 보이는 경우 해당 작품의 상세 정보 백업이 완료되지 않은 상태입니다.</em>`;
 
     const loading = document.getElementById("loading");
     loading.classList.add("hide");
