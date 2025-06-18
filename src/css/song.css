@@ -2,6 +2,40 @@ h2 {
     font-size: 1.25rem;
 }
 
+ul.source-links {
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+    gap: 0.2em;
+    font-size: 0.8rem;
+    color: var(--sub-text-color);
+}
+ul.source-links>li {
+    border: none;
+    padding: 0;
+}
+
+ul.nav-links::before {
+    content: "페이지 목차";
+    font-weight: 700;
+    padding: 0.25em 0.75em;
+    border-radius: 0.25em;
+    background: var(--inverted-background-color);
+    color: var(--inverted-text-color);
+    width: fit-content;
+}
+ul.nav-links {
+    display: flex;
+    flex-direction: column;
+    gap: 0.25em;
+    font-size: 0.9rem;
+    color: var(--main-text-color);
+}
+ul.nav-links>li {
+    border: none;
+    padding: 0.2em;
+}
+
 section#song-content {
     padding: 0 0;
     border: none;

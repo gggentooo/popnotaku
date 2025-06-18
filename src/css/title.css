@@ -102,6 +102,9 @@ ul.song-list>li {
     border: 1px dashed var(--sub-text-color);
     cursor: pointer;
 }
+ul.song-list>li.has-data {
+    border: 1px dashed var(--main-text-color);
+}
 ul.song-list>li:hover {
     border: 1px dashed var(--accent-color);
 }
@@ -121,7 +124,7 @@ ul.song-list>li>span.genre {
     border-radius: 0.25em;
     padding: 0.25em;
     text-align: left;
-    background: var(--sub-text-color);
+    background: var(--sub-background-color-mild);
     color: var(--inverted-text-color);
 }
 ul.song-list>li>span.r-title {
@@ -133,7 +136,13 @@ ul.song-list>li>span.artist {
     margin-left: auto;
     text-align: right;
 }
-
+ul.song-list>li.has-data>span {
+    color: var(--main-text-color);
+}
+ul.song-list>li.has-data>span.genre {
+    background: var(--inverted-background-color);
+    color: var(--inverted-text-color);
+}
 ul.song-list>li:hover>span {
     color: var(--accent-color);
 }

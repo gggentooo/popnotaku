@@ -248,41 +248,52 @@ def generate_song_individual_frames():
             outfile = open(f"../data/song/detail/{entry["id"]}_{entry["slug"]}.json", 'w', encoding='utf8')
             obj = [
                 {
+                    "type": "meta",
+                    "source-original": [
+                        {
+                            "link": "",
+                            "description": ""
+                        }
+                    ],
+                    "source-translation": "",
+                    "finished-backup": False,
+                    "finished-translate": False
+                },
+                {
+                    "type": "section-comment",
                     "section-id": "music-comment",
                     "section-display-name": "아티스트 코멘트",
-                    "section-content": [],
-                    "signature": "",
-                    "section-content-ko": []
-                },
-                {
-                    "section-id": "chara-comment",
-                    "section-display-name": "캐릭터 코멘트",
-                    "section-content": [],
-                    "signature": "",
-                    "section-content-ko": []
-                },
-                {
-                    "section-id": "staff-comment",
-                    "section-display-name": "스태프 코멘트",
                     "section-content": [
                         {
-                            "staff-name": "",
-                            "comment-content": "",
-                            "comment-content-ko": ""
+                            "entry-author": "",
+                            "entry-content": "",
+                            "entry-content-ko": ""
                         }
                     ]
                 },
                 {
-                    "section-id": "lyrics-game",
-                    "section-display-name": "가사 (인게임 버전)",
-                    "section-content": [],
-                    "section-content-ko": []
+                    "type": "section-comment",
+                    "section-id": "chara-comment",
+                    "section-display-name": "캐릭터 코멘트",
+                    "section-content": [
+                        {
+                            "entry-author": "",
+                            "entry-content": "",
+                            "entry-content-ko": ""
+                        }
+                    ]
                 },
                 {
-                    "section-id": "lyrics-full",
-                    "section-display-name": "가사 (풀 버전)",
-                    "section-content": [],
-                    "section-content-ko": []
+                    "type": "section-staff",
+                    "section-id": "staff-comment",
+                    "section-display-name": "스태프 코멘트",
+                    "section-content": [
+                        {
+                            "entry-author": "",
+                            "entry-content": "",
+                            "entry-content-ko": ""
+                        }
+                    ]
                 }
             ]
             json.dump(obj, outfile, ensure_ascii=False)
