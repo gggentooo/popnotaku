@@ -50,7 +50,7 @@ async function loadTitleContent(num) {
     }
 
     const target = document.getElementById("title-frame");
-    target.innerHTML = "";
+    target.innerHTML = `<small id="loading">로딩 중...</small>`;
 
     const t_top = `
         <h2>` + raw["title"] + `</h2>
@@ -88,6 +88,9 @@ async function loadTitleContent(num) {
     subsection_songs.innerHTML += songlist;
 
     target.appendChild(subsection_songs);
+
+    const loading = document.getElementById("loading");
+    loading.classList.add("hide");
 }
 
 async function loadSongPage(num) {
