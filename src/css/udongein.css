@@ -115,6 +115,26 @@ em {
     font-style: normal;
     font-weight: bold;
 }
+em.alert {
+    background-color: var(--sub-background-color);
+    font-weight: 400;
+    position: relative;
+}
+em.alert::before {
+    content: '';
+    display: inline-block;
+    width: 4px;
+    height: 100%;
+    background-color: var(--accent-color);
+    position: absolute;
+    left: -0.5em;
+}
+em.alert.backup::before {
+    background-color: var(--apple-red);
+}
+em.alert.translate::before {
+    background-color: var(--apple-green);
+}
 q {
     font-weight: 700;
     color: var(--sub-text-color);

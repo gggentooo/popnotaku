@@ -19,7 +19,10 @@ document.addEventListener('DOMContentLoaded', () => {
         <span class="pagetitle" onclick="location.href='https://popnotaku.lnaba.reisen/'">popnotaku</span>
         <button class="darkmode" onclick="toggleDark()">다크 모드 켜기/끄기</button>
         <nav>
-            <a href="https://popnotaku.lnaba.reisen/">홈으로</a>
+            <a href="https://popnotaku.lnaba.reisen/">홈</a>
+            <a href="https://popnotaku.lnaba.reisen/title/">작품 일람</a>
+            <a href="https://popnotaku.lnaba.reisen/song/">곡 일람</a>
+            <a href="https://popnotaku.lnaba.reisen/chara/">캐릭터</a>
         </nav>
         `;
 

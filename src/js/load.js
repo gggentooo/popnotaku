@@ -62,7 +62,7 @@ async function loadTitleContent(num) {
 
     target.appendChild(loadSongList(songs_raw, num));
 
-    target.innerHTML += `<em>! 본 문구가 보이는 경우 해당 작품의 상세 정보 백업이 완료되지 않은 상태입니다.</em>`;
+    target.innerHTML += `<em class="alert backup">! 본 문구가 보이는 경우 해당 작품의 상세 정보 백업이 완료되지 않은 상태입니다.</em>`;
 
     const loading = document.getElementById("loading");
     loading.classList.add("hide");
@@ -168,7 +168,7 @@ async function loadSongPage(num) {
         <section>
             <h2 id="base-info">기본 정보<button class="fold" onclick="foldSection('base-info')">단락 접기/펼치기</button></h2>
             <div class="baseinfo-wrap">
-                <div class="baseinfo-lr"><span>추가작</span><span>` + idxdata["debut"] + `</span></div>
+                <div class="baseinfo-lr"><span>추가작</span><span><a href="../title/?t=` + idxdata["debut"] + `">` + idxdata["debut"] + `</a></span></div>
                 <div class="baseinfo-lr"><span>아티스트</span><span>` + idxdata["artist"] + `</span></div>
                 <div class="baseinfo-lr"><span>담당 캐릭터</span><span><a href="../chara/?c=` + idxdata["chara"] + `">` + idxdata["chara"] + `</a></span></div>
                 <a href="https://remywiki.com/` + idxdata["remy"] + `" target="_blank">RemyWiki 바로가기</a>
@@ -179,11 +179,11 @@ async function loadSongPage(num) {
     const content_raw = await response_individualjson.json();
 
     if (idxdata["finished-backup"] === false) {
-        target.innerHTML += `<em>! 본 문구가 보이는 경우 해당 악곡의 상세 정보 백업이 이루어지지 않은 상태입니다.</em>`;
+        target.innerHTML += `<em class="alert backup">! 본 문구가 보이는 경우 해당 악곡의 상세 정보 백업이 이루어지지 않은 상태입니다.</em>`;
         do_not_load = true;
     }
     if (idxdata["finished-translate"] === false) {
-        target.innerHTML += `<em>! 본 문구가 보이는 경우 해당 악곡의 상세 정보의 번역이 완료되지 않은 상태입니다.</em>`;
+        target.innerHTML += `<em class="alert translate">! 본 문구가 보이는 경우 해당 악곡의 상세 정보의 번역이 완료되지 않은 상태입니다.</em>`;
     }
 
     var source_links = `<ul class="source-links">`
@@ -251,6 +251,7 @@ async function loadChara(querystr) {
     const charlist_raw = await response.json();
     var chardata_raw = {};
     var failed_charasearch = true;
+    var do_not_load = false;
 
     for (var i = 0; i < charlist_raw.length; i++) {
         const entry = charlist_raw[i];
@@ -269,7 +270,83 @@ async function loadChara(querystr) {
         return;
     }
 
-    target.innerHTML += `<em>` + chardata_raw["name-dat"] + `</em>`;
+    const return_button = `<button onclick="location.href='../chara/'">⇐전체 캐릭터 일람으로 돌아가기</button>`
+    target.innerHTML += return_button;
+
+    if (chardata_raw["finished-backup"] === false) {
+        target.innerHTML += `<em class="alert backup">! 본 문구가 보이는 경우 해당 캐릭터의 상세 정보 백업이 이루어지지 않은 상태입니다.</em>`;
+        do_not_load = true;
+    }
+    if (chardata_raw["finished-translate"] === false) {
+        target.innerHTML += `<em class="alert translate">! 본 문구가 보이는 경우 해당 캐릭터의 상세 정보의 번역이 완료되지 않은 상태입니다.</em>`;
+    }
+
+    var song_list = `<ul class="song-list" id="song-list">`;
+    const response_songs = await fetch("../../src/data/song/all.json");
+    const songlist_raw = await response_songs.json();
+    for (var i = 0; i < songlist_raw.length; i++) {
+        const song_entry = songlist_raw[i];
+        for (var j = 0; j < chardata_raw["songs"].length; j++) {
+            if (song_entry["id"] === chardata_raw["songs"][j]) {
+                song_list += `<li data-genre="` + song_entry["fw-genre"] + `" onclick="location.href='../song/?s=` + song_entry["id"] + `'"><span class="genre">` + song_entry["genre"] + `</span><a href="../song/?s=` + song_entry["id"] + `">` + song_entry["title"] + `</a></li>`;
+            }
+        }
+    }
+    song_list += `</ul>`
+
+    var basic_info = `
+        <p class="name-dat">` + chardata_raw["name-dat"] + `</p>
+        <h1>` + chardata_raw["name-ja"] + `</h1>
+        <span class="name-ko">` + chardata_raw["name-ko"] + `</span>
+        <section>
+            <h2 id="base-info">기본 정보<button class="fold" onclick="foldSection('base-info')">단락 접기/펼치기</button></h2>
+            <div class="baseinfo-wrap">
+                <div class="baseinfo-lr"><span>데뷔 작품</span><span><a href="../title/?t=` + chardata_raw["debut"] + `">` + chardata_raw["debut"] + `</a></span></div>
+                <div class="baseinfo-lr"><span>캐릭터 디자인</span><span>` + chardata_raw["designer"] + `</span></div>
+                <div class="baseinfo-lr"><span>사과 색깔</span><span class="apple apple-` + chardata_raw["apple-color"] + `"></span></div>
+                <div class="baseinfo-lr"><span>생일</span><span>` + chardata_raw["birthday"]["month"] + `월 ` + chardata_raw["birthday"]["day"] + `일</span></div>
+                <div class="baseinfo-lr"><span>등장 악곡</span><span>` + song_list + `</span></div>
+            </div>
+        </section>
+    `;
+
+    target.innerHTML += basic_info;
+    sortSongs("genre");
+
+    if (do_not_load) { return; }
+
+    var profile = `
+        <section class="profile">
+            <h2 id="profile">프로필<button class="fold" onclick="foldSection('profile')">단락 접기/펼치기</button></h2>
+            <div class="baseinfo-wrap">
+                <div class="baseinfo-lr"><span>생일</span><span>` + chardata_raw["birthday"]["month"] + `월 ` + chardata_raw["birthday"]["day"] + `일</span></div>
+                <div class="baseinfo-lr"><span>설명</span><div><span class="ko">` + chardata_raw["profile-ko"]["description"] + `</span><br><span class="ja">` + chardata_raw["profile"]["description"] + `</span></div></div>
+                <div class="baseinfo-lr"><span>출신지</span><div><span class="ko">` + chardata_raw["profile-ko"]["from"] + `</span><br><span class="ja">` + chardata_raw["profile"]["from"] + `</span></div></div>
+                <div class="baseinfo-lr"><span>취미</span><div><span class="ko">` + chardata_raw["profile-ko"]["hobby"] + `</span><br><span class="ja">` + chardata_raw["profile"]["hobby"] + `</span></div></div>
+                <div class="baseinfo-lr"><span>좋아하는 것</span><div><span class="ko">` + chardata_raw["profile-ko"]["likes"] + `</span><br><span class="ja">` + chardata_raw["profile"]["likes"] + `</span></div></div>
+                <div class="baseinfo-lr"><span>싫어하는 것</span><div><span class="ko">` + chardata_raw["profile-ko"]["dislikes"] + `</span><br><span class="ja">` + chardata_raw["profile"]["dislikes"] + `</span></div></div>
+            </div>
+        </section>
+    `;
+    target.innerHTML += profile;
+
+    var quotes = `
+        <section class="quotes">
+            <h2 id="quotes">대사<button class="fold" onclick="foldSection('quotes')">단락 접기/펼치기</button></h2>
+    `;
+    const quotes_raw = chardata_raw["quotes"];
+    for (var i = 0; i < quotes_raw.length; i++) {
+        const quotedata = quotes_raw[i];
+        quotes += `
+            <div class="quote">
+                <span class="source">` + quotedata["from"] + `</span>
+                <p>` + quotedata["content-ko"] + `</p>
+                <p class="ja">` + quotedata["content"] + `</p>
+            </div>
+        `;
+    }
+    quotes += `</section>`;
+    target.innerHTML += quotes;
 }
 
 function loadCharaList(charlist_raw) {

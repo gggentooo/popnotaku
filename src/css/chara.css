@@ -41,7 +41,7 @@ section#chara-content {
     border: none;
 }
 
-p.genre {
+p.name-dat {
     font-size: 1rem;
     font-weight: 500;
     padding: 0.25rem 1rem;
@@ -54,6 +54,12 @@ p.genre {
 #chara-content>h1 {
     border-bottom: 1.5px dashed var(--main-text-color);
     width: fit-content;
+}
+
+.name-ko {
+    font-size: 0.9rem;
+    color: var(--sub-text-color);
+    margin-top: -0.5rem;
 }
 
 a.source {
@@ -149,4 +155,128 @@ ul.chara-list>li:hover>span {
 ul.chara-list>li:hover>span.debut {
     background: var(--accent-color);
     color: var(--inverted-text-color);
+}
+
+.baseinfo-wrap {
+    display: flex;
+    flex-direction: column;
+    gap: 0.2rem;
+    align-items: baseline;
+    justify-content: center;
+}
+.baseinfo-wrap>.baseinfo-lr {
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+    justify-content: baseline;
+    color: var(--main-text-color);
+}
+.baseinfo-wrap>.baseinfo-lr>:first-child {
+    min-width: 6rem;
+    color: var(--sub-text-color);
+}
+.baseinfo-wrap>.baseinfo-lr a {
+    font-weight: 500;
+}
+.baseinfo-wrap>a {
+    font-size: 0.9em;
+}
+
+.apple {
+    width: 1.2rem;
+    height: 1rem;
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+.apple::before {
+    content: '';
+    display: inline-block;
+    width: 1rem;
+    height: 100%;
+    border-radius: 100%;
+    border: 1.5px solid var(--apple-red);
+    position: absolute;
+}
+.apple::after {
+    content: '';
+    display: inline-block;
+    width: 1rem;
+    height: 100%;
+    border-radius: 100%;
+    border: 1.5px solid var(--apple-green);
+    position: absolute;
+    left: 0.25em;
+}
+.apple.apple-1::before {
+    border: 1.5px solid var(--apple-green);
+}
+.apple.apple-2::after {
+    border: 1.5px solid var(--apple-red);
+}
+
+.baseinfo-lr>:first-child {
+    margin-bottom: auto;
+}
+ul.song-list {
+    display: flex;
+    flex-direction: column;
+    max-width: 100%;
+    list-style: none;
+    gap: 0.25rem;
+    align-items: baseline;
+    justify-content: center;
+}
+ul.song-list>li {
+    border-bottom: none;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.9rem;
+    gap: 0.25em;
+    cursor: pointer;
+    padding: 0;
+}
+ul.song-list>li span.genre {
+    font-size: 0.8em;
+    font-weight: 500;
+    padding: 0.25em;
+    border-radius: 0.25em;
+    background: var(--inverted-background-color);
+    color: var(--inverted-text-color);
+}
+
+.quote {
+    padding: 0.25rem 0.5rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+    border-left: 2px solid var(--accent-color);
+}
+.quote>.source {
+    font-size: 0.8em;
+    font-weight: 500;
+    padding: 0.25em;
+    border-radius: 0.25em;
+    background: var(--inverted-background-color);
+    color: var(--inverted-text-color);
+    width: fit-content;
+}
+
+@media screen and (max-width: 768px) {
+    ul.song-list>li {
+        flex-direction: column;
+    }
+    ul.song-list>li span.genre {
+        margin-right: auto;
+        font-size: 0.6em;
+    }
+    ul.chara-list>li {
+        width: 10rem;
+        height: 3rem;
+        font-size: 0.75rem;
+        cursor: pointer;
+        position: relative;
+    }
 }
