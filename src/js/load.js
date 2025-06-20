@@ -166,7 +166,7 @@ async function loadSongPage(num) {
         <p class="genre">` + idxdata["genre"] + `</p>
         <h1>` + idxdata["title"] + `</h1>
         <section>
-            <h2 id="base-info">기본 정보<button class="fold" onclick="foldSection('base-info')">단락 접기/펼치기</button></h2>
+            <h2 id="base-info">기본 정보</h2>
             <div class="baseinfo-wrap">
                 <div class="baseinfo-lr"><span>추가작</span><span><a href="../title/?t=` + idxdata["debut"] + `">` + idxdata["debut"] + `</a></span></div>
                 <div class="baseinfo-lr"><span>아티스트</span><span>` + idxdata["artist"] + `</span></div>
@@ -300,7 +300,7 @@ async function loadChara(querystr) {
         <h1>` + chardata_raw["name-ja"] + `</h1>
         <span class="name-ko">` + chardata_raw["name-ko"] + `</span>
         <section>
-            <h2 id="base-info">기본 정보<button class="fold" onclick="foldSection('base-info')">단락 접기/펼치기</button></h2>
+            <h2 id="base-info">기본 정보</h2>
             <div class="baseinfo-wrap">
                 <div class="baseinfo-lr"><span>데뷔 작품</span><span><a href="../title/?t=` + chardata_raw["debut"] + `">` + chardata_raw["debut"] + `</a></span></div>
                 <div class="baseinfo-lr"><span>캐릭터 디자인</span><span>` + chardata_raw["designer"] + `</span></div>
