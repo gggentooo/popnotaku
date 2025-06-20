@@ -1,1 +1,83 @@
-[{"type": "meta", "source-original": [{"link": "", "description": ""}], "source-translation": ""}, {"type": "section-comment", "section-id": "music-comment", "section-display-name": "아티스트 코멘트", "section-content": [{"entry-author": "", "entry-content": "", "entry-content-ko": ""}]}, {"type": "section-comment", "section-id": "chara-comment", "section-display-name": "캐릭터 코멘트", "section-content": [{"entry-author": "", "entry-content": "", "entry-content-ko": ""}]}, {"type": "section-staff", "section-id": "staff-comment", "section-display-name": "스태프 코멘트", "section-content": [{"entry-author": "", "entry-content": "", "entry-content-ko": ""}]}]
+[
+    {
+        "type": "meta",
+        "source-original": [
+            {
+                "link": "https://web.archive.org/web/20170824062632/http://www.konami.jp/bemani/popn/music8/music/pyra.html",
+                "description": "팝픈뮤직 8 곡/캐릭터 소개 페이지"
+            }
+        ],
+        "source-translation": ""
+    },
+    {
+        "type": "section-comment",
+        "section-id": "music-comment",
+        "section-display-name": "아티스트 코멘트",
+        "section-content": [
+            {
+                "entry-author": "世流源風",
+                "entry-content": "日本で目にする文書のほとんどは心理的な追求。\nエジプトの神話が求めるのは肉体の永遠。\nちょっとの違いで物語は一変する。\n人間はもろい。何かにすがりたがる。\nあっしはそれが恐ろしい。",
+                "entry-content-ko": ""
+            }
+        ]
+    },
+    {
+        "type": "section-comment",
+        "section-id": "chara-comment",
+        "section-display-name": "캐릭터 코멘트",
+        "section-content": [
+            {
+                "entry-author": "shio",
+                "entry-content": "ヤード君・ペペ司教に続き、ちんまいナゾいきもの第３弾？\nこれでも最初はもっともっと怖かったのです。\n壁画っぽくぺらぺらしたかんじと、何もかも見透かしているようなフシギ感を意識してアニメを作りました。\nエジプトモチーフはいつの時代の「現代人」を魅了してやみませんよね。いつかピラミッドに登ってみたいなぁー。",
+                "entry-content-ko": ""
+            }
+        ]
+    },
+    {
+        "type": "section-staff",
+        "section-id": "staff-comment",
+        "section-display-name": "스태프 코멘트",
+        "section-content": [
+            {
+                "entry-author": "saito",
+                "entry-content": "ピラミッドをイメージしたEX譜面は幻となりました。",
+                "entry-content-ko": ""
+            },
+            {
+                "entry-author": "TAMA",
+                "entry-content": "EX譜面は、永遠に幻となりました。(推定レベル４0前後、凄まじいまでにずれずれのポップ君が大量に降ってくる譜面でした。）",
+                "entry-content-ko": ""
+            },
+            {
+                "entry-author": "wac",
+                "entry-content": "確かに古代エジプト音楽は現代音楽に通ずるものがあると思いますが、それよりも最初にこの曲が筐体から流れた時、そのあまりのインパクトにAC事業部のサウンドスタッフが皆集まってきた光景が忘れられません。",
+                "entry-content-ko": ""
+            },
+            {
+                "entry-author": "tera",
+                "entry-content": "怪しさ爆発。　大好きな曲なんですが、微妙なズレが(涙)",
+                "entry-content-ko": ""
+            },
+            {
+                "entry-author": "shio",
+                "entry-content": "開発初期に「サスペンス」というジャンル枠があったのですが、この曲の方がよっぽど怖いので流れてしまいました。これも古代のフシギパワーでしょうか。",
+                "entry-content-ko": ""
+            },
+            {
+                "entry-author": "ミコシバ",
+                "entry-content": "この曲をはじめて耳にした人のあの顔が忘れられません。",
+                "entry-content-ko": ""
+            },
+            {
+                "entry-author": "ちょび。",
+                "entry-content": "妖しい...。妖しすぎる！ピラミッドパワー炸裂ですね！！！",
+                "entry-content-ko": ""
+            },
+            {
+                "entry-author": "シマＱ",
+                "entry-content": "なんだか暗示にかかりそうだけど、負けないわ。",
+                "entry-content-ko": ""
+            }
+        ]
+    }
+]

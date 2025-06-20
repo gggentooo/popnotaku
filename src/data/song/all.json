@@ -2273,7 +2273,7 @@
         "slug": "eien-toiu-na-no-biyaku",
         "remy": "Eien_toiu_na_no_biyaku",
         "chara": "PAPYRUS",
-        "finished-backup": false,
+        "finished-backup": true,
         "finished-translate": false,
         "is-original": true
     },

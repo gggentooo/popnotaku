@@ -3957,43 +3957,83 @@
     },
     {
         "name-dat": "PAPYRUS",
-        "name-ja": "",
-        "name-ko": "",
+        "name-ja": "パピルス",
+        "name-ko": "파피루스",
         "debut": "8",
         "songs": [
             164,
             1353,
             1928
         ],
-        "designer": "",
+        "designer": "shio",
         "profile": {
-            "description": "",
-            "from": "",
-            "hobby": "",
-            "likes": "",
-            "dislikes": ""
+            "description": "王家の谷を何千年も守り続ける精霊さん。\n不思議なメロディーと踊りが好きな優しい子だけど、怒らせると…。",
+            "from": "エジプト",
+            "hobby": "カードゲーム",
+            "likes": "太陽",
+            "dislikes": "洪水"
         },
         "profile-ko": {
-            "description": "",
-            "from": "",
-            "hobby": "",
-            "likes": "",
-            "dislikes": ""
+            "description": "왕가의 계곡을 수천년이고 지켜 온 정령님.\n불가사의한 멜로디와 춤을 좋아하는 착한 아이지만, 화 나게 하면...",
+            "from": "이집트",
+            "hobby": "카드 게임",
+            "likes": "태양",
+            "dislikes": "홍수"
         },
         "birthday": {
             "month": 1,
-            "day": 1
+            "day": 3
         },
         "apple-color": 0,
         "quotes": [
             {
-                "from": "",
-                "content": "",
-                "content-ko": ""
+                "from": "NET: ATTACK",
+                "content": "★ミー！！",
+                "content-ko": "★ミー！！"
+            },
+            {
+                "from": "NET: DAMAGE",
+                "content": "Ｘ＋Ｘ！！",
+                "content-ko": "Ｘ＋Ｘ！！"
+            },
+            {
+                "from": "NET: GOOD",
+                "content": "☆Ｙ＆＄＊",
+                "content-ko": "☆Ｙ＆＄＊"
+            },
+            {
+                "from": "NET: BAD",
+                "content": "・・・▲",
+                "content-ko": "・・・▲"
+            },
+            {
+                "from": "NET: WIN",
+                "content": "＠＠＠",
+                "content-ko": "＠＠＠"
+            },
+            {
+                "from": "NET: LOSE",
+                "content": "▲",
+                "content-ko": "▲"
+            },
+            {
+                "from": "튠 스트릿 타운 모드",
+                "content": "△▲♪\n☆￥＆＄＊～\n＠＠＠ノ\n（解読スキルが\n足りないようだ・・・）",
+                "content-ko": "△▲♪\n☆￥＆＄＊～\n＠＠＠ノ\n(해독 스킬이\n부족한 것 같다...)"
+            },
+            {
+                "from": "판타지아 소레유케! 팝픈 퀘스트 (수락)",
+                "content": "△▲♪\n☆￥＆＄＊～\n＠＠＠ノ\n（解読スキルが足りないようだ・・・）",
+                "content-ko": "△▲♪\n☆￥＆＄＊～\n＠＠＠ノ\n(해독 스킬이\n부족한 것 같다...)"
+            },
+            {
+                "from": "판타지아 소레유케! 팝픈 퀘스트 (완료)",
+                "content": "△▲♪\n☆￥＆＄＊～\n＠＠＠ノ\n（音楽の力よ　民衆の力よ　イエー）",
+                "content-ko": "△▲♪\n☆￥＆＄＊～\n＠＠＠ノ\n(음악의 힘이여 민중의 힘이여 이예~)"
             }
         ],
-        "finished-backup": false,
-        "finished-translate": false
+        "finished-backup": true,
+        "finished-translate": true
     },
     {
         "name-dat": "REALLY",
