@@ -133,6 +133,10 @@ ul.chara-list>li.apple-1::before {
 ul.chara-list>li.apple-2::after {
     border: 1px solid var(--apple-red);
 }
+ul.chara-list>li.apple-3::before,
+ul.chara-list>li.apple-3::after {
+    border: none;
+}
 ul.chara-list>li:hover {
     border: 1px dashed var(--accent-color);
 }
@@ -213,6 +217,10 @@ ul.chara-list>li:hover>span.debut {
 }
 .apple.apple-2::after {
     border: 1.5px solid var(--apple-red);
+}
+.apple.apple-3::before,
+.apple.apple-3::after {
+    border: none;
 }
 
 .baseinfo-lr>:first-child {
