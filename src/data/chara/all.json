@@ -553,8 +553,8 @@
     },
     {
         "name-dat": "Yuli",
-        "name-ja": "",
-        "name-ko": "",
+        "name-ja": "ユーリ",
+        "name-ko": "유리",
         "debut": "2",
         "songs": [
             18,
@@ -584,10 +584,10 @@
             "dislikes": ""
         },
         "birthday": {
-            "month": 1,
-            "day": 1
+            "month": 9,
+            "day": 16
         },
-        "apple-color": 0,
+        "apple-color": 1,
         "quotes": [
             {
                 "from": "",
@@ -8942,15 +8942,15 @@
     },
     {
         "name-dat": "Smile",
-        "name-ja": "",
-        "name-ko": "",
-        "debut": "eemall",
+        "name-ja": "スマイル",
+        "name-ko": "스마일",
+        "debut": "4",
         "songs": [
+            59,
             468,
             578,
             1507,
-            1882,
-            59
+            1882
         ],
         "designer": "",
         "profile": {
@@ -8968,10 +8968,10 @@
             "dislikes": ""
         },
         "birthday": {
-            "month": 1,
-            "day": 1
+            "month": 2,
+            "day": 18
         },
-        "apple-color": 0,
+        "apple-color": 1,
         "quotes": [
             {
                 "from": "",
@@ -11033,17 +11033,10 @@
     },
     {
         "name-dat": "Ash",
-        "name-ja": "",
-        "name-ko": "",
-        "debut": "13",
+        "name-ja": "アッシュ",
+        "name-ko": "애쉬",
+        "debut": "3",
         "songs": [
-            608,
-            1375,
-            1575,
-            2080,
-            2149,
-            3089,
-            3129,
             39,
             58,
             91,
@@ -11051,7 +11044,14 @@
             170,
             175,
             232,
-            366
+            366,
+            608,
+            1375,
+            1575,
+            2080,
+            2149,
+            3089,
+            3129
         ],
         "designer": "",
         "profile": {
@@ -11069,10 +11069,10 @@
             "dislikes": ""
         },
         "birthday": {
-            "month": 1,
-            "day": 1
+            "month": 11,
+            "day": 10
         },
-        "apple-color": 0,
+        "apple-color": 1,
         "quotes": [
             {
                 "from": "",
