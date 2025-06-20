@@ -1,8 +1,8 @@
 [
     {
         "name-dat": "RIE♥chan",
-        "name-ja": "",
-        "name-ko": "",
+        "name-ja": "リエちゃん",
+        "name-ko": "리에쨩",
         "debut": "1",
         "songs": [
             0,
@@ -47,10 +47,10 @@
             "dislikes": ""
         },
         "birthday": {
-            "month": 1,
-            "day": 1
+            "month": 2,
+            "day": 14
         },
-        "apple-color": 0,
+        "apple-color": 2,
         "quotes": [
             {
                 "from": "",
@@ -189,8 +189,8 @@
     },
     {
         "name-dat": "JUDY",
-        "name-ja": "",
-        "name-ko": "",
+        "name-ja": "ジュディ",
+        "name-ko": "쥬디",
         "debut": "1",
         "songs": [
             5,
@@ -239,10 +239,10 @@
             "dislikes": ""
         },
         "birthday": {
-            "month": 1,
-            "day": 1
+            "month": 7,
+            "day": 3
         },
-        "apple-color": 0,
+        "apple-color": 2,
         "quotes": [
             {
                 "from": "",
@@ -1039,8 +1039,8 @@
     },
     {
         "name-dat": "Poet",
-        "name-ja": "",
-        "name-ko": "",
+        "name-ja": "ポエット",
+        "name-ko": "포엣",
         "debut": "3",
         "songs": [
             34,
@@ -1079,10 +1079,10 @@
             "dislikes": ""
         },
         "birthday": {
-            "month": 1,
-            "day": 1
+            "month": 2,
+            "day": 17
         },
-        "apple-color": 0,
+        "apple-color": 2,
         "quotes": [
             {
                 "from": "",
@@ -1458,8 +1458,8 @@
     },
     {
         "name-dat": "MZD",
-        "name-ja": "",
-        "name-ko": "",
+        "name-ja": "MZD",
+        "name-ko": "MZD",
         "debut": "4",
         "songs": [
             62,
@@ -1556,10 +1556,10 @@
             "dislikes": ""
         },
         "birthday": {
-            "month": 1,
-            "day": 1
+            "month": 9,
+            "day": 28
         },
-        "apple-color": 0,
+        "apple-color": 1,
         "quotes": [
             {
                 "from": "",
@@ -16606,8 +16606,8 @@
     },
     {
         "name-dat": "ayumu",
-        "name-ja": "",
-        "name-ko": "",
+        "name-ja": "あゆむ",
+        "name-ko": "아유무",
         "debut": "cs13",
         "songs": [
             835,
@@ -16630,10 +16630,10 @@
             "dislikes": ""
         },
         "birthday": {
-            "month": 1,
-            "day": 1
+            "month": 5,
+            "day": 17
         },
-        "apple-color": 0,
+        "apple-color": 2,
         "quotes": [
             {
                 "from": "",
@@ -23251,8 +23251,8 @@
     },
     {
         "name-dat": "RETSU",
-        "name-ja": "",
-        "name-ko": "",
+        "name-ja": "烈",
+        "name-ko": "레츠",
         "debut": "21",
         "songs": [
             1126,
@@ -23281,10 +23281,10 @@
             "dislikes": ""
         },
         "birthday": {
-            "month": 1,
-            "day": 1
+            "month": 10,
+            "day": 24
         },
-        "apple-color": 0,
+        "apple-color": 1,
         "quotes": [
             {
                 "from": "",
@@ -23297,8 +23297,8 @@
     },
     {
         "name-dat": "HIUMI",
-        "name-ja": "",
-        "name-ko": "",
+        "name-ja": "氷海",
+        "name-ko": "히우미",
         "debut": "21",
         "songs": [
             1127,
@@ -23321,10 +23321,10 @@
             "dislikes": ""
         },
         "birthday": {
-            "month": 1,
-            "day": 1
+            "month": 2,
+            "day": 15
         },
-        "apple-color": 0,
+        "apple-color": 2,
         "quotes": [
             {
                 "from": "",
@@ -23337,8 +23337,8 @@
     },
     {
         "name-dat": "FUGA",
-        "name-ja": "",
-        "name-ko": "",
+        "name-ja": "風雅",
+        "name-ko": "후가",
         "debut": "21",
         "songs": [
             1128,
@@ -23363,10 +23363,10 @@
             "dislikes": ""
         },
         "birthday": {
-            "month": 1,
-            "day": 1
+            "month": 10,
+            "day": 23
         },
-        "apple-color": 0,
+        "apple-color": 1,
         "quotes": [
             {
                 "from": "",
@@ -23379,8 +23379,8 @@
     },
     {
         "name-dat": "nia",
-        "name-ja": "",
-        "name-ko": "",
+        "name-ja": "ニア",
+        "name-ko": "니아",
         "debut": "21",
         "songs": [
             1130,
@@ -23408,10 +23408,10 @@
             "dislikes": ""
         },
         "birthday": {
-            "month": 1,
-            "day": 1
+            "month": 6,
+            "day": 10
         },
-        "apple-color": 0,
+        "apple-color": 2,
         "quotes": [
             {
                 "from": "",
@@ -24141,8 +24141,8 @@
     },
     {
         "name-dat": "UTA",
-        "name-ja": "",
-        "name-ko": "",
+        "name-ja": "うた",
+        "name-ko": "우타",
         "debut": "21",
         "songs": [
             1179,
@@ -24165,10 +24165,10 @@
             "dislikes": ""
         },
         "birthday": {
-            "month": 1,
-            "day": 1
+            "month": 12,
+            "day": 7
         },
-        "apple-color": 0,
+        "apple-color": 2,
         "quotes": [
             {
                 "from": "",
@@ -24220,8 +24220,8 @@
     },
     {
         "name-dat": "RINKA",
-        "name-ja": "",
-        "name-ko": "",
+        "name-ja": "鈴花",
+        "name-ko": "린카",
         "debut": "21",
         "songs": [
             1181,
@@ -24248,10 +24248,10 @@
             "dislikes": ""
         },
         "birthday": {
-            "month": 1,
-            "day": 1
+            "month": 3,
+            "day": 31
         },
-        "apple-color": 0,
+        "apple-color": 2,
         "quotes": [
             {
                 "from": "",
@@ -24306,8 +24306,8 @@
     },
     {
         "name-dat": "てまり",
-        "name-ja": "",
-        "name-ko": "",
+        "name-ja": "てまり",
+        "name-ko": "테마리",
         "debut": "21",
         "songs": [
             1186,
@@ -24333,10 +24333,10 @@
             "dislikes": ""
         },
         "birthday": {
-            "month": 1,
+            "month": 8,
             "day": 1
         },
-        "apple-color": 0,
+        "apple-color": 2,
         "quotes": [
             {
                 "from": "",
@@ -24349,8 +24349,8 @@
     },
     {
         "name-dat": "ちせ",
-        "name-ja": "",
-        "name-ko": "",
+        "name-ja": "ちせ",
+        "name-ko": "치세",
         "debut": "21",
         "songs": [
             1187,
@@ -24372,10 +24372,10 @@
             "dislikes": ""
         },
         "birthday": {
-            "month": 1,
-            "day": 1
+            "month": 3,
+            "day": 25
         },
-        "apple-color": 0,
+        "apple-color": 2,
         "quotes": [
             {
                 "from": "",
@@ -24426,8 +24426,8 @@
     },
     {
         "name-dat": "芽兎めう",
-        "name-ja": "",
-        "name-ko": "",
+        "name-ja": "芽兎めう",
+        "name-ko": "메우 메우",
         "debut": "21",
         "songs": [
             1204,
@@ -24454,10 +24454,10 @@
             "dislikes": ""
         },
         "birthday": {
-            "month": 1,
-            "day": 1
+            "month": 8,
+            "day": 5
         },
-        "apple-color": 0,
+        "apple-color": 2,
         "quotes": [
             {
                 "from": "",
@@ -24470,8 +24470,8 @@
     },
     {
         "name-dat": "霜月凛",
-        "name-ja": "",
-        "name-ko": "",
+        "name-ja": "霜月凛",
+        "name-ko": "시모츠키 린",
         "debut": "21",
         "songs": [
             1205,
@@ -24496,10 +24496,10 @@
             "dislikes": ""
         },
         "birthday": {
-            "month": 1,
-            "day": 1
+            "month": 11,
+            "day": 3
         },
-        "apple-color": 0,
+        "apple-color": 2,
         "quotes": [
             {
                 "from": "",
@@ -24887,8 +24887,8 @@
     },
     {
         "name-dat": "Zirkfied",
-        "name-ja": "",
-        "name-ko": "",
+        "name-ja": "ジルクファイド",
+        "name-ko": "지르크파이드",
         "debut": "21",
         "songs": [
             1234,
@@ -24913,10 +24913,10 @@
             "dislikes": ""
         },
         "birthday": {
-            "month": 1,
-            "day": 1
+            "month": 12,
+            "day": 11
         },
-        "apple-color": 0,
+        "apple-color": 1,
         "quotes": [
             {
                 "from": "",
@@ -24929,8 +24929,8 @@
     },
     {
         "name-dat": "pochiko",
-        "name-ja": "",
-        "name-ko": "",
+        "name-ja": "ポチコ",
+        "name-ko": "포치코",
         "debut": "21",
         "songs": [
             1236,
@@ -24952,10 +24952,10 @@
             "dislikes": ""
         },
         "birthday": {
-            "month": 1,
+            "month": 11,
             "day": 1
         },
-        "apple-color": 0,
+        "apple-color": 2,
         "quotes": [
             {
                 "from": "",
@@ -25937,8 +25937,8 @@
     },
     {
         "name-dat": "toa",
-        "name-ja": "",
-        "name-ko": "",
+        "name-ja": "トア",
+        "name-ko": "토아",
         "debut": "22",
         "songs": [
             1346,
@@ -25962,10 +25962,10 @@
             "dislikes": ""
         },
         "birthday": {
-            "month": 1,
-            "day": 1
+            "month": 6,
+            "day": 10
         },
-        "apple-color": 0,
+        "apple-color": 1,
         "quotes": [
             {
                 "from": "",
@@ -28070,8 +28070,8 @@
     },
     {
         "name-dat": "玉藻銀丸",
-        "name-ja": "",
-        "name-ko": "",
+        "name-ja": "玉藻銀丸",
+        "name-ko": "타마모 긴마루",
         "debut": "24",
         "songs": [
             1556,
@@ -28093,10 +28093,10 @@
             "dislikes": ""
         },
         "birthday": {
-            "month": 1,
-            "day": 1
+            "month": 3,
+            "day": 24
         },
-        "apple-color": 0,
+        "apple-color": 1,
         "quotes": [
             {
                 "from": "",
@@ -28187,8 +28187,8 @@
     },
     {
         "name-dat": "Pisce",
-        "name-ja": "",
-        "name-ko": "",
+        "name-ja": "ピスケ",
+        "name-ko": "피스케",
         "debut": "24",
         "songs": [
             1561
@@ -28209,8 +28209,8 @@
             "dislikes": ""
         },
         "birthday": {
-            "month": 1,
-            "day": 1
+            "month": 3,
+            "day": 6
         },
         "apple-color": 0,
         "quotes": [

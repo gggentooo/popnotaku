@@ -238,10 +238,14 @@ ul.song-list>li {
     cursor: pointer;
     padding: 0;
 }
+/* ul.song-list>li[data-original="true"] {
+    border: 2px solid red;
+} */
 ul.song-list>li span.genre {
     font-size: 0.8em;
     font-weight: 500;
-    padding: 0.25em;
+    padding: 0.2em 0.5em;
+    line-height: 1rem;
     border-radius: 0.25em;
     background: var(--inverted-background-color);
     color: var(--inverted-text-color);

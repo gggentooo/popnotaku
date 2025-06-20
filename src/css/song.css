@@ -41,6 +41,10 @@ section#song-content {
     border: none;
 }
 
+ul.song-list {
+    height: 50vh;
+}
+
 p.genre {
     font-size: 1rem;
     font-weight: 500;

@@ -88,7 +88,7 @@ function loadSongList(songs_raw, titlenum) {
             if (entry["finished-backup"] === true) { class_name = "has-data"; }
 
             var element = `
-                <li class="` + class_name + `" onclick="location.href='../song/?s=` + entry["id"] + `'" data-title='` + entry["fw-title"] + `' data-genre='` + entry["fw-genre"] + `' data-artist='` + entry["artist"] + `' data-chara='` + entry["chara"] + `'>
+                <li class="` + class_name + `" onclick="location.href='../song/?s=` + entry["id"] + `'" data-original='` + entry["is-original"] + `' data-title='` + entry["fw-title"] + `' data-genre='` + entry["fw-genre"] + `' data-artist='` + entry["artist"] + `' data-chara='` + entry["chara"] + `'>
                     <span class="genre">` + entry["genre"] + `</span>    
                     <span class="r-title">` + entry["r-title"] + `</span>
                     <span class="title">` + entry["title"] + `</span>
@@ -125,7 +125,7 @@ function sortChara(what) {
     sorted = categoryItemsArray.sort(sorter);
 
     function sorter(a, b) {
-        return a.dataset[what].localeCompare(b.dataset[what]);
+        return a.dataset[what].localeCompare(b.dataset[what], undefined, {numeric: true, sensitivity: 'base'});
     }
     function sorterName(a, b) {
         return a.dataset["name"].localeCompare(b.dataset["name"]);
@@ -267,6 +267,7 @@ async function loadChara(querystr) {
 
     if (failed_charasearch) {
         target.appendChild(loadCharaList(charlist_raw));
+        sortChara("debut");
         return;
     }
 
@@ -288,7 +289,7 @@ async function loadChara(querystr) {
         const song_entry = songlist_raw[i];
         for (var j = 0; j < chardata_raw["songs"].length; j++) {
             if (song_entry["id"] === chardata_raw["songs"][j]) {
-                song_list += `<li data-genre="` + song_entry["fw-genre"] + `" onclick="location.href='../song/?s=` + song_entry["id"] + `'"><span class="genre">` + song_entry["genre"] + `</span><a href="../song/?s=` + song_entry["id"] + `">` + song_entry["title"] + `</a></li>`;
+                song_list += `<li data-original='` + song_entry["is-original"] + `' data-genre="` + song_entry["fw-genre"] + `" onclick="location.href='../song/?s=` + song_entry["id"] + `'"><span class="genre">` + song_entry["genre"] + `</span><a href="../song/?s=` + song_entry["id"] + `">` + song_entry["title"] + `</a></li>`;
             }
         }
     }
@@ -356,7 +357,7 @@ function loadCharaList(charlist_raw) {
         <div class="sort-button-wrap">
             <button onclick="sortChara('name');">이름</button>
             <button onclick="sortChara('debut');">데뷔 작품</button>
-            <button onclick="sortChara('apple');">사과 색</button>
+            <button onclick="sortChara('apple');">사과 색깔</button>
         </div>
         `;
     var charalist = `<ul class="chara-list" id="chara-list">`;
