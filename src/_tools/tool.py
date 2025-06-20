@@ -242,61 +242,35 @@ def sift_rawdata():
     json.dump(out, outfile, ensure_ascii=False)
 
 def generate_song_individual_frames():
+    updated_out = []
+    
     with open('../data/song/all.json', 'r') as raw:
         dat = json.load(raw)
-        for entry in dat:
-            outfile = open(f"../data/song/detail/{entry["id"]}_{entry["slug"]}.json", 'w', encoding='utf8')
-            obj = [
-                {
-                    "type": "meta",
-                    "source-original": [
-                        {
-                            "link": "",
-                            "description": ""
-                        }
-                    ],
-                    "source-translation": "",
-                    "finished-backup": False,
-                    "finished-translate": False
-                },
-                {
-                    "type": "section-comment",
-                    "section-id": "music-comment",
-                    "section-display-name": "아티스트 코멘트",
-                    "section-content": [
-                        {
-                            "entry-author": "",
-                            "entry-content": "",
-                            "entry-content-ko": ""
-                        }
-                    ]
-                },
-                {
-                    "type": "section-comment",
-                    "section-id": "chara-comment",
-                    "section-display-name": "캐릭터 코멘트",
-                    "section-content": [
-                        {
-                            "entry-author": "",
-                            "entry-content": "",
-                            "entry-content-ko": ""
-                        }
-                    ]
-                },
-                {
-                    "type": "section-staff",
-                    "section-id": "staff-comment",
-                    "section-display-name": "스태프 코멘트",
-                    "section-content": [
-                        {
-                            "entry-author": "",
-                            "entry-content": "",
-                            "entry-content-ko": ""
-                        }
-                    ]
-                }
-            ]
-            json.dump(obj, outfile, ensure_ascii=False)
+        for song in dat:
+            detailfile = open(f"../data/song/detail/{song["id"]}_{song["slug"]}.json", 'r')
+            entry = json.load(detailfile)
+            boolbackup = entry[0]["finished-backup"]
+            booltranslate = entry[0]["finished-translate"]
+            obj = {
+                "id": song["id"],
+                "title": song["title"],
+                "fw-title": song["fw-title"],
+                "r-title": song["r-title"],
+                "genre": song["genre"],
+                "fw-genre": song["fw-genre"],
+                "r-genre": song["r-genre"],
+                "artist": song["artist"],
+                "debut": song["debut"],
+                "slug": song["slug"],
+                "remy": song["remy"],
+                "chara": song["chara"],
+                "finished-backup": boolbackup,
+                "finished-translate": booltranslate
+            }
+            updated_out.append(obj)
+            
+    outfile = open('./data_new.json', 'w', encoding='utf8')
+    json.dump(updated_out, outfile, ensure_ascii=False)
 
 def generate_chara_json():
     charalist = []
@@ -334,6 +308,7 @@ def generate_chara_json():
                         "month": 1,
                         "day": 1
                     },
+                    "apple-color": 0,
                     "quotes": [
                         {
                             "from": "",
@@ -350,7 +325,7 @@ def generate_chara_json():
     json.dump(charalist, outfile, ensure_ascii=False)
 
 def main():
-    generate_chara_json()
+    generate_song_individual_frames()
 
 if __name__ == "__main__":
     main()

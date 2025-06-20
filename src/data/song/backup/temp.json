@@ -1,0 +1,36 @@
+{
+    "name-dat": "AYAME",
+    "name-ja": "あやめ",
+    "name-ko": "아야메",
+    "debut": "18",
+    "songs": [
+        916,
+        1141
+    ],
+    "designer": "eimy",
+    "profile": {
+        "description": "",
+        "from": "",
+        "hobby": "",
+        "likes": "",
+        "dislikes": ""
+    },
+    "profile-ko": {
+        "description": "",
+        "from": "",
+        "hobby": "",
+        "likes": "",
+        "dislikes": ""
+    },
+    "birthday": {
+        "month": 5,
+        "day": 5
+    },
+    "quotes": [
+        {
+            "from": "전국열전 곡/캐릭터 소개 페이지",
+            "content": "バイトだけど忍術はかなりの腕前、あんやくぅ～！殿の為なら★てんちゅー☆てんちゅー！",
+            "content-ko": ""
+        }
+    ]
+}

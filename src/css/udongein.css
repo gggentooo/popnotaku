@@ -44,6 +44,9 @@ html {
     --popn-blue: #306ef5;
     --popn-red: #eb2314;
 
+    --apple-red: #ed7b64;
+    --apple-green: #65ac44;
+
     --main-background-color: #eee;
     --main-text-color: #333;
     --sub-background-color: #333d;
@@ -182,6 +185,10 @@ a::after {
 }
 a:hover {
     color: var(--accent-color);
+}
+em>a {
+    font-weight: 500;
+    color: inherit;
 }
 button {
     font-family: '42dot Sans', 'M PLUS Rounded 1c', 'Verdana', sans-serif;

@@ -134,7 +134,7 @@ ul.song-list>li>span.genre {
     border-radius: 0.25em;
     padding: 0.25em;
     text-align: left;
-    background: var(--sub-background-color);
+    background: var(--sub-background-color-mild);
     color: var(--inverted-text-color);
 }
 ul.song-list>li>span.r-title {

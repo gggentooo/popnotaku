@@ -1,1 +1,48 @@
-[{"type": "meta", "source-original": [{"link": "", "description": ""}], "source-translation": "", "finished-backup": false, "finished-translate": false}, {"type": "section-comment", "section-id": "music-comment", "section-display-name": "아티스트 코멘트", "section-content": [{"entry-author": "", "entry-content": "", "entry-content-ko": ""}]}, {"type": "section-comment", "section-id": "chara-comment", "section-display-name": "캐릭터 코멘트", "section-content": [{"entry-author": "", "entry-content": "", "entry-content-ko": ""}]}, {"type": "section-staff", "section-id": "staff-comment", "section-display-name": "스태프 코멘트", "section-content": [{"entry-author": "", "entry-content": "", "entry-content-ko": ""}]}]
+[
+    {
+        "type": "meta",
+        "source-original": [
+            {
+                "link": "",
+                "description": ""
+            }
+        ],
+        "source-translation": ""
+    },
+    {
+        "type": "section-comment",
+        "section-id": "music-comment",
+        "section-display-name": "아티스트 코멘트",
+        "section-content": [
+            {
+                "entry-author": "",
+                "entry-content": "",
+                "entry-content-ko": ""
+            }
+        ]
+    },
+    {
+        "type": "section-comment",
+        "section-id": "chara-comment",
+        "section-display-name": "캐릭터 코멘트",
+        "section-content": [
+            {
+                "entry-author": "",
+                "entry-content": "",
+                "entry-content-ko": ""
+            }
+        ]
+    },
+    {
+        "type": "section-staff",
+        "section-id": "staff-comment",
+        "section-display-name": "스태프 코멘트",
+        "section-content": [
+            {
+                "entry-author": "",
+                "entry-content": "",
+                "entry-content-ko": ""
+            }
+        ]
+    }
+]

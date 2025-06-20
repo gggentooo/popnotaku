@@ -60,9 +60,18 @@ async function loadTitleContent(num) {
         </div>`;
     target.innerHTML += t_top;
 
+    target.appendChild(loadSongList(songs_raw, num));
+
+    target.innerHTML += `<em>! 본 문구가 보이는 경우 해당 작품의 상세 정보 백업이 완료되지 않은 상태입니다.</em>`;
+
+    const loading = document.getElementById("loading");
+    loading.classList.add("hide");
+}
+
+function loadSongList(songs_raw, titlenum) {
     const subsection_songs = document.createElement("section");
-    subsection_songs.innerHTML += `<h3 id="m_c">수록곡<button class="fold" onclick="foldSection('m_c')">단락 접기/펼치기</button></h3>
-        <small>상하 스크롤 가능<br>타일 클릭 시 악곡 상세 페이지로 이동됩니다.<br>아래 버튼을 이용해 정렬 방식을 바꿀 수 있습니다.</small>
+    subsection_songs.innerHTML += `<h3 id="m_c">곡 목록<button class="fold" onclick="foldSection('m_c')">단락 접기/펼치기</button></h3>
+        <small>상하 스크롤로 더 많은 항목을 열람할 수 있습니다.<br>타일 클릭 시 악곡 상세 페이지로 이동됩니다.<br>아래 버튼을 이용해 정렬 방식을 바꿀 수 있습니다.<br>곡 상세 정보의 백업이 완료되지 않은 경우에는 타일이 옅은 색으로 표시됩니다.</small>
         <div class="sort-button-wrap">
             <button onclick="sortSongs('id');">ID</button>
             <button onclick="sortSongs('title');">제목</button>
@@ -74,11 +83,9 @@ async function loadTitleContent(num) {
     var songlist = `<ul class="song-list" id="song-list">`;
     for (var i = 0; i < songs_raw.length; i++) {
         entry = songs_raw[i];
-        if (entry["debut"] === num.toString()) {
-            // const response_individualjson = await fetch(`../../src/data/song/detail/` + entry["id"] + `_` + entry["slug"] + `.json`);
-            // const song_raw = await response_individualjson.json();
+        if (titlenum === null || entry["debut"] === titlenum.toString()) {
             var class_name = "";
-            // if (song_raw[0]["finished-backup"] === true) { class_name = "has-data"; }
+            if (entry["finished-backup"] === true) { class_name = "has-data"; }
 
             var element = `
                 <li class="` + class_name + `" onclick="location.href='../song/?s=` + entry["id"] + `'" data-title='` + entry["fw-title"] + `' data-genre='` + entry["fw-genre"] + `' data-artist='` + entry["artist"] + `' data-chara='` + entry["chara"] + `'>
@@ -94,12 +101,7 @@ async function loadTitleContent(num) {
     songlist += `</ul>`;
     subsection_songs.innerHTML += songlist;
 
-    target.appendChild(subsection_songs);
-
-    target.innerHTML += `<em>! 본 문구가 보이는 경우 해당 작품의 상세 정보 백업이 완료되지 않은 상태입니다.</em>`;
-
-    const loading = document.getElementById("loading");
-    loading.classList.add("hide");
+    return subsection_songs;
 }
 
 function sortSongs(what) {
@@ -109,10 +111,27 @@ function sortSongs(what) {
     let sorted = categoryItemsArray.sort(sorter);
 
     function sorter(a, b) {
-        return a.dataset.categoryGroup.localeCompare(b.dataset.categoryGroup);
+        return a.dataset[what].localeCompare(b.dataset[what]);
     }
 
     sorted.forEach(e => document.querySelector("#song-list").appendChild(e))
+}
+
+function sortChara(what) {
+    var categoryItems = document.querySelectorAll("[data-" + what + "]");
+    var categoryItemsArray = Array.from(categoryItems);
+
+    let sorted = categoryItemsArray.sort(sorterName);
+    sorted = categoryItemsArray.sort(sorter);
+
+    function sorter(a, b) {
+        return a.dataset[what].localeCompare(b.dataset[what]);
+    }
+    function sorterName(a, b) {
+        return a.dataset["name"].localeCompare(b.dataset["name"]);
+    }
+
+    sorted.forEach(e => document.querySelector("#chara-list").appendChild(e))
 }
 
 async function loadSongPage(num) {
@@ -135,7 +154,8 @@ async function loadSongPage(num) {
     target.innerHTML = ``;
 
     if (failed_songsearch) {
-        target.innerHTML += `<em>404: 요청하신 ID의 곡 정보를 찾지 못했습니다.</em>`;
+        target.innerHTML += `<em><a href="../title/?t=1">작품 일람 페이지</a>에서 작품별 수록곡을 모아 열람할 수 있습니다.</em>`;
+        target.appendChild(loadSongList(songs_raw, null));
         return;
     }
 
@@ -158,11 +178,11 @@ async function loadSongPage(num) {
     const response_individualjson = await fetch(`../../src/data/song/detail/` + idxdata["id"] + `_` + idxdata["slug"] + `.json`);
     const content_raw = await response_individualjson.json();
 
-    if (content_raw[0]["finished-backup"] === false) {
+    if (idxdata["finished-backup"] === false) {
         target.innerHTML += `<em>! 본 문구가 보이는 경우 해당 악곡의 상세 정보 백업이 이루어지지 않은 상태입니다.</em>`;
         do_not_load = true;
     }
-    if (content_raw[0]["finished-translate"] === false) {
+    if (idxdata["finished-translate"] === false) {
         target.innerHTML += `<em>! 본 문구가 보이는 경우 해당 악곡의 상세 정보의 번역이 완료되지 않은 상태입니다.</em>`;
     }
 
@@ -245,9 +265,36 @@ async function loadChara(querystr) {
     target.innerHTML = ``;
 
     if (failed_charasearch) {
-        target.innerHTML += `<em>404: 요청하신 캐릭터 정보를 찾지 못했습니다.</em>`;
+        target.appendChild(loadCharaList(charlist_raw));
         return;
     }
 
     target.innerHTML += `<em>` + chardata_raw["name-dat"] + `</em>`;
+}
+
+function loadCharaList(charlist_raw) {
+    const subsection_charalist = document.createElement("section");
+    subsection_charalist.innerHTML += `<h3 id="m_c">캐릭터 목록<button class="fold" onclick="foldSection('m_c')">단락 접기/펼치기</button></h3>
+        <small>상하 스크롤로 더 많은 항목을 열람할 수 있습니다.<br>타일 클릭 시 캐릭터 상세 페이지로 이동됩니다.<br>아래 버튼을 이용해 정렬 방식을 바꿀 수 있습니다.</small>
+        <div class="sort-button-wrap">
+            <button onclick="sortChara('name');">이름</button>
+            <button onclick="sortChara('debut');">데뷔 작품</button>
+            <button onclick="sortChara('apple');">사과 색</button>
+        </div>
+        `;
+    var charalist = `<ul class="chara-list" id="chara-list">`;
+    for (var i = 0; i < charlist_raw.length; i++) {
+        entry = charlist_raw[i];
+        var element = `
+                <li class="apple-` + entry["apple-color"] + `" onclick="location.href='../chara/?c=` + entry["name-dat"] + `'" data-name='` + entry["name-dat"] + `' data-debut='` + entry["debut"] + `'data-apple='` + entry["apple-color"] + `'>
+                    <span class="debut">` + entry["debut"] + `</span>    
+                    <span class="name-dat">` + entry["name-dat"] + `</span>
+                </li>
+            `;
+        charalist += element;
+    }
+    charalist += `</ul>`;
+    subsection_charalist.innerHTML += charalist;
+
+    return subsection_charalist;
 }
