@@ -115,12 +115,18 @@ ul.song-list>li {
 ul.song-list>li.has-data {
     border: 1px dashed var(--main-text-color);
 }
+ul.song-list>li.translated {
+    border: 3px double var(--main-text-color);
+}
 ul.song-list>li:hover {
     border: 1px dashed var(--accent-color);
 }
 ul.song-list>li.selected {
     background: var(--inverted-background-color);
     border: 1px solid var(--inverted-background-color);
+}
+ul.song-list>li.translated:hover {
+    border: 3px double var(--accent-color);
 }
 
 ul.song-list>li>span {

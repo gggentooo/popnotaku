@@ -71,7 +71,7 @@ async function loadTitleContent(num) {
 function loadSongList(songs_raw, titlenum) {
     const subsection_songs = document.createElement("section");
     subsection_songs.innerHTML += `<h3 id="m_c">곡 목록<button class="fold" onclick="foldSection('m_c')">단락 접기/펼치기</button></h3>
-        <small>상하 스크롤로 더 많은 항목을 열람할 수 있습니다.<br>타일 클릭 시 악곡 상세 페이지로 이동됩니다.<br>아래 버튼을 이용해 정렬 방식을 바꿀 수 있습니다.<br>곡 상세 정보의 백업이 완료되지 않은 경우에는 타일이 옅은 색으로 표시됩니다.</small>
+        <small>상하 스크롤로 더 많은 항목을 열람할 수 있습니다.<br>타일 클릭 시 악곡 상세 페이지로 이동됩니다.<br>아래 버튼을 이용해 정렬 방식을 바꿀 수 있습니다.<br>곡 상세 정보의 백업이 완료되지 않은 경우에는 타일이 옅은 색으로 표시되며, 모든 백업 및 번역이 완료된 곡은 타일의 테두리가 겹선으로 표시됩니다.</small>
         <div class="sort-button-wrap">
             <button onclick="sortSongs('id');">ID</button>
             <button onclick="sortSongs('title');">제목</button>
@@ -86,6 +86,7 @@ function loadSongList(songs_raw, titlenum) {
         if (titlenum === null || entry["debut"] === titlenum.toString()) {
             var class_name = "";
             if (entry["finished-backup"] === true) { class_name = "has-data"; }
+            if (entry["finished-translate"] === true) { class_name += " translated"; }
 
             var element = `
                 <li class="` + class_name + `" onclick="location.href='../song/?s=` + entry["id"] + `'" data-id='` + entry["id"] + `' data-original='` + entry["is-original"] + `' data-title='` + entry["fw-title"] + `' data-genre='` + entry["fw-genre"] + `' data-artist='` + entry["artist"] + `' data-chara='` + entry["chara"] + `'>
@@ -204,7 +205,7 @@ async function loadSongPage(num) {
         if (cont_arr.length === 0 || cont_arr[0]["entry-content"] === "") {
             continue;
         } else {
-            nav_links += `<li><a href="` + section_raw["section-id"] + `">` + section_raw["section-display-name"] + `</a></li>`;
+            nav_links += `<li><a href="#` + section_raw["section-id"] + `">` + section_raw["section-display-name"] + `</a></li>`;
         }
     }
     nav_links += `</ul>`;

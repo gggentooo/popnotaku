@@ -1,1 +1,58 @@
-[{"type": "meta", "source-original": [{"link": "", "description": ""}], "source-translation": ""}, {"type": "section-comment", "section-id": "music-comment", "section-display-name": "아티스트 코멘트", "section-content": [{"entry-author": "", "entry-content": "", "entry-content-ko": ""}]}, {"type": "section-comment", "section-id": "chara-comment", "section-display-name": "캐릭터 코멘트", "section-content": [{"entry-author": "", "entry-content": "", "entry-content-ko": ""}]}, {"type": "section-staff", "section-id": "staff-comment", "section-display-name": "스태프 코멘트", "section-content": [{"entry-author": "", "entry-content": "", "entry-content-ko": ""}]}]
+[
+    {
+        "type": "meta",
+        "source-original": [
+            {
+                "link": "https://web.archive.org/web/20181201023024/https://p.eagate.573.jp/game/popn/usaneko/p/musicchar/mcdetail/maintenance.html",
+                "description": "(아카이브) 우사네코 곡/캐릭터 소개 페이지"
+            }
+        ],
+        "source-translation": ""
+    },
+    {
+        "type": "section-comment",
+        "section-id": "music-comment",
+        "section-display-name": "아티스트 코멘트",
+        "section-content": [
+            {
+                "entry-author": "７４２",
+                "entry-content": "優雅に踊る機械仕掛けの人形は\nその動きで多くの者を魅了した\n\nしかし動くことは命を削るもの\n自然と全身のネジが緩んでいき\nふと気づくと歯車は欠けている\n\nとうとう動かなくなった人形は\n誰の手にも触れられることなく\n部屋の隅で物言わず座り続けた\n\nそれから多くの時間が経過した\n気紛れに人形を手にした誰かは\n最新の技術を用いて修理を施す\n\nかつて人形が生きた古い時代と\n電子の文明が混ざり一つになる\n\nベースラインは人形の心を映す\n世界と隔絶したベースラインは\nコードが動いても同じままの音\nそれは人形が止まっているから\n\n移ろう調と人工知能に弄ばれて\n人形は目覚めと眠りを繰り返す",
+                "entry-content-ko": ""
+            }
+        ]
+    },
+    {
+        "type": "section-comment",
+        "section-id": "chara-comment",
+        "section-display-name": "캐릭터 코멘트",
+        "section-content": [
+            {
+                "entry-author": "",
+                "entry-content": "",
+                "entry-content-ko": ""
+            }
+        ]
+    },
+    {
+        "type": "section-staff",
+        "section-id": "staff-comment",
+        "section-display-name": "스태프 코멘트",
+        "section-content": [
+            {
+                "entry-author": "とっきー",
+                "entry-content": "この曲はうさ猫を作っているときの早くからロングポップ君\n担当曲だったので沢山プレーした記憶があります。\nかっこいい曲でオディールさんも新イラストでおめでたい～。眼力がすごいです。",
+                "entry-content-ko": ""
+            },
+            {
+                "entry-author": "ちっひ",
+                "entry-content": "メンテナンス物語…とは…？\nタイトルが目を引いて、ロケテスト時から気になっていた1曲です。\nいろんなアプローチで『うさ猫』の世界を表現してくださっている、すごいことです～",
+                "entry-content-ko": ""
+            },
+            {
+                "entry-author": "MarL",
+                "entry-content": "オディールさんにぴったりな曲ですね…！\nクラシカルでドラマチックなメロディの一方で\nおもちゃのように軽い現実味のなさも受け取れます。\n彼女は欠落した悲喜劇を、踊り明かすのでしょうか。",
+                "entry-content-ko": ""
+            }
+        ]
+    }
+]

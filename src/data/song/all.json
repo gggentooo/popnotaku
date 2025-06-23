@@ -11538,7 +11538,7 @@
         "slug": "ankoku-psychedelic",
         "remy": "Ankoku_psychedelic",
         "chara": "odile",
-        "finished-backup": false,
+        "finished-backup": true,
         "finished-translate": false,
         "is-original": true
     },
@@ -21874,7 +21874,7 @@
         "slug": "maintenance-monogatari",
         "remy": "Maintenance_monogatari",
         "chara": "odile",
-        "finished-backup": false,
+        "finished-backup": true,
         "finished-translate": false,
         "is-original": true
     },
@@ -22044,7 +22044,7 @@
         "slug": "alrescha",
         "remy": "Alrescha",
         "chara": "Pisce",
-        "finished-backup": false,
+        "finished-backup": true,
         "finished-translate": false,
         "is-original": true
     },
@@ -22077,8 +22077,8 @@
         "debut": "24",
         "slug": "kimi-no-oto-to-auftakt",
         "remy": "Kimi_no_oto_to_Auftakt",
-        "chara": "takuto",
-        "finished-backup": false,
+        "chara": "TAKUTO",
+        "finished-backup": true,
         "finished-translate": false,
         "is-original": true
     },
@@ -22520,7 +22520,7 @@
         "slug": "24-7-popperz",
         "remy": "24/7_Popperz",
         "chara": "Lill",
-        "finished-backup": false,
+        "finished-backup": true,
         "finished-translate": false,
         "is-original": true
     },

@@ -1,1 +1,63 @@
-[{"type": "meta", "source-original": [{"link": "", "description": ""}], "source-translation": ""}, {"type": "section-comment", "section-id": "music-comment", "section-display-name": "아티스트 코멘트", "section-content": [{"entry-author": "", "entry-content": "", "entry-content-ko": ""}]}, {"type": "section-comment", "section-id": "chara-comment", "section-display-name": "캐릭터 코멘트", "section-content": [{"entry-author": "", "entry-content": "", "entry-content-ko": ""}]}, {"type": "section-staff", "section-id": "staff-comment", "section-display-name": "스태프 코멘트", "section-content": [{"entry-author": "", "entry-content": "", "entry-content-ko": ""}]}]
+[
+    {
+        "type": "meta",
+        "source-original": [
+            {
+                "link": "https://web.archive.org/web/20181201001525/https://p.eagate.573.jp/game/popn/usaneko/p/musicchar/mcdetail/247popperz.html",
+                "description": "(아카이브) 우사네코 곡/캐릭터 소개 페이지"
+            }
+        ],
+        "source-translation": ""
+    },
+    {
+        "type": "section-comment",
+        "section-id": "music-comment",
+        "section-display-name": "아티스트 코멘트",
+        "section-content": [
+            {
+                "entry-author": "Power Of Nature",
+                "entry-content": "この曲はもともとロングポップくんを入れる想定で作り始めました。\n新しいゲーム性であるロングポップくんを含んだ難関曲として、今作中にやりたい！と意気込んで作ったのを覚えています。\nバカ明るいハッピーハードコアにオモチャっぽさを詰め込んで「楽しければなんでもいいじゃん」という精神で音を詰めていきました。\n\n曲名にもありますが、とにかく頭空っぽになるくらい楽しい中毒性のある曲を目指しましたので\nクリアできるまで挑戦してKACファイナリストに近づけるよう頑張ってほしいです。\nみんながポップンに夢中になれますように！",
+                "entry-content-ko": ""
+            }
+        ]
+    },
+    {
+        "type": "section-comment",
+        "section-id": "chara-comment",
+        "section-display-name": "캐릭터 코멘트",
+        "section-content": [
+            {
+                "entry-author": "ちっひ",
+                "entry-content": "アップテンポで、まるで楽しいことだけをぎゅっと詰め込んだような元気いっぱいの曲から浮かぶシーンに加え、KACポップン決勝に思いを馳せてデザインしました。\nこの曲はロングポップ君をポイントにするからそんなイメージのアニメがほしいな～というPONさんからのアイデアで、アニメでもポップ君をみょ～んとな長く伸ばしています。\n曲からもアニメからもうさ猫で新登場したロングポップ君を体感して頂けたらうれしいです！\n\nぴょんぴょん元気いっぱいに虹のステージを駆けるちびっこユニコーンの男の子、名前はちびっこリトルが転じてリルくんです。\nまだまだ駆け出しなので仲間たちが一緒にステージを盛り上げてくれていますよ～\nおもちゃばこひっくりかえしたみたいなめまぐるしさが出せているといいなと思います！\n\nポップンアニメは引き算の美学！シンプルにするぞ～と毎回言い聞かせて挑んでいるのですがついついレインボーカラーにしてしまって、リルくんがくるくるまわるたびにレインボーが大変で涙がでました。\n\n振り返るとあとかたもなく消えたサーカス小屋はまるで白日夢、出会えたみなさんはラッキーですね！",
+                "entry-content-ko": ""
+            }
+        ]
+    },
+    {
+        "type": "section-staff",
+        "section-id": "staff-comment",
+        "section-display-name": "스태프 코멘트",
+        "section-content": [
+            {
+                "entry-author": "こにゃ",
+                "entry-content": "決勝曲！\n今作から追加されたロングポップ君がこれでもかというほど降ってきますね。\n何が何だかよくわからないけどランカーさんたちはすごくて、みんなと一緒におぉ～と言いながら眺めておりました。",
+                "entry-content-ko": ""
+            },
+            {
+                "entry-author": "とっきー",
+                "entry-content": "KACの決勝曲ですね！戦いを見ながら、自分ではEX譜面全くできないのでツイスターゲームも何もかも何が起こっているんだ…！という平民目線で観てました。改めて見てもすごい、。\nリルちゃんはピョンピョンかわいいですよね！フィーバーした時に沢山いろんな子が出てきてうれしい～です！",
+                "entry-content-ko": ""
+            },
+            {
+                "entry-author": "TAMA",
+                "entry-content": "ＥＸ譜面の最後にくるロングポップは、舞台の幕が引くがごとくの演出でしたね。\nうさ猫で初登場したロングポップ君の楽しさを存分にいかした曲・譜面です！",
+                "entry-content-ko": ""
+            },
+            {
+                "entry-author": "wac",
+                "entry-content": "トップランカーたちへの挑戦であり、注目極まるショーでのお披露目であり、そのバージョン・大会ならではあり…。\nKACの曲というのもまた特別なものがありますね。\n去年は自分も作ることになってなかなかなプレッシャーがあったけど、2曲のうちの1曲ということにやや救われてた。\nあの時の自分の曲は初の女子部門てことで女の闘いがテーマでしたね。\n\nというわけで今回のテーマはみんな言ってるように、これぞうさねこのKACというロングポップ君ですね。\n色とりどりのポップ君に飾られたお祭りわっしょいな賑やかな曲になりました。\nロングポップ君でドラムループを演奏させるというサンプラー的な着想がこの曲にあっててなにげに演奏してて楽しい。\n\nPONくんの今年こそKACファイナリストたちに勝つぞ！という意気込みにあふれすぎたEX譜面は\n自分くらいのレベルの人から見ればわけわからないものに見えますが\n楽しめるようになるまで精進いただいた24/7ポッパーな方が未来のトップランカーになるのではないでしょうか。\n24/7 Popperz。\n最初は意味わかんなかったですが、いい曲名です。",
+                "entry-content-ko": ""
+            }
+        ]
+    }
+]
