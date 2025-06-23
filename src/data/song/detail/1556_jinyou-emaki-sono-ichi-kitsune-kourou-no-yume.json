@@ -1,1 +1,73 @@
-[{"type": "meta", "source-original": [{"link": "", "description": ""}], "source-translation": ""}, {"type": "section-comment", "section-id": "music-comment", "section-display-name": "아티스트 코멘트", "section-content": [{"entry-author": "", "entry-content": "", "entry-content-ko": ""}]}, {"type": "section-comment", "section-id": "chara-comment", "section-display-name": "캐릭터 코멘트", "section-content": [{"entry-author": "", "entry-content": "", "entry-content-ko": ""}]}, {"type": "section-staff", "section-id": "staff-comment", "section-display-name": "스태프 코멘트", "section-content": [{"entry-author": "", "entry-content": "", "entry-content-ko": ""}]}]
+[
+    {
+        "type": "meta",
+        "source-original": [
+            {
+                "link": "https://web.archive.org/web/20170628004551/http://p.eagate.573.jp/game/popn/usaneko/p/musicchar/mcdetail/kourounoyume.html",
+                "description": "(아카이브) 우사네코 곡/캐릭터 소개 페이지"
+            }
+        ],
+        "source-translation": ""
+    },
+    {
+        "type": "section-comment",
+        "section-id": "music-comment",
+        "section-display-name": "아티스트 코멘트",
+        "section-content": [
+            {
+                "entry-author": "メイ",
+                "entry-content": "初めまして、群青キネマ・メイと申します。\n群青キネマは和風をモチーフとした楽曲を創作する集団でして、\n日本の言葉、音楽や歴史、文化の素晴らしさを取り入れるべく日々奮闘しております。\n\n現代に転生した玉藻前を巡る物語を、とくとご賞味下さいませ。",
+                "entry-content-ko": ""
+            },
+            {
+                "entry-author": "ニーム",
+                "entry-content": "初めまして、群青キネマ・歌詞担当ニームです。\n祝・ポップン初登場!! 本当に光栄です!!\n\n今回は、日本三大悪妖怪「玉藻前」をモチーフに、\n歌詞を制作しました。\nもし、玉藻前が乙女ゲーのキャラだったらどうなるか、\nあれやこれやと妄想をしながら、言葉を紡ぎました。\n\n壮大な世界感を創るメイさんの楽曲に、\n柔らかく伸びやかなYAMATOさんの歌唱が、\n絶妙にマッチした和風ロック。\n\n玉藻銀丸のモフモフ感を堪能しつつ、\n楽曲・歌唱・歌詞共に、気に入って頂けたら幸いです。",
+                "entry-content-ko": ""
+            },
+            {
+                "entry-author": "YAMATO",
+                "entry-content": "初めまして！今回Vocalを担当させて頂きましたYAMATOと申します！\n小学生の頃から大好きなKONAMI作品で、\nまさか自分が歌わせて頂けることになるとは夢にも思いませんでした！\n今作の稼働日に地元のゲームセンターでプレイさせて頂きましたが、\nまさに感無量で、涙を堪えながら叩かせて頂きました！\n皆様に楽しんで頂けたら幸いです。ありがとうございました！！",
+                "entry-content-ko": ""
+            },
+            {
+                "entry-author": "ハノン",
+                "entry-content": "とっても胸がキュンってしちゃう哀愁漂う曲だよね。\nお琴やヴァイオリンそしてギターなど、いろんな音で不思議な世界観を出していて、\n変幻自在にこんこん！してるよ。",
+                "entry-content-ko": ""
+            }
+        ]
+    },
+    {
+        "type": "section-comment",
+        "section-id": "chara-comment",
+        "section-display-name": "캐릭터 코멘트",
+        "section-content": [
+            {
+                "entry-author": "ちっひ",
+                "entry-content": "妖こんこん、玉藻銀丸さんです。\n\nはじめましての群青キネマの皆さんですがキャラメイクにも深く関わってくださいまして沢山やり取りさせていただいたおかげでこだわりの玉藻銀丸さん誕生となりました。\nデザイン面では特にふさふさ感には気を配っていまして、\nふさふささせる場所を変えつつ何点か案を出したのですが、その中から群青キネマさんがしっポニータイプを選んでくださいました。わたしもおすすめだったので嬉しい限りです。\nどうせならお願いしちゃおう！ということでお名前もつけて頂いて、本当にありがとうございました。\n物語に入り込んでしまったような世界観のある楽曲とキャラクターがちゃんと寄り添っていけたのではないかなと思います。\n\n負けアニメでは狐の姿に戻ってしまう銀丸さん、\nほんのすこし省略されていますがしっぽは九尾の立派なおきつね様なんですよ。9本だなと思って見てください。\nかわいらしいところも見たいなと思って、そばっこのおそばやさんで昼餉のシーンも入れてみました。\nやっぱりおあげが好きなんでしょうね、狐キャラの宿命ですね。\n2Pカラーは銀狐、りりしさマシマシでこちらもおすすめです！\n\n玉藻銀丸さんのキャラクターができるまでを\nBEMANIファンサイトで紹介させて頂いていますので\nぜひチェックしてみてください！",
+                "entry-content-ko": ""
+            }
+        ]
+    },
+    {
+        "type": "section-staff",
+        "section-id": "staff-comment",
+        "section-display-name": "스태프 코멘트",
+        "section-content": [
+            {
+                "entry-author": "TAMA",
+                "entry-content": "青い～がかっこよくて、印象的な曲です。\n\n銀丸の、髪の毛の動きが気持ちいいですね。",
+                "entry-content-ko": ""
+            },
+            {
+                "entry-author": "こにゃ",
+                "entry-content": "声がかっこよくて玉藻銀丸の妖艶さUPですね。\nFeverアニメが声と同じようにかっこよくて好きですが、Winアニメの可愛さもギャップがあって素敵です。",
+                "entry-content-ko": ""
+            },
+            {
+                "entry-author": "MarL",
+                "entry-content": "pop'n musicにおける、曲とキャラクターの結びつき方って、千差万別だと思うのですが\nこの曲は、キャラクターの声と曲の全てが直接的につながっている気がします。\nきっと曲を聞きこむ度に、玉藻さんが生き生きと形をなして育っていくのでしょうね。",
+                "entry-content-ko": ""
+            }
+        ]
+    }
+]

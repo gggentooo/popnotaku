@@ -1,1 +1,63 @@
-[{"type": "meta", "source-original": [{"link": "", "description": ""}], "source-translation": ""}, {"type": "section-comment", "section-id": "music-comment", "section-display-name": "아티스트 코멘트", "section-content": [{"entry-author": "", "entry-content": "", "entry-content-ko": ""}]}, {"type": "section-comment", "section-id": "chara-comment", "section-display-name": "캐릭터 코멘트", "section-content": [{"entry-author": "", "entry-content": "", "entry-content-ko": ""}]}, {"type": "section-staff", "section-id": "staff-comment", "section-display-name": "스태프 코멘트", "section-content": [{"entry-author": "", "entry-content": "", "entry-content-ko": ""}]}]
+[
+    {
+        "type": "meta",
+        "source-original": [
+            {
+                "link": "https://web.archive.org/web/20170628035414/http://p.eagate.573.jp/game/popn/usaneko/p/musicchar/mcdetail/oni.html",
+                "description": "(아카이브) 우사네코 곡/캐릭터 소개 페이지"
+            }
+        ],
+        "source-translation": ""
+    },
+    {
+        "type": "section-comment",
+        "section-id": "music-comment",
+        "section-display-name": "아티스트 코멘트",
+        "section-content": [
+            {
+                "entry-author": "しらたまあんみつ",
+                "entry-content": "「ふむふむなるほど、本日の悪党ご一行はこちらさんってわけだ」\nしたり顔で顎をさすった”彼”は、その目に幾多のあやかしを映して口元に弧を描く。\n構えた拳、握ったバチ。鬼ごっこと形容するにはちょっとばかり手荒い戯れ。\n「何をやっちゃったか知らねーが…こちとら手加減下手と名高いんで、ひとつよろしく頼もうか！」\n宵闇に消えたと思えばあちらこちらへと。鬼が軽やかに舞いながら、振り返って笑い声を響かせる。\n「なぁ、アンタも楽しめよ！せっかくの”祭り”だぜ！」\n\nポッパーのみなさん、はじめまして！いつでももちもち、しらたまあんみつと申します。作詞を担当しました。\nノリノリでギュイギュイしていて、なのに和風…うむ！ご機嫌で暴れまわる雷牙くんが思い浮かび、楽しく作詞させてもらいました。\n元気で強くてちょっとおばかで自信満々な彼は太鼓をドンドン！してくれますので、\nポッパー諸兄もご一緒にボタンをトントン！しちゃってください！鬼神さまのお通りだ～～！！",
+                "entry-content-ko": ""
+            }
+        ]
+    },
+    {
+        "type": "section-comment",
+        "section-id": "chara-comment",
+        "section-display-name": "캐릭터 코멘트",
+        "section-content": [
+            {
+                "entry-author": "菌類",
+                "entry-content": "玉藻銀丸さんのフィーバーアニメに登場していた鬼ちゃんです！ワ～パチパチ(*ﾟ ﾟﾉﾉﾞ\nお久しぶりですアニメを担当しました菌類です。\n\nキャラクターデザインは既に決まっていたので、頂いたキーワードを元に雷牙くんはきっとこんな子…と\n妄想していたら、もりもりアニメ案をがたくさん出てきて…ボツにするのが勿体無いな～というのはいくつもあったのですが、\nどうしてもこれだけは惜しい…！というWINアニメ案をこっそり夢の中のフキダシへ閉じ込めてみたりしました。\n\n妖怪らしく怪しげで悪そうな顔、元気いっぱいに太鼓を叩き暴れまわる様、ちょっと間抜けな一面も…？\nアニメひとつひとつみちっと鬼牙くんらしさを閉じ込めてみました。\nコロコロ変わる小鬼達の表情もお気に入りです.+゜*。:゜+\n\nWINアニメでボロ屋に住んでる様子が垣間見えますが、妖怪仲間が遊びに来てたら可愛いな～",
+                "entry-content-ko": ""
+            }
+        ]
+    },
+    {
+        "type": "section-staff",
+        "section-id": "staff-comment",
+        "section-display-name": "스태프 코멘트",
+        "section-content": [
+            {
+                "entry-author": "TAMA",
+                "entry-content": "かっこいい妖怪がバトルするアニメ「人妖絵巻」第2期オープニング曲\n昔あった、曲説明風にするとこんなかんじですかね～",
+                "entry-content-ko": ""
+            },
+            {
+                "entry-author": "おや",
+                "entry-content": "鬼くんキター！\n鬼の雰囲気が出ているかっこいい曲ですね～♪\nきっと苦手なものは豆に違いない",
+                "entry-content-ko": ""
+            },
+            {
+                "entry-author": "ちっひ",
+                "entry-content": "こんこん銀丸さんのところで出会った鬼ちゃんのソロデビュー！\n背中に大きなリボンを付けたくて、男でもおかしくないようにデザインしました。\nお名前は銀丸さんと同じく群青キネマさんに付けていただいています。\nアニメは絶対かっこよく描いてくれるだろうと思って菌類さんに預けてきましたが間違いなかったです！せんべい布団を希望していたのですが、ツギハギもしてあってこの上ないせんべいぐあい。\n楽曲のほうも、キャラを大切にしてくださってとてもぴったりです！沢山の方の思い入れを集めて出来た子で感慨もひとしおです。",
+                "entry-content-ko": ""
+            },
+            {
+                "entry-author": "PON",
+                "entry-content": "人妖絵巻の続編がやってまいりましたよ！\n群青キネマつながりでINVICTAさんと厚志さんがノリノリで引き受けてくださいました。\n\nさて続編といいましても、クールで妖艶な印象の銀丸に対し、雷牙は力任せで暴れん坊、勢いなどが感じられるようなキャラなので楽曲もそれに準じています。歌詞は特に気をつけて作っていただいていて、オラオラした感じがでるようにというオーダーでガッツリ寄せて頂きました。銀丸はオラオラ感というより、コンコン感とかもふもふ感が売りですよね。うんたぶんそうだよ絶対。\n\n楽曲コンセプトは同じ和風ロックながらもそれぞれ別のイメージが湧き非常に面白く仕上がりました。",
+                "entry-content-ko": ""
+            }
+        ]
+    }
+]

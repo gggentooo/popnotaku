@@ -1,1 +1,68 @@
-[{"type": "meta", "source-original": [{"link": "", "description": ""}], "source-translation": ""}, {"type": "section-comment", "section-id": "music-comment", "section-display-name": "아티스트 코멘트", "section-content": [{"entry-author": "", "entry-content": "", "entry-content-ko": ""}]}, {"type": "section-comment", "section-id": "chara-comment", "section-display-name": "캐릭터 코멘트", "section-content": [{"entry-author": "", "entry-content": "", "entry-content-ko": ""}]}, {"type": "section-staff", "section-id": "staff-comment", "section-display-name": "스태프 코멘트", "section-content": [{"entry-author": "", "entry-content": "", "entry-content-ko": ""}]}]
+[
+    {
+        "type": "meta",
+        "source-original": [
+            {
+                "link": "https://web.archive.org/web/20160313235638/http://www.konami.jp/bemani/popn/music18/mc/technohosomichi/technohosomichi.html",
+                "description": "(아카이브) 전국열전 곡/캐릭터 소개 페이지"
+            }
+        ],
+        "source-translation": ""
+    },
+    {
+        "type": "section-comment",
+        "section-id": "music-comment",
+        "section-display-name": "아티스트 코멘트",
+        "section-content": [
+            {
+                "entry-author": "村井聖夜",
+                "entry-content": "「てくのほそみち」…我ながらナカナカいいネーミングを思いつきました。\nこっちを曲タイトルにしてもよかったとも思いましたが、きっと皆さんジャンル名で呼ぶんだろうなということで、ジャンル名扱いで。\n\nご想像通り、俳人・松尾芭蕉をイメージした楽曲です。\n戦国時代が終わり、すでに江戸時代の人なんですが、一部では全国を漫遊した松尾芭蕉は忍者だったかもしれないという説があり、そのミステリアスな設定が気に入ったので、今回テーマに選んでみました。\n\n忍者の里でもあった伊賀の出身だったり、短い期間に異常な長距離を移動していた記録があったり、あまり見どころもない場所に長期滞在していたりというのが、その説の根拠なんだとか。\nもっとも、「そんな荒唐無稽な話！」と取り合わない真面目な日本史研究家もいるそうですが、かの国民的時代劇ヒーローでもあり、芭蕉と同じ時代に生きた水戸黄門（徳川光圀）ですら、あんな諸国漫遊はしてなかったとか、印籠を振りかざして地方の悪代官を裁きまくったりなどしていなかったのは明白。それでも、そんな荒唐無稽な設定が素敵だからこそ長年支持されているわけですから、松尾芭蕉がただの何でもない俳人というより、実は幕府の密命を受けた忍者だったという物語のほうが、夢とロマンに溢れていていいじゃないですか。\n\n芭蕉の尋常ならざる機動性を持つ人物像を、曲の中でも詳細に表現してみました。\nゆっくりと始まるイントロ。のんびりと歩いてるのかと思いきや、実は倍の速さで進む様を変化するテンポで表現。それでいてメロディはホノボノ放浪してるようでありながら、バックのアレンジはシンフォニックテクノばりに戦国武将のテーマを思わせる重厚感。途中の茶店でホッと休憩していたのもつかの間、突然襲ってきた追っ手の手裏剣をかわして、足速に消えてゆく…。\nそんな空想時代劇ドラマを想像しながら、改めて聴いてみてもらえると嬉しいです。",
+                "entry-content-ko": ""
+            }
+        ]
+    },
+    {
+        "type": "section-comment",
+        "section-id": "chara-comment",
+        "section-display-name": "캐릭터 코멘트",
+        "section-content": [
+            {
+                "entry-author": "mayo",
+                "entry-content": "このキャラはコメントをなんとか五・七・五で書かなきゃいけない気がして\nプレッシャーが。。。\n「肉まんが　ふと食べたくなる　冬の朝」\n全然関係ないものが心の中に浮かび上がってきました。\n腹が減っては戦は出来ぬ、ってヤツですね。（←あぁ、ちょっと戦国っぽいかも）\n\nこのキャラは、V.C.O.さんから早い段階でかっこよくシブイ音源と沢山のネタアイデアを頂きつつ、\n時代劇を調べつつ、シオさんと一緒に、と三人ノリノリで生まれてきた幸運なキャラクターです。\n\nそんな訳で、旅行きは一人より二人、二人より三人が楽しい、みたいな楽しい制作になりました。\nなんて事を書いていたら、奥の細道の冒頭文が頭の中に浮かんできて、\n確かに人生は旅のようか、と想いました。\n旅は雨の日も晴れの日もありますね！ともかく何と言うか、道程も楽しんで、\n道連れが居て賑やかに。そんな感じで嬉しく歩いて行きたいですね♪",
+                "entry-content-ko": ""
+            }
+        ]
+    },
+    {
+        "type": "section-staff",
+        "section-id": "staff-comment",
+        "section-display-name": "스태프 코멘트",
+        "section-content": [
+            {
+                "entry-author": "masaru",
+                "entry-content": "吾七の見た目とは違った素早さに驚きました。\n曲の速さも吾七にそっくり！？",
+                "entry-content-ko": ""
+            },
+            {
+                "entry-author": "PON",
+                "entry-content": "BPM変化の苦手なボクは急激な変化にちょっと戸惑っちゃうのです。\nてくのって平仮名で書くと「てくてく」歩いてるみたいでかわいいですね。\n野を越え山を越え歩いているような、この曲にピッタリなネーミング。",
+                "entry-content-ko": ""
+            },
+            {
+                "entry-author": "eimy",
+                "entry-content": "EX譜面。手も足も出ません、なぜなら速度変化に弱いから？それにしても出来なさすぎるよなぁ…どこで押せてないのかもよーわからん。今回の壁だわ。\nジャンル名を初めて見たとき、チーム員の中で一番良いリアクションをした自信があります。",
+                "entry-content-ko": ""
+            },
+            {
+                "entry-author": "が～す～",
+                "entry-content": "ネーミングセンス溢れてますね！\nキャライメージからしてゆったりな曲かと思ってましたが・・・油断した！！\n速度が変化するので注意です。",
+                "entry-content-ko": ""
+            },
+            {
+                "entry-author": "shio",
+                "entry-content": "温厚な好々爺が一瞬垣間見せる鋭い視線！時代劇によくある二面性大好きです。\nそんなかっこよさがぎゅっと詰まってますねー。後半の盛り上がりは爽快な殺陣シーンを想像しちゃいます。カッコイイ！\nちなみに彼の二つ名は、五月雨の吾七だそうです。うーん。渋い。\n\n今作はみんなからは見えないところですがアニメも新しい試みをしていて、吾七さんは記念すべき第一弾キャラ。\nご尽力いただいた皆さんありがとうございました。こうしてみんなにもっとポップンを楽しんでもらえるよう、実験隠密活動は続くのじゃったー。(完)",
+                "entry-content-ko": ""
+            }
+        ]
+    }
+]

@@ -88,7 +88,7 @@ function loadSongList(songs_raw, titlenum) {
             if (entry["finished-backup"] === true) { class_name = "has-data"; }
 
             var element = `
-                <li class="` + class_name + `" onclick="location.href='../song/?s=` + entry["id"] + `'" data-original='` + entry["is-original"] + `' data-title='` + entry["fw-title"] + `' data-genre='` + entry["fw-genre"] + `' data-artist='` + entry["artist"] + `' data-chara='` + entry["chara"] + `'>
+                <li class="` + class_name + `" onclick="location.href='../song/?s=` + entry["id"] + `'" data-id='` + entry["id"] + `' data-original='` + entry["is-original"] + `' data-title='` + entry["fw-title"] + `' data-genre='` + entry["fw-genre"] + `' data-artist='` + entry["artist"] + `' data-chara='` + entry["chara"] + `'>
                     <span class="genre">` + entry["genre"] + `</span>    
                     <span class="r-title">` + entry["r-title"] + `</span>
                     <span class="title">` + entry["title"] + `</span>
@@ -125,7 +125,7 @@ function sortChara(what) {
     sorted = categoryItemsArray.sort(sorter);
 
     function sorter(a, b) {
-        return a.dataset[what].localeCompare(b.dataset[what], undefined, {numeric: true, sensitivity: 'base'});
+        return a.dataset[what].localeCompare(b.dataset[what], undefined, { numeric: true, sensitivity: 'base' });
     }
     function sorterName(a, b) {
         return a.dataset["name"].localeCompare(b.dataset["name"]);
@@ -293,7 +293,7 @@ async function loadChara(querystr) {
             }
         }
     }
-    song_list += `</ul>`
+    song_list += `</ul>`;
 
     var basic_info = `
         <p class="name-dat">` + chardata_raw["name-dat"] + `</p>
@@ -307,9 +307,24 @@ async function loadChara(querystr) {
                 <div class="baseinfo-lr"><span>사과 색깔</span><span class="apple apple-` + chardata_raw["apple-color"] + `"></span></div>
                 <div class="baseinfo-lr"><span>생일</span><span>` + chardata_raw["birthday"]["month"] + `월 ` + chardata_raw["birthday"]["day"] + `일</span></div>
                 <div class="baseinfo-lr"><span>등장 악곡</span><span>` + song_list + `</span></div>
-            </div>
-        </section>
     `;
+
+    if (chardata_raw["see-also"].length > 0) {
+        basic_info += `<div class="baseinfo-lr"><span>연관 캐릭터</span><ul class="see-also">`
+        const see_also = chardata_raw["see-also"];
+        for (var i = 0; i < see_also.length; i++) {
+            const other_chara = see_also[i];
+            basic_info += `<li><a href="../chara/?c=` + other_chara + `">` + other_chara + `</a></li>`;
+        }
+        basic_info += `</ul></div>`;
+    }
+
+    basic_info += `</div>`;
+
+    if (chardata_raw["source-translation"] != "") {
+        basic_info += `<small>번역 출처: ` + chardata_raw["source-translation"] + `</small>`;
+    }
+    basic_info += `</section>`;
 
     target.innerHTML += basic_info;
     sortSongs("genre");
@@ -320,7 +335,6 @@ async function loadChara(querystr) {
         <section class="profile">
             <h2 id="profile">프로필<button class="fold" onclick="foldSection('profile')">단락 접기/펼치기</button></h2>
             <div class="baseinfo-wrap">
-                <div class="baseinfo-lr"><span>생일</span><span>` + chardata_raw["birthday"]["month"] + `월 ` + chardata_raw["birthday"]["day"] + `일</span></div>
                 <div class="baseinfo-lr"><span>설명</span><div><span class="ko">` + chardata_raw["profile-ko"]["description"] + `</span><br><span class="ja">` + chardata_raw["profile"]["description"] + `</span></div></div>
                 <div class="baseinfo-lr"><span>출신지</span><div><span class="ko">` + chardata_raw["profile-ko"]["from"] + `</span><br><span class="ja">` + chardata_raw["profile"]["from"] + `</span></div></div>
                 <div class="baseinfo-lr"><span>취미</span><div><span class="ko">` + chardata_raw["profile-ko"]["hobby"] + `</span><br><span class="ja">` + chardata_raw["profile"]["hobby"] + `</span></div></div>

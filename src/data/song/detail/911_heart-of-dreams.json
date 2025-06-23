@@ -1,1 +1,68 @@
-[{"type": "meta", "source-original": [{"link": "", "description": ""}], "source-translation": ""}, {"type": "section-comment", "section-id": "music-comment", "section-display-name": "아티스트 코멘트", "section-content": [{"entry-author": "", "entry-content": "", "entry-content-ko": ""}]}, {"type": "section-comment", "section-id": "chara-comment", "section-display-name": "캐릭터 코멘트", "section-content": [{"entry-author": "", "entry-content": "", "entry-content-ko": ""}]}, {"type": "section-staff", "section-id": "staff-comment", "section-display-name": "스태프 코멘트", "section-content": [{"entry-author": "", "entry-content": "", "entry-content-ko": ""}]}]
+[
+    {
+        "type": "meta",
+        "source-original": [
+            {
+                "link": "https://web.archive.org/web/20160623173101/http://www.konami.jp/bemani/popn/music18/mc/positive2/positive2.html",
+                "description": "(아카이브) 전국열전 곡/캐릭터 소개 페이지"
+            }
+        ],
+        "source-translation": ""
+    },
+    {
+        "type": "section-comment",
+        "section-id": "music-comment",
+        "section-display-name": "아티스트 코멘트",
+        "section-content": [
+            {
+                "entry-author": "浅井裕子",
+                "entry-content": "久し振りにポップン楽曲に参加させて頂きました。\n打ち合わせ時にsunnyちゃんの性格を初めて教えていただいた時\n「私に似てる！」っと感じました（笑）\nマイペースでポジティブ・・・。\nいつも通り楽しんで作りました♪\n自分らしくいる・・・って実はむずかしい事ですが\n何かを創るときの私のテーマです♪\nそして、少しでも前向きな気持ちになっていただけると嬉しいです。",
+                "entry-content-ko": ""
+            }
+        ]
+    },
+    {
+        "type": "section-comment",
+        "section-id": "chara-comment",
+        "section-display-name": "캐릭터 코멘트",
+        "section-content": [
+            {
+                "entry-author": "mayo",
+                "entry-content": "久しぶりの登場となりましたサニー、今回はフリンジ・ワンピ（？）で登場です☆\n衣装デザインは沢山のアイデアの中からデザイナ皆でこちらに決定になりました。\n胸のフラワーと言い、裾のフリンジと言い、気持ちが明るくなるようなイイ感じだなぁ♪\nデザイン決めの段階ではまだ音源が無かったので、アーティスト様の歌声のイメージがデザインの重要なポイントになりました。\nいつも自由に笑顔で歩いていくサニーにピッタリ！！\nこの曲とともに今日も嬉しく楽しく参りましょう♪",
+                "entry-content-ko": ""
+            }
+        ]
+    },
+    {
+        "type": "section-staff",
+        "section-id": "staff-comment",
+        "section-display-name": "스태프 코멘트",
+        "section-content": [
+            {
+                "entry-author": "PON",
+                "entry-content": "おかえりなさい！お久しぶりのご登場に涙もの。\n吹き抜ける春風のような優しい印象の楽曲。\n１６分音符のマリンバをどう叩くかが攻略のカギだよ。",
+                "entry-content-ko": ""
+            },
+            {
+                "entry-author": "shio",
+                "entry-content": "わー！お久しぶりです。の浅井さんです。一緒に驚かれた方はずいぶん長くお付き合いいただいてるポッパーさんかと！共に喜びましょうぞ。\nサニーちゃんも一緒にコンニチハです。フリンジとお花の刺繍が70年代でキュート。2Pカラーがお気に入りです。\nおつかれのときにゆったりプレーするのにおすすめです。まったりしすぎてふとハミングしそうになるので人目にはご注意！",
+                "entry-content-ko": ""
+            },
+            {
+                "entry-author": "オーツ",
+                "entry-content": "何事もポジティブに考えられる人、本当にすごいと思います。\n自分もそうありたい。",
+                "entry-content-ko": ""
+            },
+            {
+                "entry-author": "wac",
+                "entry-content": "お久しぶりの浅井さんです。なにげにお会いしたのもめちゃくちゃお久しぶりでした。\n今回は何しろ大変なお久しぶりですから、やっぱり浅井さんらしい曲で！てことでキャラもサニーで！というディレクションです。\nつまり、かつて浅井さんの曲からイメージされたサニーと言うキャラをイメージして浅井さんが曲を作られる、という卵とニワトリ的展開です。\n浅井さんから頂いたコメントをみるに、当時浅井さんの曲からサニーを生み出された家庭用デザイナーさんは慧眼であったなあと改めて思います。\n\n近頃のポップン曲の中ではゆったりなイメージですが、世の中の楽曲では至って普通のテンポです。\nあと今回全体の譜面方向性は曲ありきで、EXだからといって無理やりに難易度をあげたりしない方向でまとめてもらいました。\n猛者な方には物足りない難易度かもしれませんが、たまにはこういった曲をスコアも気にせずまったり遊んでみてください。",
+                "entry-content-ko": ""
+            },
+            {
+                "entry-author": "TAMA",
+                "entry-content": "ジャンル名決めるために、wacがふらりとやって来ました。\n「浅井さんの曲」\n「なんか前向きっぽいかんじ」\n「かわいいかんじも」\nみたいな注文をうけ、shioと3人で辞典ソフト片手に色々アイデア検討。かれこれ1時間ほど費やし、相当アイデアだしました。\nで、後日決まったジャンル名がこれ。\n\n俺たちの1時間返せ！！！\n\nwac曰く「いいのがなかったんだよ・・・」",
+                "entry-content-ko": ""
+            }
+        ]
+    }
+]

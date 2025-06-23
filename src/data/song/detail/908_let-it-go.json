@@ -1,1 +1,68 @@
-[{"type": "meta", "source-original": [{"link": "", "description": ""}], "source-translation": ""}, {"type": "section-comment", "section-id": "music-comment", "section-display-name": "아티스트 코멘트", "section-content": [{"entry-author": "", "entry-content": "", "entry-content-ko": ""}]}, {"type": "section-comment", "section-id": "chara-comment", "section-display-name": "캐릭터 코멘트", "section-content": [{"entry-author": "", "entry-content": "", "entry-content-ko": ""}]}, {"type": "section-staff", "section-id": "staff-comment", "section-display-name": "스태프 코멘트", "section-content": [{"entry-author": "", "entry-content": "", "entry-content-ko": ""}]}]
+[
+    {
+        "type": "meta",
+        "source-original": [
+            {
+                "link": "https://web.archive.org/web/20151117165634/http://www.konami.jp/bemani/popn/music18/mc/electro_rock/electro_rock.html",
+                "description": "(아카이브) 전국열전 곡/캐릭터 소개 페이지"
+            }
+        ],
+        "source-translation": ""
+    },
+    {
+        "type": "section-comment",
+        "section-id": "music-comment",
+        "section-display-name": "아티스트 코멘트",
+        "section-content": [
+            {
+                "entry-author": "阿部靖広",
+                "entry-content": "今回の楽曲は、今までとはちょっと違ったアプローチにトライしてみました。メロディーはポップでありながら、斬新なサウンド感とエディットしたヴォーカル、空間系のギターを絡ませてなかなか面白い仕上がりになりました。\n僕の専門分野は、イギリス系のオルタナティブ・ロックとソウルフルなＲ＆Ｂ系なんですが、この全然違う路線を融合した感じです。\nボーカルの質感をざらっとしたローファイっぽい感じにしたくて、色々と声の出し方で試行錯誤しましたが、最終的には欲しい質感で録れました。\n楽しい楽曲に仕上がっているのでみなさん是非遊んでみてください！！",
+                "entry-content-ko": ""
+            }
+        ]
+    },
+    {
+        "type": "section-comment",
+        "section-id": "chara-comment",
+        "section-display-name": "캐릭터 코멘트",
+        "section-content": [
+            {
+                "entry-author": "shio",
+                "entry-content": "曲を聴きまして、広々とした空が目の前に浮かびました。(ワインまんが風にLet's imagine!)\nぼんやり見上げてる私の横を、すっと誰かが追い越して行くような。\n笑顔でスマートに一歩を踏み出せちゃう、大人なお兄さんがいいな、と思いまして。\nおお、ポップンが誇るさわやかイケメンお兄ちゃん、マコトさんがいたぞ！と。\nあこがれのおされハットにおされ巻き物。ジャケとパンツはスリムめってやつですか。\nファッション用語は難しいでござる。\n\nアニメは基本キザなかんじですが、実はやさしくてしっかりものってイメージで作っていただきました。\nloseは取り巻きの女の子がさらに増えてます。このモテモテ星人め。\nwinでは旅立ちの予兆を感じさせられたならぁと思います。\n\n走り出すタイミングを見失わぬよう、日々感受性は大事にしたいものですね。\nみなさんはいかがですか？",
+                "entry-content-ko": ""
+            }
+        ]
+    },
+    {
+        "type": "section-staff",
+        "section-id": "staff-comment",
+        "section-display-name": "스태프 코멘트",
+        "section-content": [
+            {
+                "entry-author": "PON",
+                "entry-content": "タイムイズランニン、っていう事でついに唄っていただきました。\nダンスロック調のドラムに絡むギターのカッティングがグッド！\nリズム　シンセ　ギターの３種をうまく叩ききっておくれよ。",
+                "entry-content-ko": ""
+            },
+            {
+                "entry-author": "オーツ",
+                "entry-content": "でかい！",
+                "entry-content-ko": ""
+            },
+            {
+                "entry-author": "が～す～",
+                "entry-content": "爽やかな歌ですね！なんかポジティブな気分になれます。\nそろそろ髪切りたいんでこんな美容師がいたら紹介してください！",
+                "entry-content-ko": ""
+            },
+            {
+                "entry-author": "eimy",
+                "entry-content": "朝、電車の中で…昼、会社のトイレで…夜、お風呂に浸かりながら…なぜかこの曲がず～っと離れない時期がありました。\nキャラを担当したわけでもないのに、こんなことはなかなかないので「ええい、私の心を揺さぶりやがって…くっそ、好きだ！」と止められない、あふれる想いを９つのボタンにぶつけたりしました。\nさらに、マコトを使用キャラにして真ん中を歩かせるともっと好きになると思います。",
+                "entry-content-ko": ""
+            },
+            {
+                "entry-author": "wac",
+                "entry-content": "実は阿部さんは毎回何曲かのデモの中から選ばせて頂ける、というとてもプロフェッショナルにしてありがたい方なのです。ここんとこ女性ボーカルさん曲が続いたことですし今回は阿部さんの男性っぷりをアピールする楽曲を選ばせて頂きました。\nこの曲、わたくし「ないじゃなーい」が大変お気に入りでして。多少ムリがありましたがボタンにも切り出してもらいましたので。みんなもサビ前はボタンを連打するといいよ。\n実はbeatmaniaIIDXにウッチーズの「Don't let it go」という曲があるため、両方遊んでるユーザーさんからすれば「Let it goしろっていうの？しちゃダメって言ってたじゃない！ああ、あたいどうしたらいいの！」という心持ちかもしれませんが、とりあえず「ないじゃなーい」ボタンを連打するといいよ。",
+                "entry-content-ko": ""
+            }
+        ]
+    }
+]

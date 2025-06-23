@@ -1,1 +1,68 @@
-[{"type": "meta", "source-original": [{"link": "", "description": ""}], "source-translation": ""}, {"type": "section-comment", "section-id": "music-comment", "section-display-name": "아티스트 코멘트", "section-content": [{"entry-author": "", "entry-content": "", "entry-content-ko": ""}]}, {"type": "section-comment", "section-id": "chara-comment", "section-display-name": "캐릭터 코멘트", "section-content": [{"entry-author": "", "entry-content": "", "entry-content-ko": ""}]}, {"type": "section-staff", "section-id": "staff-comment", "section-display-name": "스태프 코멘트", "section-content": [{"entry-author": "", "entry-content": "", "entry-content-ko": ""}]}]
+[
+    {
+        "type": "meta",
+        "source-original": [
+            {
+                "link": "https://web.archive.org/web/20170523111146/http://www.konami.jp/bemani/popn/music18/mc/ai_datepop/ai_datepop.html",
+                "description": "(아카이브) 전국열전 곡/캐릭터 소개 페이지"
+            }
+        ],
+        "source-translation": ""
+    },
+    {
+        "type": "section-comment",
+        "section-id": "music-comment",
+        "section-display-name": "아티스트 코멘트",
+        "section-content": [
+            {
+                "entry-author": "村井聖夜",
+                "entry-content": "jubeat ripplesからのスピード逆輸入になりました、隅田川夏恋歌（かれんか）。\n後付のジャンル名よりも「隅田川」と呼ばれることが多くて、「評判気にしぃ」な私は、ネットでの検索キーワードに難儀しております。\n「隅田川から油が浮かんできた」とかいうニュースが出てきた時には、「濁流」に続いて新しい表現が出てきたのかとさえ…。\njubeatの時の「濁流」ほどでないにしても、適度な譜面難易度とも相まって、登場以降たくさんの方々に楽しんでいただけたようです。\njubeatにはjubeatの、ポップンにはポップンのゲーム性それぞれの持ち味を最大限に活かした、まさしく「変な油汗出てきた」くらいの緊張感になったんじゃないでしょうか。\n\n一時は起用を控えようかと思っていたALTですが、この曲で改めていろいろ制作法を研究するうちに、少しずつ以前よりカツゼツがよくなってきて、もう少しいろいろ可能性を試してみたい、と思えるようになってきました。元が古いソフトウェアなので、イマドキの音声合成っ娘にはなかなか叶わないんですけれども…。\nプログラム的な技術進歩はもう見込めないので、このままアナログ的な努力と根性だけで、少しずつ聞き取りやすい言葉になるよう、ALTボイスを進化させていきたいと思います。いつになったら「ALT ver.2.0」と胸を張って命名できるかなぁ。",
+                "entry-content-ko": ""
+            }
+        ]
+    },
+    {
+        "type": "section-comment",
+        "section-id": "chara-comment",
+        "section-display-name": "캐릭터 코멘트",
+        "section-content": [
+            {
+                "entry-author": "shio",
+                "entry-content": "４×４の正方形の世界からコンニチハ。\nfeat.ALTなのでキャラはアルトちゃんにすぐ決定し、ドットverをさらにセレクトしました。\nうーん。jubeatにぴったり！■■■■\n\nそしてポラリスに続きデザイナーさんにいただいたジャケットイラストがまた美麗でうっとりです。\nHPでおっきく見られるページがないので、ぜひギャラリーを作って欲しいな～とここでアピール。\nチーム内で「フリーズしたみたいで怖いよ！」と評判いただいたALTニューカラーは\nこちらのジャケットからのインスパイアです。黒シルエットいいじゃないか。\nそしておしゃれなripplesグリーンでしめました。\n\nちなみに、ゲーム中はオジャマ『ずっと＋キャラポップ君』で\nいつでも隅田川の花火大会が楽しめますよー。\n腕前に自信がある人は上下さかさまも一緒にどうぞ！",
+                "entry-content-ko": ""
+            }
+        ]
+    },
+    {
+        "type": "section-staff",
+        "section-id": "staff-comment",
+        "section-display-name": "스태프 코멘트",
+        "section-content": [
+            {
+                "entry-author": "masaru",
+                "entry-content": "jubeatの「まっする」全面協力の元、ポップンに登場する事が出来ました。\nポップン以外のwebで隠し曲のヒントを公開する！といった新しい試みにも挑戦しましたよ。",
+                "entry-content-ko": ""
+            },
+            {
+                "entry-author": "PON",
+                "entry-content": "データ制作中、キックの音量が小さかったので、音量を一括で上げてみたところ、\n歪み系のキックまで大きくなってしまい、滑稽なバランスになってしまったことがありました。\nそして、みんなで苦笑いしました。",
+                "entry-content-ko": ""
+            },
+            {
+                "entry-author": "オーツ",
+                "entry-content": "隅田川のほとりでは色んな物が見られますね。",
+                "entry-content-ko": ""
+            },
+            {
+                "entry-author": "が～す～",
+                "entry-content": "テンポが良くていつもついついプレイしちゃってます。\n終盤必死なのは内緒です。。",
+                "entry-content-ko": ""
+            },
+            {
+                "entry-author": "eimy",
+                "entry-content": "ラブでキュートなドッキドキソング！早めのBPMは心臓の速さかと思ったりしてます。かわいいなぁかわいいなぁ！！///　これで一本マンガ描けますわ。",
+                "entry-content-ko": ""
+            }
+        ]
+    }
+]

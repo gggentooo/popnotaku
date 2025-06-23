@@ -12269,7 +12269,7 @@
         "slug": "go-shichi-go",
         "remy": "Go_shichi_go",
         "chara": "GOSHICHI",
-        "finished-backup": false,
+        "finished-backup": true,
         "finished-translate": false,
         "is-original": true
     },
@@ -12286,7 +12286,7 @@
         "slug": "let-it-go",
         "remy": "Let_it_go",
         "chara": "MAKOTO",
-        "finished-backup": false,
+        "finished-backup": true,
         "finished-translate": false,
         "is-original": true
     },
@@ -12303,7 +12303,7 @@
         "slug": "seishun-pico-pico-rockn-roll",
         "remy": "Seishun_pico_pico_Rock%27n_Roll",
         "chara": "CHIKING",
-        "finished-backup": false,
+        "finished-backup": true,
         "finished-translate": false,
         "is-original": true
     },
@@ -12320,13 +12320,13 @@
         "slug": "parabola",
         "remy": "Parabola",
         "chara": "mint",
-        "finished-backup": false,
+        "finished-backup": true,
         "finished-translate": false,
         "is-original": true
     },
     {
         "id": 911,
-        "title": "Heart of dreamｓ",
+        "title": "Heart of dreams",
         "fw-title": "ＨＥＡＲＴ　ＯＦ　ＤＲＥＡＭＳ",
         "r-title": "Heart of dreams",
         "genre": "ポジティブ２",
@@ -12337,7 +12337,7 @@
         "slug": "heart-of-dreams",
         "remy": "Heart_of_dreams",
         "chara": "sunny",
-        "finished-backup": false,
+        "finished-backup": true,
         "finished-translate": false,
         "is-original": true
     },
@@ -12371,7 +12371,7 @@
         "slug": "hata",
         "remy": "Hata",
         "chara": "KAGAMI",
-        "finished-backup": false,
+        "finished-backup": true,
         "finished-translate": false,
         "is-original": true
     },
@@ -12388,7 +12388,7 @@
         "slug": "ichigeki-hisshou",
         "remy": "Ichigeki_hisshou",
         "chara": "六",
-        "finished-backup": false,
+        "finished-backup": true,
         "finished-translate": false,
         "is-original": true
     },
@@ -12864,7 +12864,7 @@
         "slug": "sakimori-renka",
         "remy": "Sakimori_renka",
         "chara": "KUNIOSHI",
-        "finished-backup": false,
+        "finished-backup": true,
         "finished-translate": false,
         "is-original": true
     },
@@ -12915,7 +12915,7 @@
         "slug": "kagachi",
         "remy": "Kagachi",
         "chara": "GIZIRI",
-        "finished-backup": false,
+        "finished-backup": true,
         "finished-translate": false,
         "is-original": true
     },
@@ -13204,7 +13204,7 @@
         "slug": "sumidagawa-karenka",
         "remy": "Sumidagawa_karenka",
         "chara": "Alt",
-        "finished-backup": false,
+        "finished-backup": true,
         "finished-translate": false,
         "is-original": true
     },
@@ -21959,7 +21959,7 @@
         "slug": "jinyou-emaki-sono-ichi-kitsune-kourou-no-yume",
         "remy": "Jinyou_emaki_sono_ichi_%22kitsune%22~_kourou_no_yume_~",
         "chara": "玉藻銀丸",
-        "finished-backup": false,
+        "finished-backup": true,
         "finished-translate": false,
         "is-original": true
     },
@@ -22146,7 +22146,7 @@
         "slug": "aiiro",
         "remy": "Aiiro",
         "chara": "Sigre",
-        "finished-backup": false,
+        "finished-backup": true,
         "finished-translate": false,
         "is-original": true
     },
@@ -22214,7 +22214,7 @@
         "slug": "you",
         "remy": "@you",
         "chara": "Ash",
-        "finished-backup": false,
+        "finished-backup": true,
         "finished-translate": false,
         "is-original": true
     },
@@ -22622,7 +22622,7 @@
         "slug": "jinyou-emaki-sono-ni-oni-yasha-no-matsuri-wa-shuuya",
         "remy": "Jinyou_emaki_sono_ni_%22oni%22~yasha_no_matsuri_wa_shuuya~",
         "chara": "酒呑雷牙",
-        "finished-backup": false,
+        "finished-backup": true,
         "finished-translate": false,
         "is-original": true
     },

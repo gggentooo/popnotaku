@@ -1,1 +1,73 @@
-[{"type": "meta", "source-original": [{"link": "", "description": ""}], "source-translation": ""}, {"type": "section-comment", "section-id": "music-comment", "section-display-name": "아티스트 코멘트", "section-content": [{"entry-author": "", "entry-content": "", "entry-content-ko": ""}]}, {"type": "section-comment", "section-id": "chara-comment", "section-display-name": "캐릭터 코멘트", "section-content": [{"entry-author": "", "entry-content": "", "entry-content-ko": ""}]}, {"type": "section-staff", "section-id": "staff-comment", "section-display-name": "스태프 코멘트", "section-content": [{"entry-author": "", "entry-content": "", "entry-content-ko": ""}]}]
+[
+    {
+        "type": "meta",
+        "source-original": [
+            {
+                "link": "https://web.archive.org/web/20170529183745/http://www.konami.jp/bemani/popn/music18/mc/oriental_folklore/oriental_folklore.html",
+                "description": "(아카이브) 전국열전 곡/캐릭터 소개 페이지"
+            }
+        ],
+        "source-translation": ""
+    },
+    {
+        "type": "section-comment",
+        "section-id": "music-comment",
+        "section-display-name": "아티스트 코멘트",
+        "section-content": [
+            {
+                "entry-author": "mizuno",
+                "entry-content": "いつものようにwacからオファーがあり、「今回はせんごくです」と言うので、パッと思いついたのが「旗」。\n実はこれ、Akinoのかなり初期、10年ほど前の作品のリアレンジです。\nその頃は古語とかに興味があって、古語辞典を調べながら歌詞を作った曲が何曲かありました。\n「旗」は戦国というよりはもっと古い、遣唐使とかそのへんをイメージして作りました。大海原を船で突き進んで行く感じですね。\n自分で演奏しているとそういう気分になれるのですが、みなさんもボタンを叩きながら、海を突き進んで知らない世界へ道を切り開いて行くような気分になれるでしょうか？\nそうなると嬉しいです。（ちょっと大げさかな）",
+                "entry-content-ko": ""
+            },
+            {
+                "entry-author": "akino",
+                "entry-content": "初めて曲をもらった時、何で私が歌わなきゃいけないの？と言った覚えがありますが（mizunoくん、その節は失礼しました）、今は私ならではの歌なのかなぁと思ったりします。\n結構技術的には難しいんですが、全く気を抜けない感じがだんだん気持ちよくなる感じ。",
+                "entry-content-ko": ""
+            }
+        ]
+    },
+    {
+        "type": "section-comment",
+        "section-id": "chara-comment",
+        "section-display-name": "캐릭터 코멘트",
+        "section-content": [
+            {
+                "entry-author": "きの子",
+                "entry-content": "求愛ダンスする鳥の姿を見て、舞いで感情を表現するってなんて素敵なんだろう！\nと、ずっと思っていました。\nカガミの舞は求愛を表すものではないけれど、伝えたいメッセージは何となく伝わりましたでしょうか。\nくるくるくるくる。舞うと何かが見えるはず。\n走馬灯の中身がカラフルでありますように。\n\nちなみに、くるくる舞うアニメが自分では一番気に入っています。\nフィギュアスケートやバレエもそうですが、目が回らない回転の仕方があるみたいで、しばし必死で練習してみたもののやはりただ目がくるくる回って気持ち悪くなってしまい、、夢をカガミに託してみました！",
+                "entry-content-ko": ""
+            }
+        ]
+    },
+    {
+        "type": "section-staff",
+        "section-id": "staff-comment",
+        "section-display-name": "스태프 코멘트",
+        "section-content": [
+            {
+                "entry-author": "TAMA",
+                "entry-content": "AKINOさんの声がオリエンタルで神秘的なかんじがたまりません。",
+                "entry-content-ko": ""
+            },
+            {
+                "entry-author": "まめしば",
+                "entry-content": "ぱっと見で卑弥呼的なミステリアスを感じたのですが、船で移動するアニメがあったので、つまりは遣唐使で小野妹子ってことね！(※小野妹子は男で遣隋使です)\n\n壮大で神秘的で爽快なこの曲をお楽しみください。",
+                "entry-content-ko": ""
+            },
+            {
+                "entry-author": "が～す～",
+                "entry-content": "不思議な雰囲気でまったりとした曲です。\n手開きっぱなしで疲れる！",
+                "entry-content-ko": ""
+            },
+            {
+                "entry-author": "eimy",
+                "entry-content": "EX譜面。最後の２秒まで自分を信じるんですが、やっぱり裏切られて終わります。で、できね～！　orz\n曲の盛り上がりと最後の２秒の恐怖にゾクゾクします。ドＭなので何度でもチャレンジする！今回の壁だわ。",
+                "entry-content-ko": ""
+            },
+            {
+                "entry-author": "wac",
+                "entry-content": "Akinoさん名義での日本語曲はポップンでは珍しい、つーか初めてですっけ？\n言われてみればこの曲は昔ライブで聴いた記憶がありました。ポップンユーザーにはエレでゴシックなイメージが強いかもですが、実は日本語曲やかわいらしいい曲なども結構歌われてたりするのですよね。\n古代日本の情景が浮かぶ曲ですね。\n\n壮大な曲なのでほんとは隠し曲にするつもりだったんですが、諸々の事情でロケテストからお目見えすることとなりました。諸々の事情つーか、あのですね、そうですよ、ぶっちゃけ他の曲が間に合わなかっただけですよ！\nロケテで出ていながら稼働したら隠されてる！てのもある意味斬新でオシャレかしらんとか言い訳も色々考えたのですが結局そのままデフォ曲です。\nこのことが後々他の楽曲・作曲者にも影響を与えていくことになるのですがそれはまたいずれ語るべき時がくるでしょう。\n歴史が動く時なんて得てしてそんなもの。",
+                "entry-content-ko": ""
+            }
+        ]
+    }
+]

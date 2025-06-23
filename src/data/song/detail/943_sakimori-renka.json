@@ -1,1 +1,73 @@
-[{"type": "meta", "source-original": [{"link": "", "description": ""}], "source-translation": ""}, {"type": "section-comment", "section-id": "music-comment", "section-display-name": "아티스트 코멘트", "section-content": [{"entry-author": "", "entry-content": "", "entry-content-ko": ""}]}, {"type": "section-comment", "section-id": "chara-comment", "section-display-name": "캐릭터 코멘트", "section-content": [{"entry-author": "", "entry-content": "", "entry-content-ko": ""}]}, {"type": "section-staff", "section-id": "staff-comment", "section-display-name": "스태프 코멘트", "section-content": [{"entry-author": "", "entry-content": "", "entry-content-ko": ""}]}]
+[
+    {
+        "type": "meta",
+        "source-original": [
+            {
+                "link": "https://web.archive.org/web/20170428190514/http://www.konami.jp/bemani/popn/music18/mc/manyoka/manyoka.html",
+                "description": "(아카이브) 전국열전 곡/캐릭터 소개 페이지"
+            }
+        ],
+        "source-translation": ""
+    },
+    {
+        "type": "section-comment",
+        "section-id": "music-comment",
+        "section-display-name": "아티스트 코멘트",
+        "section-content": [
+            {
+                "entry-author": "Ax",
+                "entry-content": "二度目ましてのAxです。\n\n今回はボーカリストの夏川陽子さんをお迎えし\n防人をテーマにしたラブソングをお送りします。\n\n防人という、辛く重すぎるテーマを\npop'n music用にどう描こうか悩みに悩んだ結果\n”どんな時でも、ずっと笑顔でいようと誓った二人”\nと言うコンセプトでアレンジする事となりました。\n\nその為、楽曲のテンションとは裏腹に\n歌詞の内容は切ない描写で埋め尽くしてあります。\n現実を彷彿させる\"防人恋歌\"というワードは、曲中一度しか登場せず\n二人がまだ幸せだった頃の、\"通路恋歌\"という形で何度も登場します。\n強く歌えば歌うほど、内に潜めた悲しさが顔を出すよう書いたつもりです。\n\nそんな複雑で難しい感情を見事歌い上げてくれた夏川さんに心からの感謝を。\nキャラクターになりきって、遠く離れたあの人へ届けと、叩き上げてください！",
+                "entry-content-ko": ""
+            },
+            {
+                "entry-author": "夏川陽子",
+                "entry-content": "pop'n music初参加の夏川陽子です。\n\npop'n の仲間入りができて、とっても嬉しく思っています！\n\n今回唄わせていただきました『防人恋歌』は、もう二度と会えない恋人を想い、悲しいけれどどんな時も笑顔でいようという、とっても切ない曲です。\n\n７拍子という難しいリズムに始めは少々戸惑いましたが、Axさんの曲はとてもかっこ良く幻想的な世界が広がり、歌詞をイメージしやすいので、愛しい人を想う寂しさや、愛する気持ちの力強さを私なりに表現してみました。\n\n悲しくも美しい『防人恋歌』\n\n沢山の方にプレイしていただけたら嬉しいです！",
+                "entry-content-ko": ""
+            }
+        ]
+    },
+    {
+        "type": "section-comment",
+        "section-id": "chara-comment",
+        "section-display-name": "캐릭터 코멘트",
+        "section-content": [
+            {
+                "entry-author": "NAGI",
+                "entry-content": "この曲を聞く度、涙を堪えるのにどれほど必死だった事か…。\n切なくも強い想いが、私の心に突き刺さるのです。\nアニメを作っている時、気が付いたら私までもが、ちょっと感傷的な頬笑みを湛えておりました。\n\n楽曲が女性の心情を語っているので、アニメは遠くへと旅立った男性を描きました。\nまだうら若き夫婦が、遠く離れた地から、互いを想い続けるイメージ…。\nきっと国忍は、果敢に運命と戦っているのでしょう。\n\n誰かを強く想う気持ちって、こんなにも美しいのですね。\nはたして彼は、想い人に再び巡り合う事が出来たのでしょうか…その事ばかりが気になります。",
+                "entry-content-ko": ""
+            }
+        ]
+    },
+    {
+        "type": "section-staff",
+        "section-id": "staff-comment",
+        "section-display-name": "스태프 코멘트",
+        "section-content": [
+            {
+                "entry-author": "eimy",
+                "entry-content": "涙なしには叩けません。くにおしぃいい～！！！\n防人のことは歴史でちょろっとしか習わなかったけど、こういう物語こそ昔きいて学んでおけばもっと勉強が楽しくなったんではないだろうかと。歴史のマンガみたいなのをずーっと読んでる子いたけど、私も読んでおけばよかったなぁ・・・と最近つくづく思います。\n歌声もメロディもせつなくて、そのせいで画面が歪んでなかなかクリアできませんでした。うぅ。",
+                "entry-content-ko": ""
+            },
+            {
+                "entry-author": "が～す～",
+                "entry-content": "切なすぎますねぇ・・\n曲だけでも切ないのにあのアニメは反則です。",
+                "entry-content-ko": ""
+            },
+            {
+                "entry-author": "masaru",
+                "entry-content": "開発中はずーーーーっとリピートしていました。ごめんね、他の曲。\nアニメも歌詞の切なさを十分表現していますね。\n勝っても負けても切ないって・・心が痛いです。",
+                "entry-content-ko": ""
+            },
+            {
+                "entry-author": "オーツ",
+                "entry-content": "落とし穴で笑ってたら申し訳ない気持ちになりました。",
+                "entry-content-ko": ""
+            },
+            {
+                "entry-author": "PON",
+                "entry-content": "ボクら日本人の心に刺さる、ペンタトニックの切ないフレーズが秀逸！\n楽曲がキャラとマッチしすぎてバグチェックするたびに泣いていました。\nせ、切ないですわ…。\nあ、ルーズアニメばっか見てるから悲しいのか。",
+                "entry-content-ko": ""
+            }
+        ]
+    }
+]

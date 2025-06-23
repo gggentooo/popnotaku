@@ -1,1 +1,63 @@
-[{"type": "meta", "source-original": [{"link": "", "description": ""}], "source-translation": ""}, {"type": "section-comment", "section-id": "music-comment", "section-display-name": "아티스트 코멘트", "section-content": [{"entry-author": "", "entry-content": "", "entry-content-ko": ""}]}, {"type": "section-comment", "section-id": "chara-comment", "section-display-name": "캐릭터 코멘트", "section-content": [{"entry-author": "", "entry-content": "", "entry-content-ko": ""}]}, {"type": "section-staff", "section-id": "staff-comment", "section-display-name": "스태프 코멘트", "section-content": [{"entry-author": "", "entry-content": "", "entry-content-ko": ""}]}]
+[
+    {
+        "type": "meta",
+        "source-original": [
+            {
+                "link": "https://web.archive.org/web/20170628001945/http://p.eagate.573.jp/game/popn/usaneko/p/musicchar/mcdetail/a_you.html",
+                "description": "(아카이브) 우사네코 곡/캐릭터 소개 페이지"
+            }
+        ],
+        "source-translation": ""
+    },
+    {
+        "type": "section-comment",
+        "section-id": "music-comment",
+        "section-display-name": "아티스트 코멘트",
+        "section-content": [
+            {
+                "entry-author": "PON",
+                "entry-content": "恐れ多くもアッシュ様の楽曲を歌わせて頂きました。\nお願い公募の採用枠選考をしている最中、wacさんに「PONくんってさ、アッシュの歌とか歌えそうじゃない？」と言われ\n「Ahッ！もちろんいけるぜベイーーベー！！Hooo！」って答えたら実現しちゃいました。\n\n次の日「PONくんってさ、ヘソ出し衣装でドラム叩きながら歌えそうじゃない？」と言われ\n「Ahッ！調子にのるなよCRAZY！！Yeah！」って答えておきました。\n一瞬オフィスが静まり返りました。\n\nノリって恐ろしいので気をつけましょう、一気飲みとか絶対にしちゃダメです。\n\n歌ったポイントとしては、アッシュ楽曲って、どの曲にも「男性的なセクシーさ」が感じられたので\n吐息多めで精一杯のセクシーを詰め込んでお送りしています。\nたぶんゲームセンターでは聞こえづらいのでいつかサントラにて耳元で囁いてやる。",
+                "entry-content-ko": ""
+            },
+            {
+                "entry-author": "古川\"good-cool\"竜也",
+                "entry-content": "アッシュ様、たいへんご無沙汰しておりました。\n貴方にもお仕えすることができ光栄に存じます。\n\n雷の夜、城にお越しになっていらっしゃいましたね。\nもうお一方の靴音も聞こえていたようですが…。\nそれではご機嫌麗しゅう。\n\nあ、お友達は元気にしておりますよ。",
+                "entry-content-ko": ""
+            }
+        ]
+    },
+    {
+        "type": "section-comment",
+        "section-id": "chara-comment",
+        "section-display-name": "캐릭터 코멘트",
+        "section-content": [
+            {
+                "entry-author": "ちっひ",
+                "entry-content": "皆様のお願いをかなえるポップン、沢山のご声援を頂きましてアッシュくん再登場！お久しぶりッスです。お久しぶりッシュでしょうかね。\nいや、、、そんなに久しぶりでもないですね！わりに出てるほうです。\n\n新アニメをつけるときは過去最高にいいシーンを皆さんに見てもらうぞ～と思ってやってますが\n沢山出演している子ほど素敵なアニメを沢山持っているので難易度あがって大変です！\nキャラも大変なので、曲作るのも同じく大変なんじゃないかな～お互いがんばろうぜ！と思って作ってましたが、上のサウンドさんのコメント見てるとそうでもなさそうというか、とても楽しそうでさすがでした。\n曲名はあっちゅ～って読めばいいのかな？\n\nうさ猫アッシュくんの悩みといえばやはり衣装！うさ猫テーマのスチパン方面にするか、ユーリ・スマイルと続いてゴシックなお揃い方面にするか…袖を伸ばしたりちぎったり、お腹を出したりしまったり、、、\nしかし、お前にしか似合わない衣装があるはずだ～！と思い切って決めました。\nアッシュはおそらく激しい系のドラマーなのであのネックレスって危ないのでは？と昔から気になっていて、今回はタンクトップにマークとして入れてみました。しかしまたネックレスをしてほしくもあり、ないものねだりですね！次に期待です。\nDeuilメンバーが珍しく3作続けて登場ということで、デザイナーもわっしょい！わっしょい！お祭気分で全部盛りしておきました！わんこならぬオオカミ姿も！シェフも！もともと魅力いっぱいなので収まりきらないくらいでした。\n\nお願いをくださった皆様、投票してくださった皆様、本当にありがとうございました。\n最近はナビくんのお手伝いをしてるんだとかで大忙しのようです、そちらもぜひ応援してあげてください！",
+                "entry-content-ko": ""
+            }
+        ]
+    },
+    {
+        "type": "section-staff",
+        "section-id": "staff-comment",
+        "section-display-name": "스태프 코멘트",
+        "section-content": [
+            {
+                "entry-author": "こにゃ",
+                "entry-content": "アッシュが来ましたね！\nようやくDeuilが揃いました。キャラを3体並べる箇所がなくて残念ですね…。\nこれは3人プレーモードを追加するしか…！",
+                "entry-content-ko": ""
+            },
+            {
+                "entry-author": "おや",
+                "entry-content": "アッシュっぽい曲で良いですねぇ\n高校生くらいのとき首に稲妻の形の金色のネックレスしていたのは良い思い出（中二病患者",
+                "entry-content-ko": ""
+            },
+            {
+                "entry-author": "MarL",
+                "entry-content": "この曲を聞くとなぜかおかしな気持ちになります。\nこれ以上ないってほど元気で明るい曲なのに、\nなぜしゃれた大人の余裕も感じるのでしょうか…\nワイルドな牙と色気を隠し持った潔い熱気に陥落しそうです\n困ります…！これ以上距離を詰められると私、ドキドキが、止まらないですっ…！\n（もしかして…この気持ちはアッシュ君の腹筋のせいなのでしょうか…）",
+                "entry-content-ko": ""
+            }
+        ]
+    }
+]

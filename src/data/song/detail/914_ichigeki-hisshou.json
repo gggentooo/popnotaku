@@ -1,1 +1,68 @@
-[{"type": "meta", "source-original": [{"link": "", "description": ""}], "source-translation": ""}, {"type": "section-comment", "section-id": "music-comment", "section-display-name": "아티스트 코멘트", "section-content": [{"entry-author": "", "entry-content": "", "entry-content-ko": ""}]}, {"type": "section-comment", "section-id": "chara-comment", "section-display-name": "캐릭터 코멘트", "section-content": [{"entry-author": "", "entry-content": "", "entry-content-ko": ""}]}, {"type": "section-staff", "section-id": "staff-comment", "section-display-name": "스태프 코멘트", "section-content": [{"entry-author": "", "entry-content": "", "entry-content-ko": ""}]}]
+[
+    {
+        "type": "meta",
+        "source-original": [
+            {
+                "link": "https://web.archive.org/web/20170824211329/http://www.konami.jp/bemani/popn/music18/mc/hiprock5/hiprock5.html",
+                "description": "(아카이브) 전국열전 곡/캐릭터 소개 페이지"
+            }
+        ],
+        "source-translation": ""
+    },
+    {
+        "type": "section-comment",
+        "section-id": "music-comment",
+        "section-display-name": "아티스트 코멘트",
+        "section-content": [
+            {
+                "entry-author": "Des-ROW",
+                "entry-content": "うへへ\nとうとう5作目までいちゃったね。\nそんなわけで、今の目標はHiprock50まで作ることです。\nそのために、体力が衰えないように鍛えておこうとおもいます。\n今回何と言うか迫りくるような、セマリ来るような、\nなんち言うか、さしせまるような、\n音の連射、\n圧迫感\n音圧プレッシャー的な\n表現のしたいようで、、、\nげへへ（Dはにんまりしながらそれ以上のことを言わなかった）\nそれに、ムソルグスキー先生のもっとも洗礼さえれていると言われている名曲もリスペクトしながらトライしました。\nこの曲に流れる本質的な流れと言うものは、\n「生きる」と言うことを考えています。\n「信じる」と言うことが本流です。\nこんなご時世なので、\nいや、こんなご時世だからこそ、\n地道にできることをやって行こう！\nと言う感じで、\n柄にもなく真面目なことをいってしまそうな勢いですが、\nむむぺっ！（Dは口をへの字にしてマジを装うとがむばってみた）\nいろいろと、\n曲を作って行く上の出来事とか、\nここのコラムでも書いてるので、\n興味があったらみてみんみんこ。\n\nhttp://bmf.i-revo.jp/des_row/column/201001.html\n\nメンバーのコメントは、\n例によってなかなか集まりが悪いので、\nこれからまたここで追加させてもらいます。\nめんごでやんす。\nでは、またつぐ\nちょくろ！",
+                "entry-content-ko": ""
+            }
+        ]
+    },
+    {
+        "type": "section-comment",
+        "section-id": "chara-comment",
+        "section-display-name": "캐릭터 코멘트",
+        "section-content": [
+            {
+                "entry-author": "mayo",
+                "entry-content": "デザイナ皆から着物のデザインの応募？が締め切りギリギリまで練られたました。\nかっこよく！タイトルも”せんごく”だし、今回このキャラは外せないよね～！と。\nみんなでああでもないこうでもないとブラッシュアップして、最後の最後は確かeimyさんが素敵なアイデアを繰り出した！！みたいな感じで熱くまとまったのでした。\nせんごくの世を素敵サウンズと共に力強く斬って（書いて？）くれそうです。",
+                "entry-content-ko": ""
+            }
+        ]
+    },
+    {
+        "type": "section-staff",
+        "section-id": "staff-comment",
+        "section-display-name": "스태프 코멘트",
+        "section-content": [
+            {
+                "entry-author": "masaru",
+                "entry-content": "やったねやっちゃったねでお馴染のDes先生の曲も第５弾！\n３の倍数ってことは次回は21・・・\nうへころさ～ん。次どうします？またやりますよね！",
+                "entry-content-ko": ""
+            },
+            {
+                "entry-author": "とっきー",
+                "entry-content": "初めこのキャラクターはふんどし見えているけど大丈夫なんだろうかと思ってましたが\n侍にそんな突っ込みするなんて無粋だなと自己完結しました。まだまだ修行が足りません。",
+                "entry-content-ko": ""
+            },
+            {
+                "entry-author": "まめしば",
+                "entry-content": "「早い・多い・長い」で両腕を殺しにかかります。両腕つりかけました。\n今回のヒップロックはいつにも増してハードです。",
+                "entry-content-ko": ""
+            },
+            {
+                "entry-author": "が～す～",
+                "entry-content": "製作中ＴＡＭＡさんがEX譜面をプレイしているのを見て「これならできんじゃね！？」と思って挑戦したのを思い出します。\nあの頃は若かった・・・これを完走できる日は来るのでしょうか。",
+                "entry-content-ko": ""
+            },
+            {
+                "entry-author": "PON",
+                "entry-content": "三連符と四分音符の複合、すなわちポリリズムをさばき切れるかが、この楽曲攻略のカギだ。\n慣れるまでは難しいけど、ライドベルがうまくさばけた時は快感だよ！\nそしてポップくんが遠目に配置されているラスト付近。\nあせらずに見切って、最後の力を振り絞ればゴールは目前！だね。",
+                "entry-content-ko": ""
+            }
+        ]
+    }
+]

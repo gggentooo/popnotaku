@@ -1,1 +1,68 @@
-[{"type": "meta", "source-original": [{"link": "", "description": ""}], "source-translation": ""}, {"type": "section-comment", "section-id": "music-comment", "section-display-name": "아티스트 코멘트", "section-content": [{"entry-author": "", "entry-content": "", "entry-content-ko": ""}]}, {"type": "section-comment", "section-id": "chara-comment", "section-display-name": "캐릭터 코멘트", "section-content": [{"entry-author": "", "entry-content": "", "entry-content-ko": ""}]}, {"type": "section-staff", "section-id": "staff-comment", "section-display-name": "스태프 코멘트", "section-content": [{"entry-author": "", "entry-content": "", "entry-content-ko": ""}]}]
+[
+    {
+        "type": "meta",
+        "source-original": [
+            {
+                "link": "https://web.archive.org/web/20160211221617/http://www.konami.jp/bemani/popn/music18/mc/chipnroll/chipnroll.html",
+                "description": "(아카이브) 전국열전 곡/캐릭터 소개 페이지"
+            }
+        ],
+        "source-translation": ""
+    },
+    {
+        "type": "section-comment",
+        "section-id": "music-comment",
+        "section-display-name": "아티스트 코멘트",
+        "section-content": [
+            {
+                "entry-author": "Mr.T",
+                "entry-content": "ヘイヘイヘイ！ロケンローMr.Tだ。\nそう、ウッチーズZ第２弾はロケンローだぜベイベ。\n何を隠そうこの俺様、小さい頃はロックンロールしか聴いてなかったのさ。\nといってもリヴァプールで有名なイギリスのバンドとサーフィンで有名なアメリカのバンドだけなんだけど。\nたしか小学校の卒業アルバムにも「将来の夢／ロックンロールの作曲家」って書いてたっけ。\nそう、ロックンロールこそ俺様のルーツってわけだ。\nしかし普通にロケンローしても面白くないのでここはやっぱり、というか当然ピコピコだよキミ。俺様のもう一つのルーツとしてピコピコは外せないからな。\nなんと俺様が小学生の頃から愛用してきた白と赤のゲームマシンを音源にして、基盤から直接リード線をひっぱってきて録音したという気合いの入れよう。\n筋金入りの正真正銘ピコピコサウンドなんだぜ！高速で矩形波のデューティー比いじったりしててなかなかいい音だろ？\n後半のギターソロならぬピコピコソロが特に気に入ってるぜ。ゲーム譜面にもフルアサインしといたから間違えずに弾いてくれよ！\n今回も謎のクリエイター「Z」の作詞でマーくんとミーちゃんのキュートなラブソングに仕上がったぜ。当然Zと俺様のボーカルとハーモニーも聴き所だぞ。\nそんな俺様の２つのルーツを最新テクノロジーで再構築した「青春ピコピコRock'n Roll」ガンガン遊んでくれよな～。",
+                "entry-content-ko": ""
+            }
+        ]
+    },
+    {
+        "type": "section-comment",
+        "section-id": "chara-comment",
+        "section-display-name": "캐릭터 코멘트",
+        "section-content": [
+            {
+                "entry-author": "eimy",
+                "entry-content": "歌詞がなくてデモを聞いた時点でのアイデアは、ロックンロールとピコピコで、エドワードをロックンロール風に着せ替えしてツイストさせる案が出たりしてました。あれもすごいかわいかったなー。\nでもやっぱ歌モノは歌詞がないと始まらないよね、ってことでどれどれCHECKしたらなんとまあかわいくてラブい歌詞！勢い余ってうっかり結婚までさせちゃったけど、しあわせいっぱいな２人をお祝いするみたいなアニメを目指しました。だってカラフルな風船とか似合う曲だなって思ったんだもん！\n歌詞の意味とかは一切聞かないのでほんとのところはわかりませんが、キーワードをちょいちょいひっぱってきて幼なじみの２人にもう１羽幼なじみを加えて、あのステップをさせました（笑）\nぜひサントラでじっくり歌詞を見ながらアニメを思い出してみて、２人と１羽の妄想をしてみてください～。",
+                "entry-content-ko": ""
+            }
+        ]
+    },
+    {
+        "type": "section-staff",
+        "section-id": "staff-comment",
+        "section-display-name": "스태프 코멘트",
+        "section-content": [
+            {
+                "entry-author": "TAMA",
+                "entry-content": "ウッチーズのピコピコサンド大好きです。\nかわいいながら、生意気な感じがたまりません。\nすこしだけ、最後まで泣けないあのゲームを思い出しました。",
+                "entry-content-ko": ""
+            },
+            {
+                "entry-author": "masaru",
+                "entry-content": "「いつもピコピコばかりして！！」\nと、親に叱られた日々を思い出しました。\nいまでもピコピコやってますけどね！",
+                "entry-content-ko": ""
+            },
+            {
+                "entry-author": "shio",
+                "entry-content": "ウッチーズさんお得意のピコピコさとボーカルがもうかわゆいです。キャラ決めは歌詞の解釈にデザイナーがいろんなアイデア出しました。で、幼馴染の２人をずっと見守ってた子がいいなーと・・・・・・なんと、トサカもいかしたアニキになりました。鶏の世界では結構ご高齢では・・・？しかしダンスのキレを見るにまだまだ現役ですね！\nちなみにウッチーズつながりの別案で、ダイキ君とリンちゃんでハリーがチキングポジション？つーかもう結婚なんて父さん許さんぞ！なんつってましたが、名前がみぃちゃんだったので流れました。ワフッ。",
+                "entry-content-ko": ""
+            },
+            {
+                "entry-author": "まめしば",
+                "entry-content": "当初、サングラスでバッチリきまってるニワトリさんだったのが、まゆ毛をつけるだけで、一気にお調子者っぽくなりました。まゆ毛すごい。\n個人的に2Pカラーがオススメです。強そう。",
+                "entry-content-ko": ""
+            },
+            {
+                "entry-author": "wac",
+                "entry-content": "ロックンロールを作る時のMr.Tさんはコメントも心なしかロックですね。お父さんもベース弾かれるので親子でリズム隊が組める生まれついての音楽一家なんですよね。\nピコピコとロックンロールの融合だからチップンロール！というジャンル名は今回つけたジャンル名の中でも茶事リスニングと並んで秀逸だったと自負しております。\nその人の音楽のルーツと今作っている音楽とは必ずしも一致しないものですよね。例えばwacさんが幼少のみぎりの場合、初めて買ったカセットテープは幻想的なシューティングゲームのサントラでした。そういえば当時はゲームミュージックばかり聴いてたっけ。今作っている音楽と必ずしも一致しました。",
+                "entry-content-ko": ""
+            }
+        ]
+    }
+]
