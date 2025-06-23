@@ -113,7 +113,7 @@ function sortSongs(what) {
     let sorted = categoryItemsArray.sort(sorter);
 
     function sorter(a, b) {
-        return a.dataset[what].localeCompare(b.dataset[what]);
+        return a.dataset[what].localeCompare(b.dataset[what], undefined, { numeric: true, sensitivity: 'base' });
     }
 
     sorted.forEach(e => document.querySelector("#song-list").appendChild(e))
@@ -291,7 +291,7 @@ async function loadChara(querystr) {
         const song_entry = songlist_raw[i];
         for (var j = 0; j < chardata_raw["songs"].length; j++) {
             if (song_entry["id"] === chardata_raw["songs"][j]) {
-                song_list += `<li data-original='` + song_entry["is-original"] + `' data-genre="` + song_entry["fw-genre"] + `" onclick="location.href='../song/?s=` + song_entry["id"] + `'"><span class="genre">` + song_entry["genre"] + `</span><a href="../song/?s=` + song_entry["id"] + `">` + song_entry["title"] + `</a></li>`;
+                song_list += `<li data-id='` + song_entry["id"] + ` data-original='` + song_entry["is-original"] + `' data-genre="` + song_entry["fw-genre"] + `" onclick="location.href='../song/?s=` + song_entry["id"] + `'"><span class="genre">` + song_entry["genre"] + `</span><a href="../song/?s=` + song_entry["id"] + `">` + song_entry["title"] + `</a></li>`;
             }
         }
     }
@@ -329,7 +329,7 @@ async function loadChara(querystr) {
     basic_info += `</section>`;
 
     target.innerHTML += basic_info;
-    sortSongs("genre");
+    sortSongs("id");
 
     if (do_not_load) { return; }
 
