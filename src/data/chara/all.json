@@ -892,13 +892,13 @@
             2067,
             919
         ],
-        "designer": "",
+        "designer": "いぬ千代",
         "profile": {
-            "description": "",
-            "from": "",
-            "hobby": "",
-            "likes": "",
-            "dislikes": ""
+            "description": "メルヘン王国北部にある自分のお城で、200年の眠りについていたヴァンパイア。起きたら暇だったので、趣味でバンドを作ってみたらしい。",
+            "from": "メルヘン王国",
+            "hobby": "(2)今は曲作りだって。 | (4)バンド活動。",
+            "likes": "月夜の散歩。",
+            "dislikes": "退屈。日光。日焼けしちゃうのが嫌なんだってさ。"
         },
         "profile-ko": {
             "description": "",
@@ -915,36 +915,56 @@
         "quotes": [
             {
                 "from": "NET: ATTACK",
-                "content": "",
+                "content": "それっ！",
                 "content-ko": ""
             },
             {
                 "from": "NET: DAMAGE",
-                "content": "",
+                "content": "くっ！",
                 "content-ko": ""
             },
             {
                 "from": "NET: GOOD",
-                "content": "",
+                "content": "ふふっ",
                 "content-ko": ""
             },
             {
                 "from": "NET: BAD",
-                "content": "",
+                "content": "むっ",
                 "content-ko": ""
             },
             {
                 "from": "NET: WIN",
-                "content": "",
+                "content": "当然だな",
                 "content-ko": ""
             },
             {
                 "from": "NET: LOSE",
-                "content": "",
+                "content": "やるな…",
+                "content-ko": ""
+            },
+            {
+                "from": "팝픈뮤직 2의 캐릭터들은 지금?!",
+                "content": "POP'N TOUR～WHITE BIRDS 1999～直前！準備に余念がないよ。チケットは数秒で完売？",
+                "content-ko": ""
+            },
+            {
+                "from": "팝픈뮤직 4 캐릭터 소개",
+                "content": "『Deuil』という名のバンドグループのリーダー。ライブツアーも無事終了し、今度はアルバム作りをしているんだとか。",
+                "content-ko": ""
+            },
+            {
+                "from": "팝픈뮤직 8 캐릭터 소개",
+                "content": "暇つぶしで始めたバンド活動もすっかり楽しくなってきたみたい？\nでも気まぐれは相変わらずで、神出鬼没な彼らのステージを見られた君はラッキーかも。",
+                "content-ko": ""
+            },
+            {
+                "from": "팝픈뮤직 16 캐릭터 소개",
+                "content": "待望のDeuil最新曲は今夜のステージが初公開！\n３人で月夜の散歩中に浮かんだメロディで、ついさっき完成したばっかりなんだって！",
                 "content-ko": ""
             }
         ],
-        "finished-backup": false,
+        "finished-backup": true,
         "finished-translate": false,
         "source-translation": "",
         "see-also": [
@@ -26708,16 +26728,16 @@
     },
     {
         "name-dat": "TENT-KANT",
-        "name-ja": "",
-        "name-ko": "",
+        "name-ja": "テント・カント",
+        "name-ko": "텐트 칸트",
         "debut": "16",
         "songs": [
             808,
             1429
         ],
-        "designer": "",
+        "designer": "shio",
         "profile": {
-            "description": "",
+            "description": "パーティに欠かせない不思議な奇術を披露してくれるマジシャン。\nどれもこれも仕掛けが気になるけど、手品のタネなんてどこにもないんだって！",
             "from": "",
             "hobby": "",
             "likes": "",
@@ -26731,10 +26751,10 @@
             "dislikes": ""
         },
         "birthday": {
-            "month": 0,
-            "day": 0
+            "month": 3,
+            "day": 13
         },
-        "apple-color": 3,
+        "apple-color": 0,
         "quotes": [
             {
                 "from": "NET: ATTACK",

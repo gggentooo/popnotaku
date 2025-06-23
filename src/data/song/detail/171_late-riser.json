@@ -1,1 +1,83 @@
-[{"type": "meta", "source-original": [{"link": "", "description": ""}], "source-translation": ""}, {"type": "section-comment", "section-id": "music-comment", "section-display-name": "아티스트 코멘트", "section-content": [{"entry-author": "", "entry-content": "", "entry-content-ko": ""}]}, {"type": "section-comment", "section-id": "chara-comment", "section-display-name": "캐릭터 코멘트", "section-content": [{"entry-author": "", "entry-content": "", "entry-content-ko": ""}]}, {"type": "section-staff", "section-id": "staff-comment", "section-display-name": "스태프 코멘트", "section-content": [{"entry-author": "", "entry-content": "", "entry-content-ko": ""}]}]
+[
+    {
+        "type": "meta",
+        "source-original": [
+            {
+                "link": "https://web.archive.org/web/20170520085332/http://www.konami.jp/bemani/popn/music8/music/visual3.html",
+                "description": "(아카이브) 팝픈뮤직 8 곡/캐릭터 소개 페이지"
+            }
+        ],
+        "source-translation": ""
+    },
+    {
+        "type": "section-comment",
+        "section-id": "music-comment",
+        "section-display-name": "아티스트 코멘트",
+        "section-content": [
+            {
+                "entry-author": "古川\"good-cool\"竜也",
+                "entry-content": "前回の「Cry Out」では、たくさんのご声援を、本当にありがとうございました。リミックスまで登場させていただけるほどのご支持を受けまして、ボーカル担当のKoHeyともども心より御礼申し上げます。いずれまたKoHeyと一緒に皆さんのお目にかかる時があると思いますが、応援よろしくお願いします!! さて、今回約２年ぶりに復活のVisualシリーズを再び制作させていただけることになりました。感激です♪ 「Visual2」の制作時に目指した、ユラユラ燃える感じに対抗すべく「Visual3」ではメラメラ燃える感じを目指しました～!! それだけの違いかよ!! しかし、ギター・パートを本能そして感情のおもむくまま、アツいスーパー炎のギタリスト人に変身して収録した結果、前回にも増してカナリの疾走感が出たのではないかと思っているのは僕だけですか、そうですか（笑）\nところで、「Late Riser」の意味は「朝寝坊」です。この曲を作っている頃、あまりにも睡眠不足だったため「Late Riser」になりたくてつけたタイトルですが、いまだに思いを遂げられずに過ごしております～（泣） Riser!! yeah!!",
+                "entry-content-ko": ""
+            }
+        ]
+    },
+    {
+        "type": "section-comment",
+        "section-id": "chara-comment",
+        "section-display-name": "캐릭터 코멘트",
+        "section-content": [
+            {
+                "entry-author": "shio",
+                "entry-content": "ヴィジュアル系の人って非日常的な扮装をよくしているので、本物の吸血鬼が「なんで私のまねをするんだ？それって楽しいのか？」と逆に人間のまねっこをしたらおもしろいかな？といういたずら書きからユーリさんができました。\n(なのでセンスがちょっとずれているのも仕方ないのです)\nそしていぬ千代君がバンド友達を増やしてくれて設定が広がったり、３度も登場することになったり、当たり前ですがポ２の時は想像すらしなかったことばかりでほんと不思議です。自分の作ったものが自分の範囲を飛び越えてひとりでに広がっていく感覚。うーん。世界は不透明だ。\n\n今回のアニメは「ほんとは歌もファンもみんな好きみたい」がテーマです。私なりの彼のイメージを詰め込みました。ミスアクションと月夜のお散歩シーンはメルヘンムードが出せたかなとなかなかお気に入りです。",
+                "entry-content-ko": ""
+            }
+        ]
+    },
+    {
+        "type": "section-staff",
+        "section-id": "staff-comment",
+        "section-display-name": "스태프 코멘트",
+        "section-content": [
+            {
+                "entry-author": "saito",
+                "entry-content": "ポップン２→ポップン４→ポップン８ときたので、ヴィジュアル４はポップン16ですね！",
+                "entry-content-ko": ""
+            },
+            {
+                "entry-author": "TAMA",
+                "entry-content": "じゃ、ヴィジュアル５はポップン32ですな！",
+                "entry-content-ko": ""
+            },
+            {
+                "entry-author": "wac",
+                "entry-content": "わ「ヴィジュアルですか！」\nぐ「ヴィジュアルです！」\nわ「本当にヴィジュアルですか！」\nぐ「本当にヴィジュアルです！」\nわ「本当に本当にヴィジュアルですか！」\nぐ「本当に本当にヴィジュアルです！」\nという電話上での攻防は１時間にも及び(本当)。\nその時にならないとわからないよとか言っていたその時が来た！\nというわけで満を持して。ホントにホントにヴィジュアルです。俺もお前もヴィジュアルです。\n\nあ、念の為ヴィジュアルであることを確認しまくったのはヴィジュアルがイヤなんじゃなくて、この曲の進行が超強行軍でキャラの締めきり寸前に曲がまだ出来てなかったからだったり。そんな意味でも無闇やたらと思い出深い曲なのでした。というか今作の中でもかなり好きな曲。",
+                "entry-content-ko": ""
+            },
+            {
+                "entry-author": "tera",
+                "entry-content": "あう。　これもギリギリ収録でshio先生宿泊決定。",
+                "entry-content-ko": ""
+            },
+            {
+                "entry-author": "shio",
+                "entry-content": "ミーティングでヴィジュアル３をやりたい！と社長から伺ったときは、実はちょっと不安だったんですけど、届いた曲のすばらしさに心配は一気に吹き飛んでしまいました。ぎ…ぎりぎりでどきどきでしたが。",
+                "entry-content-ko": ""
+            },
+            {
+                "entry-author": "ミコシバ",
+                "entry-content": "カッコイイ音と甘いボイスはズルイよねえ。",
+                "entry-content-ko": ""
+            },
+            {
+                "entry-author": "ちょび。",
+                "entry-content": "ビジュアルって感じですよね。ドキドキです。",
+                "entry-content-ko": ""
+            },
+            {
+                "entry-author": "シマＱ",
+                "entry-content": "きゃっこいいね。",
+                "entry-content-ko": ""
+            }
+        ]
+    }
+]

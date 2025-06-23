@@ -1,1 +1,48 @@
-[{"type": "meta", "source-original": [{"link": "", "description": ""}], "source-translation": ""}, {"type": "section-comment", "section-id": "music-comment", "section-display-name": "아티스트 코멘트", "section-content": [{"entry-author": "", "entry-content": "", "entry-content-ko": ""}]}, {"type": "section-comment", "section-id": "chara-comment", "section-display-name": "캐릭터 코멘트", "section-content": [{"entry-author": "", "entry-content": "", "entry-content-ko": ""}]}, {"type": "section-staff", "section-id": "staff-comment", "section-display-name": "스태프 코멘트", "section-content": [{"entry-author": "", "entry-content": "", "entry-content-ko": ""}]}]
+[
+    {
+        "type": "meta",
+        "source-original": [
+            {
+                "link": "https://web.archive.org/web/20160328134927/http://www.konami.jp/bemani/popn/music1_4/html/4chara_2.html#Yuli",
+                "description": "(아카이브) 팝픈뮤직 4 곡/캐릭터 소개 페이지"
+            }
+        ],
+        "source-translation": ""
+    },
+    {
+        "type": "section-comment",
+        "section-id": "music-comment",
+        "section-display-name": "아티스트 코멘트",
+        "section-content": [
+            {
+                "entry-author": "村井聖夜",
+                "entry-content": "ビートマニアでも大人気の楽曲を数多く提供してくれている、 good-coolさんがポップンにも登場！ビーマニで はクラブ系サウンドがメインですが、こんなキャッチーな曲もレパートリーの範疇なんですね。すごい！\n歌っているのは、実際にメディカル・トランス・ピーチというバンドのボーカリストでもある、KoHeyさん。ホンモノが歌うからやけにリアルですよね。これは女のコたちの間でも大人気間違いなしになることでしょう。\n\n（注釈：KoHeyさんの\"o\"は、上に点がふたつ付く、表記 が正解ですが、ネットの文字では表せないの で、通常の\"o\"にしています。ご了承ください。）",
+                "entry-content-ko": ""
+            }
+        ]
+    },
+    {
+        "type": "section-comment",
+        "section-id": "chara-comment",
+        "section-display-name": "캐릭터 코멘트",
+        "section-content": [
+            {
+                "entry-author": "いぬ千代",
+                "entry-content": "今回は大分大人しい衣装になっています。衣装デザインは生みの親のShioさんにお願いしました。\nそういえば『Deuil』って何人居るんでしょうね？",
+                "entry-content-ko": ""
+            }
+        ]
+    },
+    {
+        "type": "section-staff",
+        "section-id": "staff-comment",
+        "section-display-name": "스태프 코멘트",
+        "section-content": [
+            {
+                "entry-author": "",
+                "entry-content": "",
+                "entry-content-ko": ""
+            }
+        ]
+    }
+]

@@ -250,7 +250,7 @@
         "slug": "white-birds",
         "remy": "WHITE_BIRDS",
         "chara": "Yuli",
-        "finished-backup": false,
+        "finished-backup": true,
         "finished-translate": false,
         "is-original": true
     },
@@ -709,7 +709,7 @@
         "slug": "cry-out",
         "remy": "Cry_Out",
         "chara": "Yuli",
-        "finished-backup": false,
+        "finished-backup": true,
         "finished-translate": false,
         "is-original": true
     },
@@ -2375,7 +2375,7 @@
         "slug": "late-riser",
         "remy": "Late_Riser",
         "chara": "Yuli",
-        "finished-backup": false,
+        "finished-backup": true,
         "finished-translate": false,
         "is-original": true
     },
@@ -10518,7 +10518,7 @@
         "slug": "desire",
         "remy": "Desire",
         "chara": "Yuli",
-        "finished-backup": false,
+        "finished-backup": true,
         "finished-translate": false,
         "is-original": true
     },
@@ -10756,7 +10756,7 @@
         "slug": "schrodinger-no-neko",
         "remy": "Schrodinger_no_neko",
         "chara": "TENT-KANT",
-        "finished-backup": false,
+        "finished-backup": true,
         "finished-translate": false,
         "is-original": true
     },

@@ -71,8 +71,9 @@ async function loadTitleContent(num) {
 function loadSongList(songs_raw, titlenum) {
     const subsection_songs = document.createElement("section");
     subsection_songs.innerHTML += `<h3 id="m_c">곡 목록<button class="fold" onclick="foldSection('m_c')">단락 접기/펼치기</button></h3>
-        <small>상하 스크롤로 더 많은 항목을 열람할 수 있습니다.<br>타일 클릭 시 악곡 상세 페이지로 이동됩니다.<br>아래 버튼을 이용해 정렬 방식을 바꿀 수 있습니다.<br>곡 상세 정보의 백업이 완료되지 않은 경우에는 타일이 옅은 색으로 표시되며, 모든 백업 및 번역이 완료된 곡은 타일의 테두리가 겹선으로 표시됩니다.</small>
+        <small>곡 상세 정보의 백업이 완료되지 않은 경우에는 타일이 옅은 색으로 표시되며, 모든 백업 및 번역이 완료된 곡은 타일의 테두리가 겹선으로 표시됩니다.</small>
         <div class="sort-button-wrap">
+            <em style="font-size:0.8rem;padding:0;">정렬</em>
             <button onclick="sortSongs('id');">ID</button>
             <button onclick="sortSongs('title');">제목</button>
             <button onclick="sortSongs('genre');">장르</button>
@@ -348,7 +349,7 @@ async function loadChara(querystr) {
 
     var quotes = `
         <section class="quotes">
-            <h2 id="quotes">대사<button class="fold" onclick="foldSection('quotes')">단락 접기/펼치기</button></h2>
+            <h2 id="quotes">대사 및 기타 설명문<button class="fold" onclick="foldSection('quotes')">단락 접기/펼치기</button></h2>
     `;
     const quotes_raw = chardata_raw["quotes"];
     for (var i = 0; i < quotes_raw.length; i++) {

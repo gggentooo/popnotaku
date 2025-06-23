@@ -1,1 +1,48 @@
-[{"type": "meta", "source-original": [{"link": "", "description": ""}], "source-translation": ""}, {"type": "section-comment", "section-id": "music-comment", "section-display-name": "아티스트 코멘트", "section-content": [{"entry-author": "", "entry-content": "", "entry-content-ko": ""}]}, {"type": "section-comment", "section-id": "chara-comment", "section-display-name": "캐릭터 코멘트", "section-content": [{"entry-author": "", "entry-content": "", "entry-content-ko": ""}]}, {"type": "section-staff", "section-id": "staff-comment", "section-display-name": "스태프 코멘트", "section-content": [{"entry-author": "", "entry-content": "", "entry-content-ko": ""}]}]
+[
+    {
+        "type": "meta",
+        "source-original": [
+            {
+                "link": "https://web.archive.org/web/20160404013813/http://www.konami.jp/bemani/popn/music1_4/html/chara_n2.html",
+                "description": "(아카이브) 팝픈뮤직 2 곡/캐릭터 소개 페이지"
+            }
+        ],
+        "source-translation": ""
+    },
+    {
+        "type": "section-comment",
+        "section-id": "music-comment",
+        "section-display-name": "아티스트 코멘트",
+        "section-content": [
+            {
+                "entry-author": "violent age",
+                "entry-content": "２ステージの人気曲で、ギターの駆け上がりフレーズを見てびっくりした方も多いのではないでしょうか。\n開発員はこれを「らせん」と呼んでいます。\nそれにしても日本独自のジャンル「ビジュアル系」の音楽的な特徴とはいったいなんなのでしょうか。 私なりに考えると、マイナー調を主体とした歌謡曲的メロディーライン、ビートパンクの縦ノリドラム、 ヘヴィメタのギターリフ、80'sニューロマンティック風の歌唱法の融合だと思います。",
+                "entry-content-ko": ""
+            }
+        ]
+    },
+    {
+        "type": "section-comment",
+        "section-id": "chara-comment",
+        "section-display-name": "캐릭터 코멘트",
+        "section-content": [
+            {
+                "entry-author": "",
+                "entry-content": "",
+                "entry-content-ko": ""
+            }
+        ]
+    },
+    {
+        "type": "section-staff",
+        "section-id": "staff-comment",
+        "section-display-name": "스태프 코멘트",
+        "section-content": [
+            {
+                "entry-author": "",
+                "entry-content": "",
+                "entry-content-ko": ""
+            }
+        ]
+    }
+]

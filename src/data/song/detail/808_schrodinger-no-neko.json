@@ -1,1 +1,103 @@
-[{"type": "meta", "source-original": [{"link": "", "description": ""}], "source-translation": ""}, {"type": "section-comment", "section-id": "music-comment", "section-display-name": "아티스트 코멘트", "section-content": [{"entry-author": "", "entry-content": "", "entry-content-ko": ""}]}, {"type": "section-comment", "section-id": "chara-comment", "section-display-name": "캐릭터 코멘트", "section-content": [{"entry-author": "", "entry-content": "", "entry-content-ko": ""}]}, {"type": "section-staff", "section-id": "staff-comment", "section-display-name": "스태프 코멘트", "section-content": [{"entry-author": "", "entry-content": "", "entry-content-ko": ""}]}]
+[
+    {
+        "type": "meta",
+        "source-original": [
+            {
+                "link": "https://web.archive.org/web/20170824205902/http://www.konami.jp/bemani/popn/music16/mc/end/toy.html",
+                "description": "(아카이브) 파티 곡/캐릭터 소개 페이지"
+            }
+        ],
+        "source-translation": ""
+    },
+    {
+        "type": "section-comment",
+        "section-id": "music-comment",
+        "section-display-name": "아티스트 코멘트",
+        "section-content": [
+            {
+                "entry-author": "Cait Sith",
+                "entry-content": "にゃん♪",
+                "entry-content-ko": ""
+            },
+            {
+                "entry-author": "TOMOSUKE",
+                "entry-content": "何も正解ってのはひとつではない。\nそもそも正解なんてない。\n\n人はいつでも何かにすがろうとします。\nひとつのものごとにすがる事は\nその人がその人たる所以であるために必要だと思いこんだりもします。\n\nだけど、物事を極限までミクロに考えたとき\n素粒子の挙動はランダムでしかない。\n\nひとつの見方に決め付けたりすれば\n他のものをすべて見失うというパラドックスに遭遇するのです。\n\n『シュレーディンガーの猫』の論理を簡単に言えばそうなるでしょう。\n\nつまり理解できないものに出会った時に自分にどうケリをつけるかってのは\nほかでもない、あなた次第なのです。\n\nいままでに無いわけのわからない高難易度だと受け止めるか\n相対的に他の高難易度曲のわけがわかったと受け止めるか\n全曲制覇に意味をもたせるか\nむしろ思い切ってトイコンフルコンしたら付き合ってくれ！と口説き文句に使うかは…\n\n自由にゃーーーーーーーーーーーーー！、です。\n\n正解なんてはじめからありはしないのだから――\n\n…というみんなに柔軟性と広い視野を持って欲しいと思って作ったこの曲です。\nこの曲は色々な捉え方をできるようにと、様々なアイデアを含んでいます。\nそれがあの譜面であったり曲調であったり、曲のタイトルや曲コメであったり、猫や動物の声であったり…。\n譜面は全体的に非常に難度を高く作りました。\n配列も今までに無い感じも取り入れて、この曲を初めて遊んだ時の驚きを味わってもらおうと\n曲調も展開と拍子がコロコロと変わる複雑な感じにしました。\nでも、ポップンという事は忘れちゃいかんと思っているので\n自分の中で考える最高にポップンらしい楽しくはっちゃけたボスを目指して作りましたよ！\n\nポップンの長い歴史の中に、色んな意味でこの曲の名が刻まれたらいいなとひっそりと思ってます。",
+                "entry-content-ko": ""
+            }
+        ]
+    },
+    {
+        "type": "section-comment",
+        "section-id": "chara-comment",
+        "section-display-name": "캐릭터 코멘트",
+        "section-content": [
+            {
+                "entry-author": "shio",
+                "entry-content": "ネコさんから「ダダイズム」な感じでとオーダー承りまして、うぃーむっしゅーと寄り道をしつつも雲の上からマグリット趣味なジェントルマンがやってきました。\n『手術台の上のミシンと雨傘の偶然の出会いのように美しい。』といった詩的超現実的世界観をお楽しみください。\nあとは手品師らしい、あのうっとりな手の動きの滑らかさが出せてたらいいなぁ。\nマジックだけでなくタップダンスもしちゃうし。テントさんったら芸達者です。\n\n街を移動していくサーカス。とってもミステリアス。\nテントの中はどうなってるの？しりたーい。みたーい。\nって子供たちは好奇心がわくわく。\nでもうっかり開けてしまったら・・・\nとんでもないことに　なるかも　しれない　にゃ",
+                "entry-content-ko": ""
+            }
+        ]
+    },
+    {
+        "type": "section-staff",
+        "section-id": "staff-comment",
+        "section-display-name": "스태프 코멘트",
+        "section-content": [
+            {
+                "entry-author": "Otsu",
+                "entry-content": "もう、何というか、すごい。",
+                "entry-content-ko": ""
+            },
+            {
+                "entry-author": "Seiya-Murai",
+                "entry-content": "おもちゃ箱がひっくり返ってその拍子で本棚が倒れてその拍子でボールが転がってその拍子で…みたいなイメージが目に浮かびます。\nこれぞポップン！っていう楽しさ♪",
+                "entry-content-ko": ""
+            },
+            {
+                "entry-author": "masaru",
+                "entry-content": "ポップン最高難易度!?と聞いて跳んできましたが、私には全く関係ない世界なんですね。\nＮ譜面でまったりプレーしてますよ。\n・・・とおもったらN譜面もなかなか強敵！必死でプレーしましたよぉ。",
+                "entry-content-ko": ""
+            },
+            {
+                "entry-author": "TAMA",
+                "entry-content": "とうとうきたねレベル４３。\n私にはわからない領域ですが。。\nキャラクターは今回お気に入りのキャラです。",
+                "entry-content-ko": ""
+            },
+            {
+                "entry-author": "Mameshiba",
+                "entry-content": "ある日曜日、「シュレーディンガーの猫」という単語がすっごい気になって、どこかで聞いたんだけどどこで聞いたか思い出せず・・・\n出社して「ああ！そうだ！この曲のタイトルだ！」と判明。\n１度聞いたら忘れられない＆やたら言いたくなる単語、「シュレーディンガーの猫」について軽く調べたのですが、感想は「猫たまったもんじゃねぇな」です。\n実際にああいった実験をしたのかどうかは知りませんがね。\n初のＡＣ発Lv43ということで、譜面を追うので手一杯かもしれませんが、テントさんの動きにも注目です。なんだかエロいです。",
+                "entry-content-ko": ""
+            },
+            {
+                "entry-author": "eimy",
+                "entry-content": "ジャンル名の通り、音のおもちゃ箱ってかんじ。詰め込みすぎてパンクしちゃったみたいに溢れ出てますにゃー。",
+                "entry-content-ko": ""
+            },
+            {
+                "entry-author": "mayo",
+                "entry-content": "にゃ～語も許されそうに猫の声満載でピアノがまたスゴイ☆\n楽しさと賑やかさに溢れる曲です　にゃ",
+                "entry-content-ko": ""
+            },
+            {
+                "entry-author": "kinoko",
+                "entry-content": "見れば見るほど発見・感動いっぱいアニメです。\nびちびちしている魚に、shioさんのサディスティックな一面をちょっぴり感じてしまいました。",
+                "entry-content-ko": ""
+            },
+            {
+                "entry-author": "chihiro",
+                "entry-content": "カラフルなところがパーティーらしくてステキ！不思議がたくさん詰まっていて何度みてもあれ～？ってなります。\nちっひはずっと『テントおじさん』と呼んでいましたが、GOODアクションの美しい手と勝ちアニメのキュートなそぶりからすると、\nもしかしたら奥様系かもしれない。",
+                "entry-content-ko": ""
+            },
+            {
+                "entry-author": "Daniel",
+                "entry-content": "聞いてるだけで　めっちゃ元気なってくる。\n序盤から勢いとノリが凄いから　単調なんかなぁ？って　思ったんやけど\n全然　ちゃうかった！！\n俺が悪かった！！\n\n曲の展開力が凄いで！！\nどんどん変わっていくでぇ♪\nみんなぁ　このテンションについてこれるかなぁ？",
+                "entry-content-ko": ""
+            },
+            {
+                "entry-author": "wac",
+                "entry-content": "つまりこの曲をプレイし終える２分後までは、クリアできる、とクリアできない、がどっちも同時に成立している重ね合わせの状態ってことですかね。\nんなわけねえ。\n10年後のポップンには、一つのゲームの中で、ぼんやりと曲達による物語が紡がれるようになってました。\nとなると、物語の山場はメインスタッフの中で誰がするかということになるんですが、もうラスボスはいやだいやだもういやだ、とかんしゃくをおこして猫の妖精さんに押しつけちゃいました。\n\n理路整然とカオスが同居した、楽しい絶望。色々な意味で、すごく、「らしさ」の詰まった曲だと思います。\nポップンの歴史において何かしらのターニングポイントな曲となっていくんでしょうね。\n10年前にスパイやディスコキングを一生クリアできないと思っていたように、10年後にはクリアできるようになってるといいですね。",
+                "entry-content-ko": ""
+            }
+        ]
+    }
+]
