@@ -1,1 +1,68 @@
-[{"type": "meta", "source-original": [{"link": "", "description": ""}], "source-translation": ""}, {"type": "section-comment", "section-id": "music-comment", "section-display-name": "아티스트 코멘트", "section-content": [{"entry-author": "", "entry-content": "", "entry-content-ko": ""}]}, {"type": "section-comment", "section-id": "chara-comment", "section-display-name": "캐릭터 코멘트", "section-content": [{"entry-author": "", "entry-content": "", "entry-content-ko": ""}]}, {"type": "section-staff", "section-id": "staff-comment", "section-display-name": "스태프 코멘트", "section-content": [{"entry-author": "", "entry-content": "", "entry-content-ko": ""}]}]
+[
+    {
+        "type": "meta",
+        "source-original": [
+            {
+                "link": "https://web.archive.org/web/20150507102327if_/http://www.konami.jp/bemani/popn/music12/m_and_c/01/01_asia.html",
+                "description": "(아카이브) 이로하 곡/캐릭터 소개 페이지"
+            }
+        ],
+        "source-translation": ""
+    },
+    {
+        "type": "section-comment",
+        "section-id": "music-comment",
+        "section-display-name": "아티스트 코멘트",
+        "section-content": [
+            {
+                "entry-author": "菜楊",
+                "entry-content": "ピアコンといえばラフマの2番。\nピアノを弾くひとなら誰でも憧れる曲ですが、高校生の時、譜面をみてビックリ！！！\n「絶対無理、、、」というわけでトラウマになり現在に至る。\nこの曲のピアノも初めは癒し系だったのですが、wacの指令によりヴィルティオーゾ系に。\n基礎練習を怠っていたため、指がもつれ現在に至る。",
+                "entry-content-ko": ""
+            }
+        ]
+    },
+    {
+        "type": "section-comment",
+        "section-id": "chara-comment",
+        "section-display-name": "캐릭터 코멘트",
+        "section-content": [
+            {
+                "entry-author": "ちひ",
+                "entry-content": "起伏の激しい山々の間をゆったりと流れる大河のような曲調で、\nとてもゆったりとした気分にさせてくれます。\n\nポップンレベルの低い私にやさしい難易度もいい！（もちろんノーマルで）\nそんな感じでアニメのほうもゆったりとした感じでお願いしました。\nお供のちょうちょもぐるぐる回してくれたりと結構頑張ってます。\nあぶなくなると逃げてますけど。\nテレビや本なんかで見る絵みたいな山々は\n一度自分の目で見てみたいものですよね。\n\nあと本場の点心！！食べてみたい～",
+                "entry-content-ko": ""
+            }
+        ]
+    },
+    {
+        "type": "section-staff",
+        "section-id": "staff-comment",
+        "section-display-name": "스태프 코멘트",
+        "section-content": [
+            {
+                "entry-author": "tera",
+                "entry-content": "当方も幼少のみぎり、ぴあのなんぞを習いごとしておった時期がございましたが\n今は昔のことだったりでございます。\nなほ、当楽曲を別のいんたーふぇぃすにて遊びたいな、\nなどとたわむれごとをいうのはもってのほかでございますでしょうか？",
+                "entry-content-ko": ""
+            },
+            {
+                "entry-author": "Des-ROW",
+                "entry-content": "これ、本気いい感じで流れるうへな、\nなにより華も含めた大きな和みたいなうへ。\n譜面も雰囲気が絶妙にマッチしていて、ぴったりだ、、\nさま的にはノーマルだがたのしく叩かせてもらったぜ。",
+                "entry-content-ko": ""
+            },
+            {
+                "entry-author": "wac",
+                "entry-content": "ラフマのピアコンいいですね。地味な１番が最近静かなブームです。\n\n弾けないけどな。\n\nとても癒し系の曲ですね。EX譜面をノーマルスピードで\nテリー66のキャラポップでプレイすると視覚的にとても癒されます。\n\n弾けないけどな。\n\n当初の予定通りの癒し譜面はノーマル譜面にて御堪能あれ。",
+                "entry-content-ko": ""
+            },
+            {
+                "entry-author": "コバケン",
+                "entry-content": "これを見たキミ。ハイスピ使っちゃだめだよ。",
+                "entry-content-ko": ""
+            },
+            {
+                "entry-author": "shio",
+                "entry-content": "アジコンって誰かがいうたびに某バンドのことかと思ってどきっとしてしまう私。\n大陸の雄大さを感じる曲調もさることながら、\nEX譜面をノーマルスピードでやると大河のうねりまで体験できます。",
+                "entry-content-ko": ""
+            }
+        ]
+    }
+]

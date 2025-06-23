@@ -1,1 +1,75 @@
-[{"type": "meta", "source-original": [{"link": "", "description": ""}], "source-translation": ""}, {"type": "section-comment", "section-id": "music-comment", "section-display-name": "아티스트 코멘트", "section-content": [{"entry-author": "", "entry-content": "", "entry-content-ko": ""}]}, {"type": "section-comment", "section-id": "chara-comment", "section-display-name": "캐릭터 코멘트", "section-content": [{"entry-author": "", "entry-content": "", "entry-content-ko": ""}]}, {"type": "section-staff", "section-id": "staff-comment", "section-display-name": "스태프 코멘트", "section-content": [{"entry-author": "", "entry-content": "", "entry-content-ko": ""}]}]
+[
+    {
+        "type": "meta",
+        "source-original": [
+            {
+                "link": "https://web.archive.org/web/20160123171828if_/http://www.konami.jp/bemani/popn/music12/m_and_c/08/08_tokyo.html",
+                "description": "(아카이브) 이로하 곡/캐릭터 소개 페이지"
+            }
+        ],
+        "source-translation": ""
+    },
+    {
+        "type": "section-comment",
+        "section-id": "music-comment",
+        "section-display-name": "아티스트 코멘트",
+        "section-content": [
+            {
+                "entry-author": "パーキッツ",
+                "entry-content": "歌と歌詞を担当の ふじのです。コンニチワッ！\nわたしは ふだんの生活で「和」を意識することって あまり無いのですが\nこういう雰囲気の曲を歌うたびに 自分は やっぱり日本人なのね～と しみじみ思います。\nなんだか最初からメロディが しっくりとカラダに なじむ感じ。\n演歌や民謡には うといのに。不思議。\n\n歌詞は いちど『秋葉原で迷子になった外人さん』てな内容で書いてみましたが\nちょっと遊び過ぎちゃった感があったので 自己却下して現在の形になりましたとさ。\n\n------------------↑以上ふじの----------↓以下カタオカ--------------------\n\n高校出て以来都民の片岡ですてやんでいべらぼうめい。\nにもかかわらず先日はじめてSuicaを買ってみました。\nどこに売ってるのかわからずご案内係のおねーさんに聞いたのは内緒です。\nさらに使い方がわからずうしろにいた中学生に聞いたのも内緒です。\nそれで地下鉄乗ろうとして自動改札閉められたなんて口が裂けても言えません。\n都民暦長い片岡でした。東京タワー登ったことありません。今日も元気です。",
+                "entry-content-ko": ""
+            }
+        ]
+    },
+    {
+        "type": "section-comment",
+        "section-id": "chara-comment",
+        "section-display-name": "캐릭터 코멘트",
+        "section-content": [
+            {
+                "entry-author": "roro",
+                "entry-content": "「花の都トウキョウ」のイメージで、というご注文の元、\nこんなコテコテキャラができました。\n今のトウキョウは花の都というよりカラスの都ですが、\nその当時の浪漫の風は素敵だなと思います。\n\nアニメネタのほうはギャグですが、東京駅赤レンガの雰囲気を\n思いながら、割とまじめに制作しました。\nちなみに、袴というとブーツだと思われている方が多いですが、\n当時はハナオさんのような草履か革靴のほうが一般的だったそうです。",
+                "entry-content-ko": ""
+            }
+        ]
+    },
+    {
+        "type": "section-staff",
+        "section-id": "staff-comment",
+        "section-display-name": "스태프 코멘트",
+        "section-content": [
+            {
+                "entry-author": "Des-ROW",
+                "entry-content": "なんか東京ロマンって感じでうへ、音に懐かしい感じがいいコロナ。\nさま的には、時代背景は大正だな、そんでラムネブームとかうへへ。",
+                "entry-content-ko": ""
+            },
+            {
+                "entry-author": "tera",
+                "entry-content": "ジャンル名が東京銘菓っぽいのですが、曲もキャラクターも銀座でかふぇーな雰囲気でもう大好き。　あいかわらず曲も譜面も魅力的な仕上がりになっております。　すごいです。",
+                "entry-content-ko": ""
+            },
+            {
+                "entry-author": "masaru",
+                "entry-content": "東京に初めて来たのは小学生の修学旅行でしょうか？\nそれから数年後、学業の為上京。 思い出しますね。で、今は神奈川人！！",
+                "entry-content-ko": ""
+            },
+            {
+                "entry-author": "shio",
+                "entry-content": "恒例のパーキッツさん曲ジャンル命名大会。ついに採用されましたー！\nニッポニア・ジャパネスカ・でも無国籍な感じ。\n和のお題のひとひねりさに感心しました。\nハナオさんもかわゆいゆい。馬車道に行ってみたいけど未だ野望果たせず也。",
+                "entry-content-ko": ""
+            }
+        ]
+    },
+    {
+        "type": "section-lyrics",
+        "section-id": "lyrics-game",
+        "section-display-name": "가사 (인게임 버전)",
+        "section-content": [
+            {
+                "entry-author": "",
+                "entry-content": "忘れ物に注意 準備万端です\nハンカチ｡花紙｡おさいふ｡Suica｡\n\n忘れかけてたのに 油断大敵です\nはじめの一歩の すきま\n憂鬱が 見え隠れ\n\n過日の涙雨 しぼんだ あの空も\nつばめが 宙を舞う この空\nどちらも おんなじ空\n\n泣きながら 歩いても\nゆるして どうか 振り向かないでね\n\nでは そろそろ 時間です\nちゃっ ちゃ ちゃっと 仕事して\n花の都 東京\n\n恋の都 東京",
+                "entry-content-ko": ""
+            }
+        ]
+    }
+]

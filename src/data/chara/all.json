@@ -16453,67 +16453,67 @@
     },
     {
         "name-dat": "HANAO",
-        "name-ja": "",
-        "name-ko": "",
+        "name-ja": "花緒",
+        "name-ko": "하나오",
         "debut": "12",
         "songs": [
             552
         ],
-        "designer": "",
+        "designer": "roro",
         "profile": {
-            "description": "",
-            "from": "",
-            "hobby": "",
-            "likes": "",
-            "dislikes": ""
+            "description": "はるばるニューヨークからやって来ました。ハナオさん。\nここがグランマが言っていたトウキョウなのね。ファンタスティック！",
+            "from": "ニューヨーク",
+            "hobby": "トウキョウ浪漫でドリーム",
+            "likes": "銀座パーラーのパフェ",
+            "dislikes": "のりまき"
         },
         "profile-ko": {
-            "description": "",
-            "from": "",
-            "hobby": "",
-            "likes": "",
-            "dislikes": ""
+            "description": "머나먼 뉴욕에서 왔습니다. 하나오 씨.\n여기가 Grandma가 말하던 Tokyo구나. Fantastic!",
+            "from": "뉴욕",
+            "hobby": "도쿄 로망의 드림",
+            "likes": "긴자 팔러의 파르페",
+            "dislikes": "노리마키"
         },
         "birthday": {
-            "month": 0,
-            "day": 0
+            "month": 3,
+            "day": 29
         },
-        "apple-color": 3,
+        "apple-color": 2,
         "quotes": [
             {
                 "from": "NET: ATTACK",
-                "content": "",
-                "content-ko": ""
+                "content": "あ、そ～れ",
+                "content-ko": "으쌰~"
             },
             {
                 "from": "NET: DAMAGE",
-                "content": "",
-                "content-ko": ""
+                "content": "いや～ん",
+                "content-ko": "싫어~"
             },
             {
                 "from": "NET: GOOD",
-                "content": "",
-                "content-ko": ""
+                "content": "にっこり",
+                "content-ko": "방긋"
             },
             {
                 "from": "NET: BAD",
-                "content": "",
-                "content-ko": ""
+                "content": "あらら",
+                "content-ko": "어머머"
             },
             {
                 "from": "NET: WIN",
-                "content": "",
-                "content-ko": ""
+                "content": "エヘヘッ",
+                "content-ko": "에헤헷"
             },
             {
                 "from": "NET: LOSE",
-                "content": "",
-                "content-ko": ""
+                "content": "くやし～い",
+                "content-ko": "분해~"
             }
         ],
-        "finished-backup": false,
-        "finished-translate": false,
-        "source-translation": "",
+        "finished-backup": true,
+        "finished-translate": true,
+        "source-translation": "운영자",
         "see-also": []
     },
     {
@@ -16780,8 +16780,8 @@
     },
     {
         "name-dat": "KIKYO",
-        "name-ja": "",
-        "name-ko": "",
+        "name-ja": "桔梗",
+        "name-ko": "키쿄",
         "debut": "12",
         "songs": [
             557,
@@ -16794,9 +16794,9 @@
             2009,
             2142
         ],
-        "designer": "",
+        "designer": "あまもん。",
         "profile": {
-            "description": "",
+            "description": "秋の夜空に浮かぶ月。\n光は泡沫に消えゆけど、ただひたすらに、君を想ふ…。",
             "from": "",
             "hobby": "",
             "likes": "",
@@ -16810,10 +16810,10 @@
             "dislikes": ""
         },
         "birthday": {
-            "month": 0,
-            "day": 0
+            "month": 8,
+            "day": 18
         },
-        "apple-color": 3,
+        "apple-color": 2,
         "quotes": [
             {
                 "from": "NET: ATTACK",
@@ -16853,15 +16853,15 @@
     },
     {
         "name-dat": "TangTang",
-        "name-ja": "",
-        "name-ko": "",
+        "name-ja": "タンタン",
+        "name-ko": "탕탕",
         "debut": "12",
         "songs": [
             558
         ],
-        "designer": "",
+        "designer": "ちひ",
         "profile": {
-            "description": "",
+            "description": "一滴からうまれ大河にかわる悠久の流れに小さな旅人は海をめざす",
             "from": "",
             "hobby": "",
             "likes": "",
@@ -16875,10 +16875,10 @@
             "dislikes": ""
         },
         "birthday": {
-            "month": 0,
-            "day": 0
+            "month": 8,
+            "day": 1
         },
-        "apple-color": 3,
+        "apple-color": 1,
         "quotes": [
             {
                 "from": "NET: ATTACK",
@@ -17514,19 +17514,19 @@
     },
     {
         "name-dat": "SARASA",
-        "name-ja": "",
-        "name-ko": "",
+        "name-ja": "さらさ",
+        "name-ko": "사라사",
         "debut": "12",
         "songs": [
             574
         ],
-        "designer": "",
+        "designer": "shio",
         "profile": {
-            "description": "",
-            "from": "",
-            "hobby": "",
-            "likes": "",
-            "dislikes": ""
+            "description": "みんなのお願い、ふたごの星のお宮様に届けるの。\n今夜もどうか晴れますように。",
+            "from": "天の川",
+            "hobby": "七夕飾り作り。きれいな色紙をたくさん集めてるのよ。",
+            "likes": "みんなの笑顔",
+            "dislikes": "雨ふり。お百姓さんもカエルさんも今日だけは許してね。"
         },
         "profile-ko": {
             "description": "",
@@ -17536,43 +17536,48 @@
             "dislikes": ""
         },
         "birthday": {
-            "month": 0,
-            "day": 0
+            "month": 7,
+            "day": 7
         },
-        "apple-color": 3,
+        "apple-color": 2,
         "quotes": [
             {
                 "from": "NET: ATTACK",
-                "content": "",
+                "content": "さらさら〜",
                 "content-ko": ""
             },
             {
                 "from": "NET: DAMAGE",
-                "content": "",
+                "content": "きゃっ",
                 "content-ko": ""
             },
             {
                 "from": "NET: GOOD",
-                "content": "",
+                "content": "にっこり",
                 "content-ko": ""
             },
             {
                 "from": "NET: BAD",
-                "content": "",
+                "content": "あらら",
                 "content-ko": ""
             },
             {
                 "from": "NET: WIN",
-                "content": "",
+                "content": "晴れ晴れ",
                 "content-ko": ""
             },
             {
                 "from": "NET: LOSE",
-                "content": "",
+                "content": "くもりぞら",
+                "content-ko": ""
+            },
+            {
+                "from": "튠 스트릿 타운 모드",
+                "content": "すてきな笹飾りをありがとう。\n星の河からもキラキラしてるのが\nよーく見えたのよ。\n近くで見るともっと素敵ね！\nみんなの願いが叶いますように…",
                 "content-ko": ""
             }
         ],
-        "finished-backup": false,
+        "finished-backup": true,
         "finished-translate": false,
         "source-translation": "",
         "see-also": []

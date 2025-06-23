@@ -1,1 +1,68 @@
-[{"type": "meta", "source-original": [{"link": "", "description": ""}], "source-translation": ""}, {"type": "section-comment", "section-id": "music-comment", "section-display-name": "아티스트 코멘트", "section-content": [{"entry-author": "", "entry-content": "", "entry-content-ko": ""}]}, {"type": "section-comment", "section-id": "chara-comment", "section-display-name": "캐릭터 코멘트", "section-content": [{"entry-author": "", "entry-content": "", "entry-content-ko": ""}]}, {"type": "section-staff", "section-id": "staff-comment", "section-display-name": "스태프 코멘트", "section-content": [{"entry-author": "", "entry-content": "", "entry-content-ko": ""}]}]
+[
+    {
+        "type": "meta",
+        "source-original": [
+            {
+                "link": "https://web.archive.org/web/20170827065638if_/http://www.konami.jp/bemani/popn/music12/m_and_c/07/07_hpjapa.html",
+                "description": "(아카이브) 이로하 곡/캐릭터 소개 페이지"
+            }
+        ],
+        "source-translation": ""
+    },
+    {
+        "type": "section-comment",
+        "section-id": "music-comment",
+        "section-display-name": "아티스트 코멘트",
+        "section-content": [
+            {
+                "entry-author": "jun",
+                "entry-content": "秋の月、泡沫 ‥‥\n\n\nこの曲は、今までで一番、歌詞に悩んだ曲でした。\n「この部分が‥‥」というのではなく、全体的にどうしようかと。\n初めに書いた詞はもっと古文調でした。\nでも、メロディーに乗せて歌ったとき、何を言っているのかわからない‥‥(T_T)\nこれじゃイカンと改良を重ね、世界観は失わないよう努力しつつの、ほぼ現代語に収めました。\n\nと、歌詞について書きましたが、この曲の世界観は、\nNAOKIさんのアレンジなしには語れないと思います。\nプレゼンで渡した時はピアノの弾き語り程度だったので、\n初めて聴いたときは、「こう来たか！」と、ただただ驚きました。敬服です。\n\n「和」っていいですよね。\nかつてＴЁЯＲＡのHPで主張したように、日本大好きな私としては、\n今回のテーマを聞いて小躍りして喜びました（笑）。\nちなみに、「和」と言っても幅広いですが、\n時代は平安を意識してみました。（というか、好きなのです。）\n\n\n一面に広がる、薄の原。\n鳴き交わす、虫の音。\n漸う浮かび上がる、月の光。\n去り行く、雁の群れ ‥‥\n\n\n美しい情景に眠るのは、二度と戻らない、貴方との記憶。",
+                "entry-content-ko": ""
+            },
+            {
+                "entry-author": "NAOKI MAEDA",
+                "entry-content": "『無幻ノ光』はアレンジをするのに、やりがいを強く感じた曲でした。\n出来た時は、何か１つのことをやり遂げた...そんな気持ちでいっぱいでした。\n和のテイストをうまく消化しつつ、ポップにまとめあげる...書くのは簡単ですけれど、\n皆さんどのように感じて頂けたでしょうか？\n\n自分達の変わらぬ信念の１つである、ＴЁЯＲＡらしさが溢れた曲で、１人でも\n多くの方々にプレイして頂き、１人でも多くの方々に楽しんでもらえること、\nその為にはどんな曲を創れば良いのか？常に胸に抱いて取り組んでいます。\n\n全国のアミューズメントスポットで絶賛稼働中のポップンミュージック12に\n収録された『夢幻ノ光』を通して、皆さんと楽しみや喜びを分かち合えたら幸いです。",
+                "entry-content-ko": ""
+            }
+        ]
+    },
+    {
+        "type": "section-comment",
+        "section-id": "chara-comment",
+        "section-display-name": "캐릭터 코멘트",
+        "section-content": [
+            {
+                "entry-author": "あまもん。",
+                "entry-content": "TЁЯRA曲で初めてジュディー以外のキャラが担当と相成りました？はい。\nこのキャラ、もう気付いている方もいるかと思いますが、TЁЯRAのjunさんがモデルとなってます。\n\nキャラのイメージをお聞きしたときに「こんな感じにしたら面白いかもねー。」という感じで生まれてきました。ちなみに髪型がポイント。\nでも、デザイン的には普通だったので動きにチョット変わった感を出してみました。\n\nメールで質問を頂いていたのですが、WINアニメで出てくる男性は勿論あの方がモデル！こちらもjunさんの希望で登場となりましたー。ご本人は笑顔で「ええよっ！」と承諾下さったのですが、内心どう思ってるかが分からないので未だにドキドキです。抱き合っているのもドキドキです。\n\nLOSEアニメに出てくるしゃれこうべも勿論あの方のもの。\nクリアできればあの方にあえて、\nクリアできなきゃ会えませんとはjunさん談。\n世の中そんなもんなんですね。\n\n追伸。\n2Pカラーは思い切ってコギャル（古）化。\nこんな色味だとこの曲には合わないかもね…^^;",
+                "entry-content-ko": ""
+            }
+        ]
+    },
+    {
+        "type": "section-staff",
+        "section-id": "staff-comment",
+        "section-display-name": "스태프 코멘트",
+        "section-content": [
+            {
+                "entry-author": "よしくん",
+                "entry-content": "癒しのメロディーと天女の歌声においらはガッチリハートをキャッチされやした。\nこのノスタルジーな感じ好きッス。聞くたびに魂が浄化されるッス。\n\nこりゃぁアルバムが楽しみだ、俺予約しよ・・・・・・・・ポチッ",
+                "entry-content-ko": ""
+            },
+            {
+                "entry-author": "tama",
+                "entry-content": "EX譜面は最後殺しですよね。まだクリアできません。ぎりぎりまでFEVERなのに・・・・。\nそういえば、キキョウの勝ちアクション（抱き合っているシーン）は最初はもっとエッチだったのです。つまり、あまもん。はエッチだったのです。\n\n↑ひどいなぁ・・・、そんなことねぇのに。動きの残像がちょっと多かっただけなのに。想像しすぎ！（あま）",
+                "entry-content-ko": ""
+            },
+            {
+                "entry-author": "masaru",
+                "entry-content": "和のイメージといっても色々あるんです。そんな中でめいっぱい和なこの曲でいろはを感じてください。",
+                "entry-content-ko": ""
+            },
+            {
+                "entry-author": "shio",
+                "entry-content": "バグチェック中にぼーっとしてると、いつの間にかこの曲が鼓と共にループして大変でした。それだけ中毒性のある曲ってことですね。あやかしのみやびな響きに、染まりな。つーかご注意あそばせ。\n\nキキョウさんのデザインはあまもん。とjunさんの合作かくやのできばえ。こちらもハイパーＪな感じ。",
+                "entry-content-ko": ""
+            }
+        ]
+    }
+]

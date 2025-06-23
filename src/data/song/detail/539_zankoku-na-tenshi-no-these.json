@@ -1,1 +1,63 @@
-[{"type": "meta", "source-original": [{"link": "", "description": ""}], "source-translation": ""}, {"type": "section-comment", "section-id": "music-comment", "section-display-name": "아티스트 코멘트", "section-content": [{"entry-author": "", "entry-content": "", "entry-content-ko": ""}]}, {"type": "section-comment", "section-id": "chara-comment", "section-display-name": "캐릭터 코멘트", "section-content": [{"entry-author": "", "entry-content": "", "entry-content-ko": ""}]}, {"type": "section-staff", "section-id": "staff-comment", "section-display-name": "스태프 코멘트", "section-content": [{"entry-author": "", "entry-content": "", "entry-content-ko": ""}]}]
+[
+    {
+        "type": "meta",
+        "source-original": [
+            {
+                "link": "https://web.archive.org/web/20170812210750if_/http://www.konami.jp/bemani/popn/music12/m_and_c/04/04_eva.html",
+                "description": "(아카이브) 이로하 곡/캐릭터 소개 페이지"
+            }
+        ],
+        "source-translation": ""
+    },
+    {
+        "type": "section-comment",
+        "section-id": "music-comment",
+        "section-display-name": "아티스트 코멘트",
+        "section-content": [
+            {
+                "entry-author": "wac",
+                "entry-content": "極太明朝体をあれだけ流行らせたのはすごいと思います。\nバンドサークルにも関わらずビデオを回しあって、使徒ってなんだとか手法がフリッパーズだとか\n黄色から青色に変わるのは猫型ロボへのオマージュだとか議論してたのが懐かしくもあり、\n今思うとちょっと切なくもありです。\nなんていうか、風呂敷拡げるだけ拡げて収拾付かなくなりつつ\n前のめりに倒れるあたりが大好きでした。\n※ポップンの制作姿勢には反映されておりません。たぶん。どうだろう。されてるかも。\nされてるね。ごめんなさい。\n\nそういった一時期一世を風靡したものを入れるのはいささか勇気がいるもので、\n初めてアニメやテレビの版権曲を入れたポップン６の時から候補に上がっていながら、\n常にまだひとまわりしてないような気がして入れられなかった曲でした。\nパチンコにもなるくらいだからひとまわりしたんですかね。\n\n10年ぶりにあらためて聴いてみると、歌はいいねぇだったのですがバックの音が意外に少ないねぇ\nだったりして譜面にするにてんてこまいだったのでEX譜面では珍しくベースを弾かせたりもしてます。\nかっこいいよ、ベースライン。\nなんたらの槍をイメージした最後のほうの配置がチャームポイントだったのですが\nなんたらの槍の形をよく覚えてなかったため、中途半端な結末に。おめでとうありがとう。",
+                "entry-content-ko": ""
+            }
+        ]
+    },
+    {
+        "type": "section-comment",
+        "section-id": "chara-comment",
+        "section-display-name": "캐릭터 코멘트",
+        "section-content": [
+            {
+                "entry-author": "shio",
+                "entry-content": "アニメ作画をしんちゃん同様ホンモノの方にお願いできラッキーでした。\nボーカルもまたまたご本人ですし！ポップンってすごいですね。\nおかげで「あれもこれも」とリクエストてんこもりやくん。\n「おまかせで！」だけの指定を出した（ひどいな)、オジャマアニメが熱すぎです。 ダンスオジャマはこっそり自分で追加しました。\n最近ストライクゾーンが広くなりましたね。\n\nデザインは「残酷な天使（ってなんだ？)」から広げて解釈。\n学芸会の天使っぽく、頭につけた蛍光灯がおしゃれポイント。\n羽もリュックみたいになってるニセモノです (分かりづらいけど)。\n\nしかしもう10年も前のアニメなんですね。そんなに経つかなぁ？\n毎週夕飯食べながら弟とつっこみ入れつつ見ていたので、\n今でもこの曲を聞くとご飯が食べたくなります。",
+                "entry-content-ko": ""
+            }
+        ]
+    },
+    {
+        "type": "section-staff",
+        "section-id": "staff-comment",
+        "section-display-name": "스태프 코멘트",
+        "section-content": [
+            {
+                "entry-author": "tera",
+                "entry-content": "新しいと思って採用したけど、もう10年近く前の作品になっちゃうんですねシミジミ。　チームの暴走パワーが具現化したようなものですので、ある意味危険ですシンクロ率高すぎで危険危険。　おいらは三号機が好き。",
+                "entry-content-ko": "새롭다고 생각해 채용했는데, 벌써 10년 가까이 된 작품이 되어 버렸네요. 팀의 폭주 파워가 구현화된 듯한 것인 바, 어떤 의미에선 위험합니다, 싱크로율 너무 높아서 위험위험. 나는 3호기가 좋아."
+            },
+            {
+                "entry-author": "Des-ROW",
+                "entry-content": "この曲の歌の収録、行ってきたぜ、、\n初対面の高橋さんはとても品のよさそうな良い感じの人だったぜ。\nでも本人から帰り際に「コナミさんってちょっと変わった人もいるんですね」って\n言われてんだがどう言う意味だろうな？？\nまあ、歌は生で聴くとほんとにスッゲー良かったぜ、\nゲームも好評でなによりだな、うへへ。",
+                "entry-content-ko": "이 곡의 보컬 녹음, 다녀왔다...\n타카하시 씨의 첫인상은 정말 인품 있어 보이는 좋은 느낌의 사람이었지.\n근데 돌아갈 때쯤 본인에게부터 '코나미 씨는 좀 변한 사람도 있네요'라고\n말을 들었는데 무슨 의미려나??\n뭐어, 노래는 살면서 들어본 것 중 진짜 쩔도록 좋았다구.\n게임도 호평이었으니 무엇보다지, 우헤헤."
+            },
+            {
+                "entry-author": "tama",
+                "entry-content": "毎回会議には出てくるものの、諸刃の剣の部分からなかなか\n登場しませんでしたが、 前回のソウサセン、ビバップの人気も追い風となって、\n今回登場することになりました。\nあと、綾ニャミにしないでミミを持ってくるあたりがshioさんらしいね。\nダンスアクションとお邪魔アクションは必見！！",
+                "entry-content-ko": ""
+            },
+            {
+                "entry-author": "ちひ",
+                "entry-content": "とうとうやりましたね～\nちひ的には負けの「動け！動け！」アクションがお気に入りです。\nそれにしてもこのミミはshioさん以外には出来ない直球勝負ですね、\nまじですごいっす！！",
+                "entry-content-ko": ""
+            }
+        ]
+    }
+]

@@ -6625,7 +6625,7 @@
         "slug": "zankoku-na-tenshi-no-these",
         "remy": "Zankoku_na_tenshi_no_these",
         "chara": "Mimi",
-        "finished-backup": false,
+        "finished-backup": true,
         "finished-translate": false,
         "is-original": true
     },
@@ -6778,7 +6778,7 @@
         "slug": "koisuru-tokyo",
         "remy": "Koisuru_Tokyo",
         "chara": "HANAO",
-        "finished-backup": false,
+        "finished-backup": true,
         "finished-translate": false,
         "is-original": true
     },
@@ -6863,7 +6863,7 @@
         "slug": "mugen-no-hikari",
         "remy": "Mugen_no_hikari",
         "chara": "KIKYO",
-        "finished-backup": false,
+        "finished-backup": true,
         "finished-translate": false,
         "is-original": true
     },
@@ -6880,7 +6880,7 @@
         "slug": "houou",
         "remy": "Houou",
         "chara": "TangTang",
-        "finished-backup": false,
+        "finished-backup": true,
         "finished-translate": false,
         "is-original": true
     },
@@ -7135,7 +7135,7 @@
         "slug": "shiroi-tobi-hane",
         "remy": "Shiroi_tobi_hane",
         "chara": "SARASA",
-        "finished-backup": false,
+        "finished-backup": true,
         "finished-translate": false,
         "is-original": true
     },
