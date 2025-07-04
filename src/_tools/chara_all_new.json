@@ -1,0 +1,6816 @@
+[
+    {
+        "sort_name": "バンブー",
+        "disp_name": "バンブー",
+        "id_list": [
+            "bamb_1a",
+            "bamb_1b",
+            "bamboo_6a",
+            "bamboo_6b",
+            "bamboo_7a",
+            "bamboo_7b",
+            "bamboo_8a",
+            "bamboo_8b",
+            "khan",
+            "bamboo_7a"
+        ]
+    },
+    {
+        "sort_name": "シャメル",
+        "disp_name": "シャメル",
+        "id_list": [
+            "cham_1a",
+            "cham_1b",
+            "cham_1a"
+        ]
+    },
+    {
+        "sort_name": "チャーリー",
+        "disp_name": "チャーリー",
+        "id_list": [
+            "chrl_1a",
+            "chrl_1b",
+            "chrl_1a"
+        ]
+    },
+    {
+        "sort_name": "ディーノ",
+        "disp_name": "ディーノ",
+        "id_list": [
+            "dino_1a",
+            "dino_1b",
+            "dino_6a",
+            "dino_6b",
+            "dino_20a",
+            "dino_20b",
+            "dino_1a"
+        ]
+    },
+    {
+        "sort_name": "ドンモミー",
+        "disp_name": "ドンモミー",
+        "id_list": [
+            "don_1a",
+            "don_1b"
+        ]
+    },
+    {
+        "sort_name": "ジャムオジサン",
+        "disp_name": "ジャムおじさん",
+        "id_list": [
+            "jam_1a",
+            "jam_1b",
+            "jam_10a",
+            "jam_10b",
+            "jam_13a",
+            "jam_13b"
+        ]
+    },
+    {
+        "sort_name": "ジュディ",
+        "disp_name": "ジュディ",
+        "id_list": [
+            "judy_1a",
+            "judy_1b",
+            "judy_2a",
+            "judy_2b",
+            "judy_3a",
+            "judy_3b",
+            "judy_4a",
+            "judy_4b",
+            "judy_5a",
+            "judy_5b",
+            "judy_7a",
+            "judy_7b",
+            "judy_8a",
+            "judy_8b",
+            "judy_9a",
+            "judy_9b",
+            "judy_11a",
+            "judy_11b",
+            "judy_13a",
+            "judy_13b",
+            "judy_15a",
+            "judy_15b",
+            "judy_16a",
+            "judy_16b",
+            "judy_19a",
+            "judy_19b",
+            "judy_19c",
+            "judy_21a",
+            "judy_21b",
+            "judy_21c",
+            "judy_21d",
+            "judy_23a",
+            "judy_23b",
+            "judy_4a",
+            "judy_23a",
+            "judy_9a"
+        ]
+    },
+    {
+        "sort_name": "キング",
+        "disp_name": "キング",
+        "id_list": [
+            "king_1a",
+            "king_1b",
+            "king_2a",
+            "king_2b",
+            "king_3a",
+            "king_3b",
+            "king_4a",
+            "king_4b",
+            "king_5a",
+            "king_5b",
+            "king_6a",
+            "king_6b",
+            "king_7a",
+            "king_7b",
+            "king_8a",
+            "king_8b",
+            "king_10a",
+            "king_10b",
+            "king_16a",
+            "king_16b",
+            "king_6b"
+        ]
+    },
+    {
+        "sort_name": "クラフト",
+        "disp_name": "クラフト",
+        "id_list": [
+            "kraf_1a",
+            "kraf_1b"
+        ]
+    },
+    {
+        "sort_name": "マリィ",
+        "disp_name": "マリィ",
+        "id_list": [
+            "mary_1a",
+            "mary_1b",
+            "mary_2a",
+            "mary_2b",
+            "mary_3a",
+            "mary_3b",
+            "mary_4a",
+            "mary_4b",
+            "mary_5a",
+            "mary_5b",
+            "mary_6a",
+            "mary_6b",
+            "mary_7a",
+            "mary_7b",
+            "mary_8a",
+            "mary_8b",
+            "mary_9a",
+            "mary_9b",
+            "water",
+            "mary_15a",
+            "mary_15b",
+            "mary_16a",
+            "mary_16b",
+            "mary_6a",
+            "mary_16a"
+        ]
+    },
+    {
+        "sort_name": "ミミ",
+        "disp_name": "ミミ",
+        "id_list": [
+            "mimi_1a",
+            "mimi_1b",
+            "mimi_2a",
+            "mimi_2b",
+            "mimi_3a",
+            "mimi_3b",
+            "mimi_4a",
+            "mimi_4b",
+            "mimi_5a",
+            "mimi_5b",
+            "mimi_6a",
+            "mimi_6b",
+            "mimi_7a",
+            "mimi_7b",
+            "cook_8a",
+            "mimi_8a",
+            "mimi_8b",
+            "mimi_ps",
+            "america",
+            "yatta",
+            "lupin",
+            "candyx2",
+            "suimin",
+            "seibu",
+            "seven",
+            "chu",
+            "yamato",
+            "touch",
+            "captain",
+            "curry",
+            "shaka",
+            "009",
+            "mimi_9a",
+            "mimi_9b",
+            "pata",
+            "parman",
+            "haige",
+            "meg",
+            "mimi_10a",
+            "mimi_10b",
+            "moomin",
+            "anpan",
+            "koukou",
+            "moon",
+            "mimi_11a",
+            "mimi_11b",
+            "america_mg",
+            "kimyo",
+            "eva",
+            "bubble",
+            "creamy",
+            "mimi_12a",
+            "mimi_12b",
+            "tdl",
+            "mimi_13a",
+            "mimi_13b",
+            "mimi_14a",
+            "mimi_14b",
+            "mario",
+            "mimi_15a",
+            "mimi_15b",
+            "hokuto",
+            "mimi_16a",
+            "mimi_16b",
+            "mimi_17a",
+            "mimi_17b",
+            "mimi_18a",
+            "mimi_18b",
+            "mimi_19a",
+            "mimi_19b",
+            "mimi_psp1a",
+            "mimi_psp1b",
+            "mimi_20a",
+            "mimi_20b",
+            "mimi_21a",
+            "mimi_21b",
+            "mimi_22b",
+            "mimi_22a",
+            "mimi_23a",
+            "mimi_23b",
+            "mimi_23c",
+            "mimi_24a",
+            "mimi_24b",
+            "mimi_24c",
+            "mimi_25a",
+            "mimi_25b",
+            "mimi_25c",
+            "mimi_25d",
+            "mimi_26a",
+            "mimi_26b",
+            "mimi_27a",
+            "mimi_27b",
+            "mimi_28a",
+            "mimi_28b"
+        ]
+    },
+    {
+        "sort_name": "ニャミ",
+        "disp_name": "ニャミ",
+        "id_list": [
+            "nyam_1a",
+            "nyam_1b",
+            "nyam_2a",
+            "nyam_2b",
+            "nyam_3a",
+            "nyam_3b",
+            "nyam_4a",
+            "nyam_4b",
+            "nyam_5a",
+            "nyam_5b",
+            "nyami_6a",
+            "nyami_6b",
+            "nyami_7a",
+            "nyami_7b",
+            "cook_8b",
+            "nyami_8a",
+            "nyami_8b",
+            "shoten",
+            "sazae",
+            "taiyou",
+            "abare",
+            "gundam",
+            "flanders",
+            "urusei",
+            "bara",
+            "uchu_kg",
+            "seken",
+            "hero",
+            "hati",
+            "obaq",
+            "nyami_9a",
+            "nyami_9b",
+            "ningen",
+            "rider",
+            "saint",
+            "devil",
+            "mazin",
+            "nyami_10a",
+            "nyami_10b",
+            "gaian",
+            "baka",
+            "odoru",
+            "cowboy",
+            "ikkyu",
+            "nyami_11a",
+            "nyami_11b",
+            "hk_11a",
+            "hk_11b",
+            "crayon",
+            "konan",
+            "dbz",
+            "nyami_12a",
+            "nyami_12b",
+            "db",
+            "nyami_13a",
+            "nyami_13b",
+            "nyami_14a",
+            "nyami_14b",
+            "ponpoko",
+            "nyami_15a",
+            "nyami_15b",
+            "onep",
+            "nyami_16a",
+            "nyami_16b",
+            "nyami_17a",
+            "nyami_17b",
+            "killbill",
+            "nyami_18a",
+            "nyami_18b",
+            "nyami_19a",
+            "nyami_19b",
+            "nyami_psp1a",
+            "nyami_psp1b",
+            "nyami_20a",
+            "nyami_20b",
+            "rei_14a",
+            "nyami_21a",
+            "nyami_21b",
+            "nyami_22b",
+            "nyami_22a",
+            "nyami_23a",
+            "nyami_23b",
+            "nyami_23c",
+            "nyami_24a",
+            "nyami_24b",
+            "nyami_24c",
+            "nyami_25a",
+            "nyami_25b",
+            "nyami_25c",
+            "nyami_25d",
+            "nyami_6b",
+            "nyami_26a",
+            "nyami_26b",
+            "nyami_27a",
+            "nyami_27b",
+            "nyami_28a",
+            "nyami_28b"
+        ]
+    },
+    {
+        "sort_name": "オリビア",
+        "disp_name": "オリビア",
+        "id_list": [
+            "oliv_1a",
+            "oliv_1b",
+            "oliv_5a",
+            "oliv_5b"
+        ]
+    },
+    {
+        "sort_name": "レイヴガール",
+        "disp_name": "レイヴガール",
+        "id_list": [
+            "rave_1a",
+            "rave_1b",
+            "rave_3a",
+            "rave_3b",
+            "rave_4a",
+            "rave_4b",
+            "rave_7a",
+            "rave_7b",
+            "cats",
+            "rave_16a",
+            "rave_16b",
+            "rave_16a"
+        ]
+    },
+    {
+        "sort_name": "リエチャン",
+        "disp_name": "リエ♥ちゃん",
+        "id_list": [
+            "rie_1a",
+            "rie_1b",
+            "rie_2a",
+            "rie_2b",
+            "rie_3a",
+            "rie_3b",
+            "rie_4a",
+            "rie_4b",
+            "rie_5a",
+            "rie_5b",
+            "rie_7a",
+            "rie_7b",
+            "rie_8a",
+            "rie_8b",
+            "rie_9a",
+            "rie_9b",
+            "rie_11a",
+            "rie_11b",
+            "rie_13a",
+            "rie_13b",
+            "rie_16a",
+            "rie_16b",
+            "rie_18a",
+            "rie_18b",
+            "rie_21a",
+            "rie_21b",
+            "rie_16a",
+            "rie_18a",
+            "rie_5a"
+        ]
+    },
+    {
+        "sort_name": "サナエチャン",
+        "disp_name": "さなえ♥ちゃん",
+        "id_list": [
+            "sana_1a",
+            "sana_1b",
+            "sana_2a",
+            "sana_2b",
+            "sana_3a",
+            "sana_3b",
+            "sana_4a",
+            "sana_4b",
+            "sana_5a",
+            "sana_5b",
+            "sanae_7a",
+            "sanae_7b",
+            "sanae_8a",
+            "sanae_8b",
+            "groovelive_8",
+            "sanae_9a",
+            "sanae_9b",
+            "mezon",
+            "parade",
+            "sanae_16a",
+            "sanae_16b",
+            "sanae_18a",
+            "sanae_18b"
+        ]
+    },
+    {
+        "sort_name": "ショルキー",
+        "disp_name": "ショルキー",
+        "id_list": [
+            "shol_1a",
+            "shol_1b",
+            "shol_3a",
+            "shol_3b",
+            "shol_5a",
+            "shol_5b",
+            "jtek2_mg",
+            "shol_12",
+            "shol_20a",
+            "shol_20b",
+            "shol_20a"
+        ]
+    },
+    {
+        "sort_name": "カミカゼトオル",
+        "disp_name": "神風トオル",
+        "id_list": [
+            "toru_1a",
+            "toru_1b"
+        ]
+    },
+    {
+        "sort_name": "ダミヤン",
+        "disp_name": "ダミやん",
+        "id_list": [
+            "dami_2a",
+            "dami_2b"
+        ]
+    },
+    {
+        "sort_name": "ジングウヒロシ",
+        "disp_name": "神宮ヒロシ",
+        "id_list": [
+            "hiro_2a",
+            "hiro_2b"
+        ]
+    },
+    {
+        "sort_name": "カーリー",
+        "disp_name": "カーリー",
+        "id_list": [
+            "karl_2a",
+            "karl_2b",
+            "karli_16a",
+            "karli_16b"
+        ]
+    },
+    {
+        "sort_name": "ココ",
+        "disp_name": "ココ",
+        "id_list": [
+            "koko_2a",
+            "koko_2b"
+        ]
+    },
+    {
+        "sort_name": "クラフト？",
+        "disp_name": "クラフト？",
+        "id_list": [
+            "kraf_2a",
+            "kraf_2b"
+        ]
+    },
+    {
+        "sort_name": "ＭＺＤ",
+        "disp_name": "ＭＺＤ",
+        "id_list": [
+            "mzd_2a",
+            "mzd_2b",
+            "mzd0_5a",
+            "mzd1_5a",
+            "mzd2_5a",
+            "mzd3_5a",
+            "mzd4_5a",
+            "mzd5_5a",
+            "mzd6_5a",
+            "mzd_5a",
+            "mzd_5b",
+            "mzd_71",
+            "mzd_72",
+            "mzd_73",
+            "mzd_74",
+            "mzd_7a",
+            "mzd_7b",
+            "mzd_9a",
+            "mzd_9b",
+            "mzd_91",
+            "mzd_92",
+            "mzd_93",
+            "mzd_94",
+            "tw_10a",
+            "tw_10b",
+            "mzd_111",
+            "mzd_112",
+            "mzd_113",
+            "mzd_114",
+            "mzd_151",
+            "mzd_152",
+            "mzd_153",
+            "mzd_154",
+            "mzd_161",
+            "mzd_162",
+            "mzd_163",
+            "mzd_164",
+            "mzd_165",
+            "mzd_16",
+            "mzd_15",
+            "mzd_17",
+            "mzd_171",
+            "mzd_172",
+            "mzd_173",
+            "mzd_174",
+            "mzd_175",
+            "rmx_trance18",
+            "rmx_mongol18",
+            "gold_rush_18",
+            "mzd_19",
+            "rmx_retro_19",
+            "rmx_karaoke_19",
+            "rmx_tabran_19",
+            "rmx_tkayo_19",
+            "rmx_flower_19",
+            "mzd_psp2a",
+            "mzd_psp2b",
+            "rmx_tecgirl_20",
+            "rmx_darkopera_20",
+            "rmx_everpop_20",
+            "rmx_pyramid_20",
+            "rmx_asiacon_20",
+            "rmx_moepop_20",
+            "ponb_20a",
+            "ponb_20b",
+            "mzd_1191",
+            "mzd_1192",
+            "mzd_1193",
+            "mzd_1194",
+            "mzd_1195",
+            "mzd_1196",
+            "mzd_1197",
+            "mzd_1198",
+            "mzd_1199",
+            "mzd_1200",
+            "bst_21a",
+            "bst_21b",
+            "mzd_22a",
+            "mzd_22b",
+            "ponb_20b",
+            "mzd_psp2a",
+            "tw_10a",
+            "mzd_25a",
+            "mzd_25b"
+        ]
+    },
+    {
+        "sort_name": "レオクン",
+        "disp_name": "レオくん",
+        "id_list": [
+            "reo_2a",
+            "reo_2b",
+            "reo_5a",
+            "reo_5b",
+            "reo_20a",
+            "reo_20b",
+            "reo_20a",
+            "reo_5a"
+        ]
+    },
+    {
+        "sort_name": "Ｓ．８．タロウ",
+        "disp_name": "Ｓ．８．タロウ",
+        "id_list": [
+            "s8ta_2a",
+            "s8ta_2b"
+        ]
+    },
+    {
+        "sort_name": "スギクン",
+        "disp_name": "スギくん",
+        "id_list": [
+            "sugi_2a",
+            "sugi_2b",
+            "sugi_5a",
+            "sugi_5b"
+        ]
+    },
+    {
+        "sort_name": "タイマー",
+        "disp_name": "タイマー",
+        "id_list": [
+            "time_2a",
+            "time_2b",
+            "timer_6a",
+            "timer_6b",
+            "timer_16a",
+            "timer_16b",
+            "timer_23a",
+            "timer_23b"
+        ]
+    },
+    {
+        "sort_name": "トルマリン",
+        "disp_name": "トルマリン",
+        "id_list": [
+            "trum_2a",
+            "trum_2b",
+            "trum_3a",
+            "trum_3b",
+            "tour_8a",
+            "tour_8b"
+        ]
+    },
+    {
+        "sort_name": "ユーリ",
+        "disp_name": "ユーリ",
+        "id_list": [
+            "yuli_2a",
+            "yuli_2b",
+            "yuli_4a",
+            "yuli_4b",
+            "yuli_8a",
+            "yuli_8b",
+            "yuli_16a",
+            "yuli_16b",
+            "yuli_22a",
+            "yuli_22b"
+        ]
+    },
+    {
+        "sort_name": "アッシュ",
+        "disp_name": "アッシュ",
+        "id_list": [
+            "ash_3a",
+            "ash_3b",
+            "ash_4a",
+            "ash_4b",
+            "ash_5a",
+            "ash_5b",
+            "ash_7a",
+            "ash_7b",
+            "ash_8a",
+            "ash_8b",
+            "ash_10a",
+            "ash_10b",
+            "ash_13a",
+            "ash_13b",
+            "ash_24a",
+            "ash_24b",
+            "ash_13a"
+        ]
+    },
+    {
+        "sort_name": "アヤ",
+        "disp_name": "アヤ",
+        "id_list": [
+            "aya_3a",
+            "aya_3b",
+            "aya_4a",
+            "aya_4b",
+            "aya_5a",
+            "aya_5b",
+            "free_8",
+            "aya_12a",
+            "aya_12b",
+            "aya_16"
+        ]
+    },
+    {
+        "sort_name": "バンブー？",
+        "disp_name": "バンブー？",
+        "id_list": [
+            "bamb_3a",
+            "bamb_3b"
+        ]
+    },
+    {
+        "sort_name": "キャンディ",
+        "disp_name": "キャンディ",
+        "id_list": [
+            "cand_3a",
+            "cand_3b"
+        ]
+    },
+    {
+        "sort_name": "サイバー",
+        "disp_name": "サイバー",
+        "id_list": [
+            "cybe_3a",
+            "cybe_3b",
+            "cyber_7a",
+            "cyber_7b"
+        ]
+    },
+    {
+        "sort_name": "ダイヤ",
+        "disp_name": "ダイヤ",
+        "id_list": [
+            "dia_3a",
+            "dia_3b"
+        ]
+    },
+    {
+        "sort_name": "ドナ",
+        "disp_name": "ドナ",
+        "id_list": [
+            "donn_3a",
+            "donn_3b",
+            "donn_4a",
+            "donn_4b"
+        ]
+    },
+    {
+        "sort_name": "アイス",
+        "disp_name": "アイス",
+        "id_list": [
+            "ice_3a",
+            "ice_3b",
+            "ice_4a",
+            "ice_4b",
+            "getwild",
+            "ice_21a",
+            "ice_21b"
+        ]
+    },
+    {
+        "sort_name": "ケイト",
+        "disp_name": "ケイト",
+        "id_list": [
+            "kate_3a",
+            "kate_3b"
+        ]
+    },
+    {
+        "sort_name": "リンリン",
+        "disp_name": "リンリン",
+        "id_list": [
+            "ling_3a",
+            "ling_3b"
+        ]
+    },
+    {
+        "sort_name": "メグミ",
+        "disp_name": "メグミ",
+        "id_list": [
+            "megu_3a",
+            "megu_3b"
+        ]
+    },
+    {
+        "sort_name": "Ｐ−１＆Ｐ−２",
+        "disp_name": "Ｐ−１＆Ｐ−２",
+        "id_list": [
+            "p1p2_3a",
+            "p1p2_3b",
+            "yoshimoto",
+            "sound_mg"
+        ]
+    },
+    {
+        "sort_name": "ポエット",
+        "disp_name": "ポエット",
+        "id_list": [
+            "poet_3a",
+            "poet_3b",
+            "poet_4a",
+            "poet_4b",
+            "poet_7a",
+            "poet_7b",
+            "carol_9a",
+            "carol_9b",
+            "poet_15a",
+            "poet_15b",
+            "poet_14a",
+            "poet_14b",
+            "poet_20a",
+            "poet_20b",
+            "poet_20c",
+            "poet_21a",
+            "poet_21b",
+            "poet_21a",
+            "poet_3a",
+            "poet_27a",
+            "poet_27b"
+        ]
+    },
+    {
+        "sort_name": "エル",
+        "disp_name": "エル",
+        "id_list": [
+            "elle_4a",
+            "elle_4b"
+        ]
+    },
+    {
+        "sort_name": "ヘンリー",
+        "disp_name": "ヘンリー",
+        "id_list": [
+            "henr_4a",
+            "henr_4b",
+            "paq_11a",
+            "paq_11b"
+        ]
+    },
+    {
+        "sort_name": "ジュンシンゴ",
+        "disp_name": "ジュン＆シンゴ",
+        "id_list": [
+            "jsin_4a",
+            "jsin_4b",
+            "jsin_19a",
+            "jsin_19b"
+        ]
+    },
+    {
+        "sort_name": "マユミ",
+        "disp_name": "マユミ",
+        "id_list": [
+            "mayu_4a",
+            "mayu_4b"
+        ]
+    },
+    {
+        "sort_name": "ＮＫ２０００",
+        "disp_name": "ＮＫ２０００",
+        "id_list": [
+            "nk2k_4a",
+            "nk2k_4b"
+        ]
+    },
+    {
+        "sort_name": "パル",
+        "disp_name": "パル",
+        "id_list": [
+            "pal_4a",
+            "pal_4b",
+            "pal_12a",
+            "pal_12b",
+            "pal_12a"
+        ]
+    },
+    {
+        "sort_name": "スマイル",
+        "disp_name": "スマイル",
+        "id_list": [
+            "smil_4a",
+            "smil_4b",
+            "smile_12a",
+            "smile_12b",
+            "smile_23a",
+            "smile_23b",
+            "smile_23a"
+        ]
+    },
+    {
+        "sort_name": "Ｓ．８．タロウ＆オコン",
+        "disp_name": "Ｓ．８．タロウ＆おコン",
+        "id_list": [
+            "s8ta_4a",
+            "s8ta_4b"
+        ]
+    },
+    {
+        "sort_name": "ユキ",
+        "disp_name": "ユキ",
+        "id_list": [
+            "yuki_4a",
+            "yuki_4b",
+            "yuki_13a",
+            "yuki_13b"
+        ]
+    },
+    {
+        "sort_name": "ベル",
+        "disp_name": "ベル",
+        "id_list": [
+            "bell_5a",
+            "bell_5b",
+            "belle_9a",
+            "belle_9b",
+            "belle_17a",
+            "belle_17b"
+        ]
+    },
+    {
+        "sort_name": "クララ",
+        "disp_name": "クララ",
+        "id_list": [
+            "cla_5a",
+            "cla_5b"
+        ]
+    },
+    {
+        "sort_name": "ファットボーイ",
+        "disp_name": "ファットボーイ",
+        "id_list": [
+            "fatb_5a",
+            "fatb_5b",
+            "fatb_5a"
+        ]
+    },
+    {
+        "sort_name": "グラッパ",
+        "disp_name": "グラッパ",
+        "id_list": [
+            "grap_5a",
+            "grap_5b"
+        ]
+    },
+    {
+        "sort_name": "ホセ",
+        "disp_name": "ホセ",
+        "id_list": [
+            "hose_5a",
+            "hose_5b"
+        ]
+    },
+    {
+        "sort_name": "ホタル",
+        "disp_name": "ホタル",
+        "id_list": [
+            "hota_5a",
+            "hota_5b"
+        ]
+    },
+    {
+        "sort_name": "カレン",
+        "disp_name": "カレン",
+        "id_list": [
+            "kare_5a",
+            "kare_5b"
+        ]
+    },
+    {
+        "sort_name": "ケビン",
+        "disp_name": "ケビン",
+        "id_list": [
+            "kevin_5a",
+            "kevin_5b",
+            "kevin_17a",
+            "kevin_17b"
+        ]
+    },
+    {
+        "sort_name": "スペースマコ",
+        "disp_name": "スペース@マコ",
+        "id_list": [
+            "maco_5a",
+            "maco_5b",
+            "suki"
+        ]
+    },
+    {
+        "sort_name": "マコト",
+        "disp_name": "マコト",
+        "id_list": [
+            "mak_5a",
+            "mak_5b",
+            "makoto_12a",
+            "makoto_12b",
+            "makoto_18a",
+            "makoto_18b"
+        ]
+    },
+    {
+        "sort_name": "ミスターケーケー",
+        "disp_name": "ミスターＫＫ",
+        "id_list": [
+            "mrkk_5a",
+            "mrkk_5b",
+            "mrkk_10a",
+            "mrkk_10b",
+            "purc_mg",
+            "mrkk_15a",
+            "mrkk_15b",
+            "mrkk_20a",
+            "mrkk_20b",
+            "mrkk_20c",
+            "mrkk_25a",
+            "mrkk_25b"
+        ]
+    },
+    {
+        "sort_name": "ナヲミ",
+        "disp_name": "ナヲミ",
+        "id_list": [
+            "nawo_5a",
+            "nawo_5b"
+        ]
+    },
+    {
+        "sort_name": "ピエールジル",
+        "disp_name": "ピエール＆ジル",
+        "id_list": [
+            "piji_5a",
+            "piji_5b",
+            "piej_8a",
+            "piej_8b",
+            "piej_16a",
+            "piej_16b",
+            "piji_5a"
+        ]
+    },
+    {
+        "sort_name": "アカギタカユキ",
+        "disp_name": "アカギタカユキ",
+        "id_list": [
+            "pred_5a",
+            "pred_5b"
+        ]
+    },
+    {
+        "sort_name": "リサ",
+        "disp_name": "リサ",
+        "id_list": [
+            "risa_5a",
+            "risa_5b",
+            "massara_8",
+            "lisa_16a",
+            "lisa_16b",
+            "lisa_16a"
+        ]
+    },
+    {
+        "sort_name": "タマコ",
+        "disp_name": "タマコ",
+        "id_list": [
+            "tama_5a",
+            "tama_5b"
+        ]
+    },
+    {
+        "sort_name": "ワッキー",
+        "disp_name": "ワッキー",
+        "id_list": [
+            "wack_5a",
+            "wack_5b"
+        ]
+    },
+    {
+        "sort_name": "ボーイ",
+        "disp_name": "ボーイ",
+        "id_list": [
+            "boy_6a",
+            "boy_6b",
+            "boy_csa",
+            "boy_csb",
+            "boy_csc",
+            "boy_csd"
+        ]
+    },
+    {
+        "sort_name": "グリーン",
+        "disp_name": "グリーン",
+        "id_list": [
+            "green_6a",
+            "green_6b"
+        ]
+    },
+    {
+        "sort_name": "ヒグラシ",
+        "disp_name": "ヒグラシ",
+        "id_list": [
+            "higu_6a",
+            "higu_6b"
+        ]
+    },
+    {
+        "sort_name": "ホーン",
+        "disp_name": "ホーン",
+        "id_list": [
+            "hone_6a",
+            "hone_6b",
+            "hone_12a",
+            "hone_12b",
+            "ska"
+        ]
+    },
+    {
+        "sort_name": "ジェシカ",
+        "disp_name": "ジェシカ",
+        "id_list": [
+            "jessica_6a",
+            "jessica_6b",
+            "jessica_6a"
+        ]
+    },
+    {
+        "sort_name": "キカ",
+        "disp_name": "キカ",
+        "id_list": [
+            "kika_6a",
+            "kika_6b",
+            "kika_19a",
+            "kika_19b"
+        ]
+    },
+    {
+        "sort_name": "メイ",
+        "disp_name": "メイ",
+        "id_list": [
+            "may_6a",
+            "may_6b"
+        ]
+    },
+    {
+        "sort_name": "メバエ",
+        "disp_name": "めばえ",
+        "id_list": [
+            "mebae_6a",
+            "mebae_6b",
+            "red",
+            "mebae_12a",
+            "mebae_12b"
+        ]
+    },
+    {
+        "sort_name": "ポップンオール？スターズ",
+        "disp_name": "ポップンオール？スターズ",
+        "id_list": [
+            "ondo_6a"
+        ]
+    },
+    {
+        "sort_name": "オトコマン",
+        "disp_name": "おとこマン",
+        "id_list": [
+            "otoko_6a",
+            "otoko_6b",
+            "niku",
+            "otoko_16",
+            "otoko_6a"
+        ]
+    },
+    {
+        "sort_name": "ペッパー",
+        "disp_name": "ペッパー",
+        "id_list": [
+            "pepper_6a",
+            "pepper_6b",
+            "pepper_csa",
+            "pepper_csb"
+        ]
+    },
+    {
+        "sort_name": "ピーノ",
+        "disp_name": "ピーノ",
+        "id_list": [
+            "pino_6a",
+            "pino_6b",
+            "pino_13a",
+            "pino_13b",
+            "pino_13a"
+        ]
+    },
+    {
+        "sort_name": "ロク",
+        "disp_name": "六",
+        "id_list": [
+            "roku_6a",
+            "roku_6b",
+            "roku_9a",
+            "roku_9b",
+            "hiprock2_mg",
+            "roku_12a",
+            "roku_12b",
+            "roku_15a",
+            "roku_15b",
+            "roku_18a",
+            "roku_18b",
+            "samurai_18",
+            "roku_22a",
+            "roku_22b",
+            "roku_6a",
+            "roku_18a",
+            "roku_15a"
+        ]
+    },
+    {
+        "sort_name": "ローリィ",
+        "disp_name": "ローリィ",
+        "id_list": [
+            "rolly_6a",
+            "rolly_6b",
+            "rolly_6a"
+        ]
+    },
+    {
+        "sort_name": "Ｗ．Ｂ．ローズ",
+        "disp_name": "Ｗ．Ｂ．ローズ",
+        "id_list": [
+            "rose_6a",
+            "rose_6b"
+        ]
+    },
+    {
+        "sort_name": "トラン",
+        "disp_name": "トラン",
+        "id_list": [
+            "tran_6a",
+            "tran_6b",
+            "tran_9a",
+            "tran_9b",
+            "tran_12",
+            "tran_16",
+            "rmx_starmine18"
+        ]
+    },
+    {
+        "sort_name": "ワルドック",
+        "disp_name": "ワルドック",
+        "id_list": [
+            "waru_6a",
+            "waru_6b",
+            "waru_11a",
+            "waru_11b"
+        ]
+    },
+    {
+        "sort_name": "ヤードロクセイ",
+        "disp_name": "ヤード６世",
+        "id_list": [
+            "yard_6a",
+            "yard_6b"
+        ]
+    },
+    {
+        "sort_name": "ユン",
+        "disp_name": "ユン",
+        "id_list": [
+            "yun_6a",
+            "yun_6b",
+            "keuro_mg"
+        ]
+    },
+    {
+        "sort_name": "ユリチャン",
+        "disp_name": "ユリ＊ちゃん",
+        "id_list": [
+            "yuri_6a",
+            "yuri_6b"
+        ]
+    },
+    {
+        "sort_name": "クッキー",
+        "disp_name": "クッキー",
+        "id_list": [
+            "cookie_7a",
+            "cookie_7b"
+        ]
+    },
+    {
+        "sort_name": "カゴメ",
+        "disp_name": "かごめ",
+        "id_list": [
+            "kagome_7a",
+            "kagome_7b",
+            "kagome_16a",
+            "kagome_16b",
+            "kagome_7b",
+            "kagome_16a"
+        ]
+    },
+    {
+        "sort_name": "マック",
+        "disp_name": "マック",
+        "id_list": [
+            "mac_7a",
+            "mac_7b"
+        ]
+    },
+    {
+        "sort_name": "ムラサキ",
+        "disp_name": "ムラサキ",
+        "id_list": [
+            "mura_7a",
+            "mura_7b",
+            "murasaki_11a",
+            "murasaki_11b",
+            "rmx_megane18",
+            "mura_7a",
+            "murasaki_11a"
+        ]
+    },
+    {
+        "sort_name": "ナナ",
+        "disp_name": "ナナ",
+        "id_list": [
+            "nana_7a",
+            "nana_7b"
+        ]
+    },
+    {
+        "sort_name": "ナンシー",
+        "disp_name": "ナンシー",
+        "id_list": [
+            "nancy_7a",
+            "nancy_7b"
+        ]
+    },
+    {
+        "sort_name": "ニナ",
+        "disp_name": "ニナ",
+        "id_list": [
+            "nina_7a",
+            "nina_7b",
+            "nina_9a",
+            "nina_9b",
+            "nina_15a",
+            "nina_15b"
+        ]
+    },
+    {
+        "sort_name": "ピータン",
+        "disp_name": "ピータン",
+        "id_list": [
+            "peetan_7a",
+            "peetan_7b"
+        ]
+    },
+    {
+        "sort_name": "ペペ",
+        "disp_name": "ペペ",
+        "id_list": [
+            "pepe_7a",
+            "pepe_7b"
+        ]
+    },
+    {
+        "sort_name": "プリティ",
+        "disp_name": "プリティ",
+        "id_list": [
+            "pretty_7a",
+            "pretty_7b",
+            "pret_csa",
+            "pret_csb",
+            "pret_csc",
+            "pret_csd"
+        ]
+    },
+    {
+        "sort_name": "プリンスエム",
+        "disp_name": "プリンスＭ",
+        "id_list": [
+            "prince_7a",
+            "prince_7b"
+        ]
+    },
+    {
+        "sort_name": "リゼット",
+        "disp_name": "リゼット",
+        "id_list": [
+            "risette_7a",
+            "risette_7b",
+            "risette_8a",
+            "risette_8b",
+            "risette_16a",
+            "risette_16b",
+            "risette_7a",
+            "risette_7a"
+        ]
+    },
+    {
+        "sort_name": "サンディ",
+        "disp_name": "サンディ",
+        "id_list": [
+            "sanday_7a",
+            "sanday_7b",
+            "sanday_10a",
+            "sanday_10b"
+        ]
+    },
+    {
+        "sort_name": "セバスチャン",
+        "disp_name": "セバスちゃん",
+        "id_list": [
+            "sebasu_7a",
+            "sebasu_7b"
+        ]
+    },
+    {
+        "sort_name": "シャラ",
+        "disp_name": "シャラ",
+        "id_list": [
+            "shara_7a",
+            "shara_7b",
+            "bali_mg",
+            "bali_mg",
+            "shara_7a"
+        ]
+    },
+    {
+        "sort_name": "テルオ",
+        "disp_name": "テルオ",
+        "id_list": [
+            "teruo_7a",
+            "teruo_7b",
+            "teruo_21a",
+            "teruo_21b"
+        ]
+    },
+    {
+        "sort_name": "ウォーカー",
+        "disp_name": "ウォーカー",
+        "id_list": [
+            "walker_7a",
+            "walker_7b"
+        ]
+    },
+    {
+        "sort_name": "ヤンヤン",
+        "disp_name": "ヤンヤン",
+        "id_list": [
+            "yang_7a",
+            "yang_7b"
+        ]
+    },
+    {
+        "sort_name": "ヨシオ",
+        "disp_name": "ヨシオ",
+        "id_list": [
+            "yoshio_7a",
+            "yoshio_7b",
+            "gacha",
+            "yoshio_17a",
+            "yoshio_17b",
+            "rm03",
+            "gacha"
+        ]
+    },
+    {
+        "sort_name": "ユンタ",
+        "disp_name": "ユンタ",
+        "id_list": [
+            "yunta_7a",
+            "yunta_7b"
+        ]
+    },
+    {
+        "sort_name": "ジズ",
+        "disp_name": "ジズ",
+        "id_list": [
+            "zizz_7a",
+            "zizz_7b",
+            "zizz_9a",
+            "zizz_9b",
+            "zizz_15a",
+            "zizz_15b",
+            "zizz_15a",
+            "zizz_9a"
+        ]
+    },
+    {
+        "sort_name": "アルト",
+        "disp_name": "アルト",
+        "id_list": [
+            "alt_8a",
+            "alt_8b",
+            "comoba",
+            "sumida_18",
+            "alt_19a",
+            "alt_19b",
+            "alt_20a",
+            "alt_20b",
+            "alt_19a"
+        ]
+    },
+    {
+        "sort_name": "Ｊ・Ａ・チョッパー",
+        "disp_name": "Ｊ・Ａ・チョッパー",
+        "id_list": [
+            "chopper_8a",
+            "chopper_8b"
+        ]
+    },
+    {
+        "sort_name": "ヒナ",
+        "disp_name": "ひな",
+        "id_list": [
+            "hina_8a",
+            "hina_8b",
+            "twee_mg",
+            "hina_20a",
+            "hina_20b"
+        ]
+    },
+    {
+        "sort_name": "ハニー",
+        "disp_name": "ハニー",
+        "id_list": [
+            "honey_8a",
+            "honey_8b",
+            "honey_10a",
+            "honey_10b",
+            "miserarete"
+        ]
+    },
+    {
+        "sort_name": "ミドリ",
+        "disp_name": "みどり",
+        "id_list": [
+            "midori_8a",
+            "midori_8b"
+        ]
+    },
+    {
+        "sort_name": "ミルク",
+        "disp_name": "ミルク",
+        "id_list": [
+            "milk_8a",
+            "milk_8b",
+            "milk_12",
+            "milk_8a",
+            "milk_8a"
+        ]
+    },
+    {
+        "sort_name": "ミラクル４",
+        "disp_name": "ミラクル４",
+        "id_list": [
+            "miracle4_8",
+            "miracle4_26a"
+        ]
+    },
+    {
+        "sort_name": "モモコサン",
+        "disp_name": "モモコさん",
+        "id_list": [
+            "momoko_8a",
+            "momoko_8b",
+            "momoko_16",
+            "momoko_19a",
+            "momoko_19b",
+            "momoko_8a"
+        ]
+    },
+    {
+        "sort_name": "ニューミュー",
+        "disp_name": "ν・μ",
+        "id_list": [
+            "myu_8a",
+            "myu_8b"
+        ]
+    },
+    {
+        "sort_name": "ノホホ",
+        "disp_name": "ノホホ",
+        "id_list": [
+            "nohoho_8a",
+            "nohoho_8b"
+        ]
+    },
+    {
+        "sort_name": "パピルス",
+        "disp_name": "パピルス",
+        "id_list": [
+            "papylus_8a",
+            "papylus_8b",
+            "papylus_8a"
+        ]
+    },
+    {
+        "sort_name": "ライブ",
+        "disp_name": "雷舞",
+        "id_list": [
+            "raibu_8a",
+            "raibu_8b"
+        ]
+    },
+    {
+        "sort_name": "リアリィ",
+        "disp_name": "リアリィ",
+        "id_list": [
+            "really_8a",
+            "really_8b",
+            "really_8a"
+        ]
+    },
+    {
+        "sort_name": "ロビンクック",
+        "disp_name": "ロビン＆クック",
+        "id_list": [
+            "robin_8a",
+            "robin_8b"
+        ]
+    },
+    {
+        "sort_name": "リュータ",
+        "disp_name": "リュータ",
+        "id_list": [
+            "ryuta_8a",
+            "ryuta_8b",
+            "ryuta_22a",
+            "ryuta_22b",
+            "ryuta_22a"
+        ]
+    },
+    {
+        "sort_name": "サファイヤ",
+        "disp_name": "サファイヤ",
+        "id_list": [
+            "sappha_8a",
+            "sappha_8b",
+            "sappha_8a"
+        ]
+    },
+    {
+        "sort_name": "シノビアンアカ",
+        "disp_name": "シノビアン赤",
+        "id_list": [
+            "shinobi_8a"
+        ]
+    },
+    {
+        "sort_name": "シノビアンアオ",
+        "disp_name": "シノビアン青",
+        "id_list": [
+            "shinobi_8b"
+        ]
+    },
+    {
+        "sort_name": "シシャモ",
+        "disp_name": "ししゃも",
+        "id_list": [
+            "shishamo_8a",
+            "shishamo_8b",
+            "shishamo_10a",
+            "shishamo_10b"
+        ]
+    },
+    {
+        "sort_name": "キノコボーイ",
+        "disp_name": "キノコボーイ",
+        "id_list": [
+            "321_8"
+        ]
+    },
+    {
+        "sort_name": "ビーボーン",
+        "disp_name": "Ｂボーン",
+        "id_list": [
+            "bbone_8",
+            "namara"
+        ]
+    },
+    {
+        "sort_name": "オシャレズキン",
+        "disp_name": "おしゃれずきん",
+        "id_list": [
+            "candy_8",
+            "zukin_12"
+        ]
+    },
+    {
+        "sort_name": "コンガキョウ",
+        "disp_name": "コンガ卿",
+        "id_list": [
+            "conga_8a",
+            "conga_8b"
+        ]
+    },
+    {
+        "sort_name": "ジュライ",
+        "disp_name": "ジュライ",
+        "id_list": [
+            "latin_8"
+        ]
+    },
+    {
+        "sort_name": "シロロ",
+        "disp_name": "しろろ",
+        "id_list": [
+            "linus_8"
+        ]
+    },
+    {
+        "sort_name": "アスパラセイジン",
+        "disp_name": "アスパラ星人",
+        "id_list": [
+            "manh_8",
+            "manh_8"
+        ]
+    },
+    {
+        "sort_name": "タルトタフィ",
+        "disp_name": "タルト＆タフィ",
+        "id_list": [
+            "mobomoga_8"
+        ]
+    },
+    {
+        "sort_name": "ケリー",
+        "disp_name": "ケリー",
+        "id_list": [
+            "scifi_8",
+            "kelly_csa",
+            "kelly_csb"
+        ]
+    },
+    {
+        "sort_name": "ティーボーン",
+        "disp_name": "Ｔボーン",
+        "id_list": [
+            "tbone_8"
+        ]
+    },
+    {
+        "sort_name": "ウサオクン",
+        "disp_name": "ウサおくん",
+        "id_list": [
+            "usao_8",
+            "usao_12"
+        ]
+    },
+    {
+        "sort_name": "イヌチヨ",
+        "disp_name": "いぬ千代",
+        "id_list": [
+            "inu_ps",
+            "scat_mg"
+        ]
+    },
+    {
+        "sort_name": "モッキー",
+        "disp_name": "モッキー",
+        "id_list": [
+            "mokky_ps"
+        ]
+    },
+    {
+        "sort_name": "トロッピー",
+        "disp_name": "トロッピー",
+        "id_list": [
+            "toro_ps"
+        ]
+    },
+    {
+        "sort_name": "ＤＪミミ＆ニャミ",
+        "disp_name": "ＤＪミミ＆ニャミ",
+        "id_list": [
+            "radio"
+        ]
+    },
+    {
+        "sort_name": "ホネニャミ",
+        "disp_name": "ホネニャミ",
+        "id_list": [
+            "honerock"
+        ]
+    },
+    {
+        "sort_name": "シルヴェスター",
+        "disp_name": "シルヴェスター",
+        "id_list": [
+            "syl_csa",
+            "syl_csb"
+        ]
+    },
+    {
+        "sort_name": "ウンバボ",
+        "disp_name": "ウンバボ",
+        "id_list": [
+            "unbaho_csa",
+            "unbaho_csb"
+        ]
+    },
+    {
+        "sort_name": "ミセスウィルソン",
+        "disp_name": "ミセス・ウィルソン",
+        "id_list": [
+            "willson_csa",
+            "willson_csb"
+        ]
+    },
+    {
+        "sort_name": "シルヴィー",
+        "disp_name": "シルヴィー",
+        "id_list": [
+            "sylvie_csa",
+            "sylvie_csb"
+        ]
+    },
+    {
+        "sort_name": "シンディ",
+        "disp_name": "シンディ",
+        "id_list": [
+            "cindy_csa",
+            "cindy_csb"
+        ]
+    },
+    {
+        "sort_name": "フラワー",
+        "disp_name": "フラワー",
+        "id_list": [
+            "flower_csa",
+            "flower_csb"
+        ]
+    },
+    {
+        "sort_name": "アンズ",
+        "disp_name": "アンズ",
+        "id_list": [
+            "anzu_csa",
+            "anzu_csb"
+        ]
+    },
+    {
+        "sort_name": "メイファ",
+        "disp_name": "メイファ",
+        "id_list": [
+            "mayfa_csa",
+            "mayfa_csb"
+        ]
+    },
+    {
+        "sort_name": "ハマノフ",
+        "disp_name": "ハマノフ",
+        "id_list": [
+            "hama_csa",
+            "hama_csb",
+            "hama_csc",
+            "hama_csd",
+            "hama_cse",
+            "hamapre_10a",
+            "hamapre_10b",
+            "hama_cs11a",
+            "hama_cs11b",
+            "hama_csa"
+        ]
+    },
+    {
+        "sort_name": "エドワード",
+        "disp_name": "エドワード",
+        "id_list": [
+            "ed_csa",
+            "ed_csb",
+            "ed_20a",
+            "ed_20b"
+        ]
+    },
+    {
+        "sort_name": "ポッパーズ",
+        "disp_name": "ポッパーズ",
+        "id_list": [
+            "poppers_csa",
+            "poppers_csb",
+            "poppers_9a",
+            "poppers_9b"
+        ]
+    },
+    {
+        "sort_name": "ジョニーディー",
+        "disp_name": "ジョニーＤ",
+        "id_list": [
+            "johnny_csa",
+            "johnny_csb"
+        ]
+    },
+    {
+        "sort_name": "スーツ",
+        "disp_name": "スーツ",
+        "id_list": [
+            "suit_csa",
+            "suit_csb",
+            "suit_csa"
+        ]
+    },
+    {
+        "sort_name": "ヴァンテーン",
+        "disp_name": "ヴァンテーン",
+        "id_list": [
+            "vant_csa",
+            "vant_csb",
+            "vant_csa"
+        ]
+    },
+    {
+        "sort_name": "テクノスターズ",
+        "disp_name": "テクノスターズ",
+        "id_list": [
+            "technos_csa",
+            "technos_csb",
+            "tech_12a",
+            "tech_12b"
+        ]
+    },
+    {
+        "sort_name": "ジェフ",
+        "disp_name": "ジェフ",
+        "id_list": [
+            "mods_9a",
+            "mods_9b"
+        ]
+    },
+    {
+        "sort_name": "ブロンソン",
+        "disp_name": "ブロンソン",
+        "id_list": [
+            "ore_9a",
+            "ore_9b"
+        ]
+    },
+    {
+        "sort_name": "ビスコ",
+        "disp_name": "Ｂｉｓ子",
+        "id_list": [
+            "girls_9a",
+            "girls_9b",
+            "tatsh_14a",
+            "tatsh_14b",
+            "bisco_22",
+            "girls_9a"
+        ]
+    },
+    {
+        "sort_name": "クルミ",
+        "disp_name": "クルミ",
+        "id_list": [
+            "bugi_9a",
+            "bugi_9b"
+        ]
+    },
+    {
+        "sort_name": "シルビア",
+        "disp_name": "シルビア",
+        "id_list": [
+            "mori_9a",
+            "mori_9b",
+            "kyua"
+        ]
+    },
+    {
+        "sort_name": "メメ",
+        "disp_name": "メメ",
+        "id_list": [
+            "rec_9a",
+            "rec_9b"
+        ]
+    },
+    {
+        "sort_name": "ソウジ",
+        "disp_name": "ソウジ",
+        "id_list": [
+            "suwa_9a"
+        ]
+    },
+    {
+        "sort_name": "セイジ",
+        "disp_name": "セイジ",
+        "id_list": [
+            "suwa_9b"
+        ]
+    },
+    {
+        "sort_name": "アニー",
+        "disp_name": "アニー",
+        "id_list": [
+            "child_9a",
+            "child_9b"
+        ]
+    },
+    {
+        "sort_name": "イワン",
+        "disp_name": "イワン",
+        "id_list": [
+            "kosa_9a",
+            "kosa_9b",
+            "kosa_9a"
+        ]
+    },
+    {
+        "sort_name": "カゲトラ",
+        "disp_name": "カゲトラ",
+        "id_list": [
+            "tora_9a",
+            "tora_9b"
+        ]
+    },
+    {
+        "sort_name": "キララ",
+        "disp_name": "キララ",
+        "id_list": [
+            "idol_9a",
+            "idol_9b",
+            "idol_9a"
+        ]
+    },
+    {
+        "sort_name": "ハヤト",
+        "disp_name": "ハヤト",
+        "id_list": [
+            "blue_9a",
+            "blue_9b",
+            "babiru",
+            "hayato_23a",
+            "hayato_23b"
+        ]
+    },
+    {
+        "sort_name": "エムシートメ",
+        "disp_name": "ＭＣ．トメ",
+        "id_list": [
+            "tome_9a",
+            "tome_9b",
+            "tome_9a"
+        ]
+    },
+    {
+        "sort_name": "エマ",
+        "disp_name": "エマ",
+        "id_list": [
+            "cow_9a",
+            "cow_9b",
+            "nard_11a",
+            "nard_11b"
+        ]
+    },
+    {
+        "sort_name": "ツララ",
+        "disp_name": "つらら",
+        "id_list": [
+            "max_9a",
+            "max_9b",
+            "tsurara_19a",
+            "tsurara_19b",
+            "tsurara_19c"
+        ]
+    },
+    {
+        "sort_name": "ウパ",
+        "disp_name": "ウパ",
+        "id_list": [
+            "upa_9a"
+        ]
+    },
+    {
+        "sort_name": "ルパ",
+        "disp_name": "ルパ",
+        "id_list": [
+            "upa_9b"
+        ]
+    },
+    {
+        "sort_name": "ナン",
+        "disp_name": "ナン",
+        "id_list": [
+            "indo_9a",
+            "indo_9b"
+        ]
+    },
+    {
+        "sort_name": "ボブ２００２",
+        "disp_name": "ボブ２００２",
+        "id_list": [
+            "rockf_9a",
+            "rockf_9b"
+        ]
+    },
+    {
+        "sort_name": "フォース",
+        "disp_name": "フォース",
+        "id_list": [
+            "force_9a",
+            "force_9b",
+            "force_17a",
+            "force_17b"
+        ]
+    },
+    {
+        "sort_name": "サニー",
+        "disp_name": "サニー",
+        "id_list": [
+            "sunny_csa",
+            "sunny_csb",
+            "sunny_18a",
+            "sunny_18b"
+        ]
+    },
+    {
+        "sort_name": "コービー",
+        "disp_name": "コービー",
+        "id_list": [
+            "kobe_a",
+            "kobe_b"
+        ]
+    },
+    {
+        "sort_name": "ウオヲ",
+        "disp_name": "ウオヲ",
+        "id_list": [
+            "uowo_csa",
+            "uowo_csb",
+            "uowo_csa"
+        ]
+    },
+    {
+        "sort_name": "フキ",
+        "disp_name": "ふき",
+        "id_list": [
+            "fuki_csa",
+            "fuki_csb"
+        ]
+    },
+    {
+        "sort_name": "マッチュッチュ",
+        "disp_name": "マッチュッチュ",
+        "id_list": [
+            "machu_csa",
+            "machu_csb"
+        ]
+    },
+    {
+        "sort_name": "カップクン",
+        "disp_name": "カップくん",
+        "id_list": [
+            "cup_9",
+            "cup_21"
+        ]
+    },
+    {
+        "sort_name": "ジューン",
+        "disp_name": "ジューン",
+        "id_list": [
+            "cutie"
+        ]
+    },
+    {
+        "sort_name": "カザオカチョウトポッパーズ",
+        "disp_name": "風尾課長とポッパーズ",
+        "id_list": [
+            "iitomo"
+        ]
+    },
+    {
+        "sort_name": "キリコ",
+        "disp_name": "キリコ",
+        "id_list": [
+            "mel_10a",
+            "mel_10b"
+        ]
+    },
+    {
+        "sort_name": "ステラ",
+        "disp_name": "ステラ",
+        "id_list": [
+            "cos_10a",
+            "cos_10b",
+            "cos_10a"
+        ]
+    },
+    {
+        "sort_name": "ビアンカ",
+        "disp_name": "ビアンカ",
+        "id_list": [
+            "mbossa_10a",
+            "mbossa_10b"
+        ]
+    },
+    {
+        "sort_name": "イッケイ",
+        "disp_name": "一京",
+        "id_list": [
+            "jazz_10a",
+            "jazz_10b"
+        ]
+    },
+    {
+        "sort_name": "セシル",
+        "disp_name": "セシル",
+        "id_list": [
+            "romane_10a",
+            "romane_10b",
+            "cecil_12"
+        ]
+    },
+    {
+        "sort_name": "チョッキー",
+        "disp_name": "チョッキー",
+        "id_list": [
+            "chocky_10a",
+            "chocky_10b",
+            "chocky_10a"
+        ]
+    },
+    {
+        "sort_name": "アオキサン",
+        "disp_name": "青木さん",
+        "id_list": [
+            "aoki_10a",
+            "aoki_10b"
+        ]
+    },
+    {
+        "sort_name": "ポレポレ",
+        "disp_name": "ポレポレ",
+        "id_list": [
+            "polepole_10a",
+            "polepole_10b"
+        ]
+    },
+    {
+        "sort_name": "イチノミョウ",
+        "disp_name": "壱ノ妙",
+        "id_list": [
+            "ichi_10a",
+            "ichi_10b"
+        ]
+    },
+    {
+        "sort_name": "ベアタンク",
+        "disp_name": "ベアタンク",
+        "id_list": [
+            "bear_10a",
+            "bear_10b"
+        ]
+    },
+    {
+        "sort_name": "キッド",
+        "disp_name": "キッド",
+        "id_list": [
+            "kid_10a",
+            "kid_10b"
+        ]
+    },
+    {
+        "sort_name": "マイケル",
+        "disp_name": "マイケル",
+        "id_list": [
+            "mike_10a",
+            "mike_10b"
+        ]
+    },
+    {
+        "sort_name": "リデル",
+        "disp_name": "リデル",
+        "id_list": [
+            "riddell_csa",
+            "riddell_csb",
+            "liddell_cs11a",
+            "liddell_cs11b"
+        ]
+    },
+    {
+        "sort_name": "ニコ",
+        "disp_name": "ニコ",
+        "id_list": [
+            "nico_csa",
+            "nico_csb"
+        ]
+    },
+    {
+        "sort_name": "アントニオ",
+        "disp_name": "アントニオ",
+        "id_list": [
+            "antonio_csa",
+            "antonio_csb"
+        ]
+    },
+    {
+        "sort_name": "ハヤタ",
+        "disp_name": "ハヤタ",
+        "id_list": [
+            "hayata_csa",
+            "hayata_csb"
+        ]
+    },
+    {
+        "sort_name": "シャーク",
+        "disp_name": "シャーク",
+        "id_list": [
+            "shark_csa",
+            "shark_csb"
+        ]
+    },
+    {
+        "sort_name": "ポール",
+        "disp_name": "ポール",
+        "id_list": [
+            "paul_csa",
+            "paul_csb"
+        ]
+    },
+    {
+        "sort_name": "マーマーツインズ",
+        "disp_name": "マーマーツインズ",
+        "id_list": [
+            "mur_10a",
+            "mur_10b"
+        ]
+    },
+    {
+        "sort_name": "アメトリ",
+        "disp_name": "アメトリ",
+        "id_list": [
+            "ametori_10a",
+            "ametori_10b",
+            "ametori_10a"
+        ]
+    },
+    {
+        "sort_name": "モモコ１９９３",
+        "disp_name": "モモコ★１９９３",
+        "id_list": [
+            "momoko_10a",
+            "momoko_10b"
+        ]
+    },
+    {
+        "sort_name": "カウント・テン",
+        "disp_name": "カウント・テン",
+        "id_list": [
+            "sym_10a",
+            "sym_10b"
+        ]
+    },
+    {
+        "sort_name": "ナカジマサン",
+        "disp_name": "仲嶋さん",
+        "id_list": [
+            "nakajima_10"
+        ]
+    },
+    {
+        "sort_name": "フォクシー",
+        "disp_name": "フォクシー",
+        "id_list": [
+            "mska_10a",
+            "mska_10b"
+        ]
+    },
+    {
+        "sort_name": "ホットディー",
+        "disp_name": "ＨＯＴ．Ｄ",
+        "id_list": [
+            "la_10a",
+            "la_10b"
+        ]
+    },
+    {
+        "sort_name": "ディーティーオー",
+        "disp_name": "ＤＴＯ",
+        "id_list": [
+            "gdes_10a",
+            "gdes_10b",
+            "dto_16",
+            "dto_22a",
+            "dto_22b"
+        ]
+    },
+    {
+        "sort_name": "ツースト",
+        "disp_name": "ツースト",
+        "id_list": [
+            "2st_10a",
+            "2st_10b",
+            "2st_10a"
+        ]
+    },
+    {
+        "sort_name": "チヨコ",
+        "disp_name": "チヨコ",
+        "id_list": [
+            "shima_10a",
+            "shima_10b"
+        ]
+    },
+    {
+        "sort_name": "ミスターフクミミ",
+        "disp_name": "ミスターフクミミ",
+        "id_list": [
+            "tel_10a",
+            "tel_10b"
+        ]
+    },
+    {
+        "sort_name": "ミサキ",
+        "disp_name": "ミサキ",
+        "id_list": [
+            "groove_10a",
+            "groove_10b"
+        ]
+    },
+    {
+        "sort_name": "ワカバ",
+        "disp_name": "わかば",
+        "id_list": [
+            "plastic_10a",
+            "plastic_10b"
+        ]
+    },
+    {
+        "sort_name": "ロミオ",
+        "disp_name": "ロミ夫",
+        "id_list": [
+            "sabrina_10a",
+            "sabrina_10b",
+            "romio_16a",
+            "romio_16b"
+        ]
+    },
+    {
+        "sort_name": "パティ",
+        "disp_name": "パティ",
+        "id_list": [
+            "stray_10a",
+            "stray_10b",
+            "patty_12a",
+            "patty_12b"
+        ]
+    },
+    {
+        "sort_name": "ジャック",
+        "disp_name": "ジャック",
+        "id_list": [
+            "dt_10a",
+            "dt_10b",
+            "jack_21a",
+            "jack_21b"
+        ]
+    },
+    {
+        "sort_name": "アフロ",
+        "disp_name": "アフロ",
+        "id_list": [
+            "ddrm_10a",
+            "ddrm_10b",
+            "ddrm_10a"
+        ]
+    },
+    {
+        "sort_name": "ルル",
+        "disp_name": "ルル",
+        "id_list": [
+            "ras_10a",
+            "ras_10b",
+            "lulu_18a",
+            "lulu_18b"
+        ]
+    },
+    {
+        "sort_name": "スワパンチ",
+        "disp_name": "すわパンチ",
+        "id_list": [
+            "taiso_10"
+        ]
+    },
+    {
+        "sort_name": "ピエール＆ジル",
+        "disp_name": "ピエール＆ジル",
+        "id_list": [
+            "sushi"
+        ]
+    },
+    {
+        "sort_name": "ＤＪライジン",
+        "disp_name": "ＤＪ雷神",
+        "id_list": [
+            "nebuta_11a",
+            "nebuta_11b"
+        ]
+    },
+    {
+        "sort_name": "カバブー",
+        "disp_name": "カバブー",
+        "id_list": [
+            "turky_11a",
+            "turky_11b"
+        ]
+    },
+    {
+        "sort_name": "スイカブラザーズ",
+        "disp_name": "スイカブラザーズ",
+        "id_list": [
+            "suika_11a",
+            "suika_11b"
+        ]
+    },
+    {
+        "sort_name": "テリー６６",
+        "disp_name": "テリー６６",
+        "id_list": [
+            "denwa_11a",
+            "denwa_11b"
+        ]
+    },
+    {
+        "sort_name": "ミステルフンガーノ",
+        "disp_name": "ミステルフンガーノ",
+        "id_list": [
+            "mirai_11a",
+            "mirai_11b",
+            "mirai_11a"
+        ]
+    },
+    {
+        "sort_name": "ジョニージョウニシ",
+        "disp_name": "ジョニー城西",
+        "id_list": [
+            "wood_11a",
+            "wood_11b"
+        ]
+    },
+    {
+        "sort_name": "チノ",
+        "disp_name": "チノ",
+        "id_list": [
+            "mongol_11a",
+            "mongol_11b"
+        ]
+    },
+    {
+        "sort_name": "ロキ",
+        "disp_name": "ロキ",
+        "id_list": [
+            "akino_11a",
+            "akino_11b",
+            "roki_13a",
+            "roki_13b",
+            "roki_19a",
+            "roki_19b",
+            "roki_19c",
+            "roki_22a",
+            "roki_22b",
+            "roki_13a",
+            "akino_11a",
+            "roki_13a"
+        ]
+    },
+    {
+        "sort_name": "マルルウ",
+        "disp_name": "マルルウ",
+        "id_list": [
+            "hawaii_11a",
+            "hawaii_11b"
+        ]
+    },
+    {
+        "sort_name": "スミコ",
+        "disp_name": "スミ子",
+        "id_list": [
+            "pachi_11a",
+            "pachi_11b"
+        ]
+    },
+    {
+        "sort_name": "サウス",
+        "disp_name": "サウス",
+        "id_list": [
+            "kurage_11a",
+            "kurage_11b"
+        ]
+    },
+    {
+        "sort_name": "デイヴ",
+        "disp_name": "デイヴ",
+        "id_list": [
+            "gift_11a",
+            "gift_11b",
+            "gift_11a"
+        ]
+    },
+    {
+        "sort_name": "オキナ",
+        "disp_name": "オキナ",
+        "id_list": [
+            "izumo_11a",
+            "izumo_11b"
+        ]
+    },
+    {
+        "sort_name": "オクターブ",
+        "disp_name": "オクターブ",
+        "id_list": [
+            "train_11a",
+            "train_11b",
+            "train_11a"
+        ]
+    },
+    {
+        "sort_name": "セルゲイ",
+        "disp_name": "セルゲイ",
+        "id_list": [
+            "sdog_11a",
+            "sdog_11b",
+            "sdog_11a"
+        ]
+    },
+    {
+        "sort_name": "ビックバイパー",
+        "disp_name": "ビックバイパー",
+        "id_list": [
+            "gradius_11a"
+        ]
+    },
+    {
+        "sort_name": "ロードブリティッシュ",
+        "disp_name": "ロードブリティッシュ",
+        "id_list": [
+            "gradius_11b"
+        ]
+    },
+    {
+        "sort_name": "ニッキー",
+        "disp_name": "ニッキー",
+        "id_list": [
+            "nick_11a",
+            "nick_11b",
+            "nick_14a",
+            "nick_14b"
+        ]
+    },
+    {
+        "sort_name": "カジカ",
+        "disp_name": "カジカ",
+        "id_list": [
+            "kage_11a",
+            "kage_11b",
+            "kage_11a"
+        ]
+    },
+    {
+        "sort_name": "サユリ",
+        "disp_name": "サユリ",
+        "id_list": [
+            "pianof_11a",
+            "pianof_11b"
+        ]
+    },
+    {
+        "sort_name": "エカテリーナ",
+        "disp_name": "エカテリーナ",
+        "id_list": [
+            "russia_11a",
+            "russia_11b"
+        ]
+    },
+    {
+        "sort_name": "フォーゲルワンダ",
+        "disp_name": "フォーゲル椀田",
+        "id_list": [
+            "yama_11a",
+            "yama_11b"
+        ]
+    },
+    {
+        "sort_name": "クモハサン",
+        "disp_name": "クモハさん",
+        "id_list": [
+            "school_11a",
+            "school_11b"
+        ]
+    },
+    {
+        "sort_name": "デンガナマンガナ",
+        "disp_name": "でんがな＆マンガナ",
+        "id_list": [
+            "nhero_11a",
+            "nhero_11b"
+        ]
+    },
+    {
+        "sort_name": "スクーリオン",
+        "disp_name": "スクーリオン",
+        "id_list": [
+            "school_csa",
+            "school_csb"
+        ]
+    },
+    {
+        "sort_name": "ムギバタケ",
+        "disp_name": "むぎばたけ",
+        "id_list": [
+            "mugi_csa",
+            "mugi_csb"
+        ]
+    },
+    {
+        "sort_name": "ゴエモン",
+        "disp_name": "ゴエモン",
+        "id_list": [
+            "goegoe"
+        ]
+    },
+    {
+        "sort_name": "シシワカ",
+        "disp_name": "獅子若",
+        "id_list": [
+            "sengoku_12a",
+            "sengoku_12b"
+        ]
+    },
+    {
+        "sort_name": "スミコ’７３",
+        "disp_name": "スミ子’７３",
+        "id_list": [
+            "sumiko_12a",
+            "sumiko_12b"
+        ]
+    },
+    {
+        "sort_name": "リュウセイハニー",
+        "disp_name": "流星ハニー",
+        "id_list": [
+            "ryusei_12a",
+            "ryusei_12b"
+        ]
+    },
+    {
+        "sort_name": "マモルクン",
+        "disp_name": "マモル君",
+        "id_list": [
+            "propose_12a",
+            "propose_12b"
+        ]
+    },
+    {
+        "sort_name": "ドミーソラー",
+        "disp_name": "ドミー＆ソラー",
+        "id_list": [
+            "uchee_12a",
+            "uchee_12b"
+        ]
+    },
+    {
+        "sort_name": "マゴジロウ",
+        "disp_name": "まごじろう",
+        "id_list": [
+            "krow_12a",
+            "krow_12b"
+        ]
+    },
+    {
+        "sort_name": "ワカサン",
+        "disp_name": "若さん",
+        "id_list": [
+            "waka_12a",
+            "waka_12b"
+        ]
+    },
+    {
+        "sort_name": "ヨン",
+        "disp_name": "ヨン",
+        "id_list": [
+            "yon_12a",
+            "yon_12b"
+        ]
+    },
+    {
+        "sort_name": "ジャン",
+        "disp_name": "ジャン",
+        "id_list": [
+            "vallent_12a",
+            "vallent_12b"
+        ]
+    },
+    {
+        "sort_name": "ヒポポタマヨ",
+        "disp_name": "ヒポポ＆タマヨ",
+        "id_list": [
+            "baka_12a",
+            "baka_12b",
+            "hipo_14a",
+            "hipo_14b"
+        ]
+    },
+    {
+        "sort_name": "タンタン",
+        "disp_name": "タンタン",
+        "id_list": [
+            "china_12a",
+            "china_12b"
+        ]
+    },
+    {
+        "sort_name": "ナイスガイ",
+        "disp_name": "ナイスガイ",
+        "id_list": [
+            "niceguy_12a",
+            "niceguy_12b"
+        ]
+    },
+    {
+        "sort_name": "ナズナスズナ",
+        "disp_name": "ナズナ＆スズナ",
+        "id_list": [
+            "nazuna_12a",
+            "nazuna_12b",
+            "nazuna_12a"
+        ]
+    },
+    {
+        "sort_name": "チヅル",
+        "disp_name": "千鶴",
+        "id_list": [
+            "koto_12a",
+            "koto_12b"
+        ]
+    },
+    {
+        "sort_name": "シノビアンコ",
+        "disp_name": "シノビアンコ",
+        "id_list": [
+            "anko_12a",
+            "anko_12b",
+            "anko_12a"
+        ]
+    },
+    {
+        "sort_name": "フロウフロウ",
+        "disp_name": "フロウフロウ",
+        "id_list": [
+            "dcrew_12a",
+            "dcrew_12b",
+            "flow",
+            "flow_21a",
+            "flow_21b"
+        ]
+    },
+    {
+        "sort_name": "ハナオ",
+        "disp_name": "花緒",
+        "id_list": [
+            "haikara_12a",
+            "haikara_12b"
+        ]
+    },
+    {
+        "sort_name": "ベリー",
+        "disp_name": "ベリー",
+        "id_list": [
+            "toy_12a",
+            "toy_12b"
+        ]
+    },
+    {
+        "sort_name": "マッスルマスダ",
+        "disp_name": "マッスル増田",
+        "id_list": [
+            "taisho_12a",
+            "taisho_12b"
+        ]
+    },
+    {
+        "sort_name": "サラサ",
+        "disp_name": "さらさ",
+        "id_list": [
+            "sasa_12a",
+            "sasa_12b"
+        ]
+    },
+    {
+        "sort_name": "キキョウ",
+        "disp_name": "桔梗",
+        "id_list": [
+            "hpwa_12a",
+            "hpwa_12b",
+            "kikyo_18a",
+            "kikyo_18b",
+            "kikyo_18c",
+            "kikyo_18a"
+        ]
+    },
+    {
+        "sort_name": "ラッテ",
+        "disp_name": "ラッテ",
+        "id_list": [
+            "ratte_csa",
+            "rotte_csb"
+        ]
+    },
+    {
+        "sort_name": "ロッテ",
+        "disp_name": "ロッテ",
+        "id_list": [
+            "ratte_csb",
+            "rotte_csa"
+        ]
+    },
+    {
+        "sort_name": "トビーズ",
+        "disp_name": "トビーズ",
+        "id_list": [
+            "tob_csa",
+            "tob_csb"
+        ]
+    },
+    {
+        "sort_name": "ホシオ",
+        "disp_name": "ホシオ",
+        "id_list": [
+            "hoshio_csa",
+            "hoshio_csb"
+        ]
+    },
+    {
+        "sort_name": "ルリ",
+        "disp_name": "るり",
+        "id_list": [
+            "ruri_csa",
+            "ruri_csb"
+        ]
+    },
+    {
+        "sort_name": "ハジメ",
+        "disp_name": "ハジメ",
+        "id_list": [
+            "eiji_12a",
+            "eiji_12b",
+            "hajime_16a",
+            "hajime_16b",
+            "hajime_16a"
+        ]
+    },
+    {
+        "sort_name": "ジャスティス",
+        "disp_name": "ジャスティス★",
+        "id_list": [
+            "japa_12a",
+            "japa_12b"
+        ]
+    },
+    {
+        "sort_name": "モガミサスガ",
+        "disp_name": "最上サスガ",
+        "id_list": [
+            "biwa_12a",
+            "biwa_12b"
+        ]
+    },
+    {
+        "sort_name": "オンナノコ",
+        "disp_name": "おんなのこ",
+        "id_list": [
+            "asaki_12a",
+            "asaki_12b",
+            "asaki_12a"
+        ]
+    },
+    {
+        "sort_name": "ミスターソバッコ",
+        "disp_name": "ミスターそばっ子",
+        "id_list": [
+            "soba_12a",
+            "soba_12b",
+            "soba_12a"
+        ]
+    },
+    {
+        "sort_name": "ダースヨド",
+        "disp_name": "ダース・淀",
+        "id_list": [
+            "yodo_12a",
+            "yodo_12b"
+        ]
+    },
+    {
+        "sort_name": "メル",
+        "disp_name": "メル",
+        "id_list": [
+            "yoshikun_12a",
+            "yoshikun_12b",
+            "mel_19a",
+            "mel_19b",
+            "mel_19c"
+        ]
+    },
+    {
+        "sort_name": "エイト",
+        "disp_name": "泳人",
+        "id_list": [
+            "reiji_12a",
+            "reiji_12b",
+            "eito_22a",
+            "eito_22b"
+        ]
+    },
+    {
+        "sort_name": "ポップンクリスマス",
+        "disp_name": "ポップンクリスマス",
+        "id_list": [
+            "ac_xmas",
+            "ac_xmas"
+        ]
+    },
+    {
+        "sort_name": "ミスターカツッコ",
+        "disp_name": "ミスターカツっ子",
+        "id_list": [
+            "ajikko"
+        ]
+    },
+    {
+        "sort_name": "ナイト",
+        "disp_name": "ナイト",
+        "id_list": [
+            "knight_13a",
+            "knight_13b"
+        ]
+    },
+    {
+        "sort_name": "アルビレオ",
+        "disp_name": "アルビレオ",
+        "id_list": [
+            "kenji_13a",
+            "kenji_13b",
+            "albireo_22a",
+            "albireo_22b"
+        ]
+    },
+    {
+        "sort_name": "ナカジ",
+        "disp_name": "ナカジ",
+        "id_list": [
+            "megane_13a",
+            "megane_13b",
+            "megane_13a"
+        ]
+    },
+    {
+        "sort_name": "アブラハム",
+        "disp_name": "アブラハム",
+        "id_list": [
+            "arab_13a",
+            "arab_13b"
+        ]
+    },
+    {
+        "sort_name": "ゲルム１３",
+        "disp_name": "ゲルム１３",
+        "id_list": [
+            "sf_13a",
+            "sf_13b"
+        ]
+    },
+    {
+        "sort_name": "トノ",
+        "disp_name": "との",
+        "id_list": [
+            "chindon_13a",
+            "chindon_13b"
+        ]
+    },
+    {
+        "sort_name": "ライト",
+        "disp_name": "ライト",
+        "id_list": [
+            "light_13a",
+            "light_13b",
+            "light_13a"
+        ]
+    },
+    {
+        "sort_name": "ハナチャン",
+        "disp_name": "はなちゃん",
+        "id_list": [
+            "hana_13a",
+            "hana_13b"
+        ]
+    },
+    {
+        "sort_name": "サンパウロヨウコ",
+        "disp_name": "サンパウロ容子",
+        "id_list": [
+            "yoko_13a",
+            "yoko_13b",
+            "yoko_13a"
+        ]
+    },
+    {
+        "sort_name": "グランドハンマー",
+        "disp_name": "グランドハンマー",
+        "id_list": [
+            "fff_13a",
+            "fff_13b"
+        ]
+    },
+    {
+        "sort_name": "フワワ",
+        "disp_name": "ふわわ",
+        "id_list": [
+            "wata_13a",
+            "wata_13b"
+        ]
+    },
+    {
+        "sort_name": "ロケットヤロー",
+        "disp_name": "ロケット８６",
+        "id_list": [
+            "jet86_13a",
+            "jet86_13b"
+        ]
+    },
+    {
+        "sort_name": "レインボーヤ",
+        "disp_name": "レインボーヤ",
+        "id_list": [
+            "rain_13a",
+            "rain_13b"
+        ]
+    },
+    {
+        "sort_name": "ＰＭＧＴＶ−ＲＺＸ",
+        "disp_name": "ＰＭＧＴＶ−ＲＺＸ",
+        "id_list": [
+            "race_13a",
+            "race_13b",
+            "race_13a"
+        ]
+    },
+    {
+        "sort_name": "フェルナンドジュウサンセイ",
+        "disp_name": "フェルナンド１３世",
+        "id_list": [
+            "rpg_13a"
+        ]
+    },
+    {
+        "sort_name": "ミカエラ",
+        "disp_name": "ミカエラ",
+        "id_list": [
+            "rpg_13b"
+        ]
+    },
+    {
+        "sort_name": "モエヨエン",
+        "disp_name": "燃世炎",
+        "id_list": [
+            "fight_13a"
+        ]
+    },
+    {
+        "sort_name": "ウチョウテン",
+        "disp_name": "有頂天",
+        "id_list": [
+            "fight_13b"
+        ]
+    },
+    {
+        "sort_name": "チャンコヤマザキ",
+        "disp_name": "ちゃんこ山崎",
+        "id_list": [
+            "mito_13a",
+            "mito_13b"
+        ]
+    },
+    {
+        "sort_name": "ブカＡ",
+        "disp_name": "部下Ａ",
+        "id_list": [
+            "koushin_13a"
+        ]
+    },
+    {
+        "sort_name": "ブカＢ",
+        "disp_name": "部下Ｂ",
+        "id_list": [
+            "koushin_13b"
+        ]
+    },
+    {
+        "sort_name": "ボクシーズ",
+        "disp_name": "ボクシーズ",
+        "id_list": [
+            "nano_13a",
+            "nano_13b"
+        ]
+    },
+    {
+        "sort_name": "タロー",
+        "disp_name": "タロー",
+        "id_list": [
+            "desb_13a",
+            "desb_13b"
+        ]
+    },
+    {
+        "sort_name": "アンナ",
+        "disp_name": "アンナ",
+        "id_list": [
+            "ferris_13a",
+            "ferris_13b"
+        ]
+    },
+    {
+        "sort_name": "ニジノヒカリ",
+        "disp_name": "虹野ひかり",
+        "id_list": [
+            "yoshi_13a",
+            "yoshi_13b",
+            "yoshi_13a"
+        ]
+    },
+    {
+        "sort_name": "オニビ",
+        "disp_name": "鬼−ＢＥ",
+        "id_list": [
+            "desasa_13a",
+            "desasa_13b"
+        ]
+    },
+    {
+        "sort_name": "ツヨシ",
+        "disp_name": "つよし",
+        "id_list": [
+            "2yoshi_13a",
+            "2yoshi_13b",
+            "2yoshi_18a",
+            "2yoshi_18b"
+        ]
+    },
+    {
+        "sort_name": "テガミコ",
+        "disp_name": "手紙子",
+        "id_list": [
+            "tissue_13a",
+            "tissue_13b"
+        ]
+    },
+    {
+        "sort_name": "ルシフェル",
+        "disp_name": "ルシフェル",
+        "id_list": [
+            "bard_13a",
+            "bard_13a"
+        ]
+    },
+    {
+        "sort_name": "ルシファー",
+        "disp_name": "ルシファー",
+        "id_list": [
+            "bard_13b"
+        ]
+    },
+    {
+        "sort_name": "ホワイトメリー",
+        "disp_name": "ホワイト・メリー",
+        "id_list": [
+            "kanon_13a",
+            "kanon_13b"
+        ]
+    },
+    {
+        "sort_name": "ダイアナ",
+        "disp_name": "ダイアナ",
+        "id_list": [
+            "maya_13a",
+            "maya_13b"
+        ]
+    },
+    {
+        "sort_name": "ロサ",
+        "disp_name": "ロサ",
+        "id_list": [
+            "terra_13a",
+            "terra_13b"
+        ]
+    },
+    {
+        "sort_name": "Ｆトレイン",
+        "disp_name": "Ｆ−トレイン",
+        "id_list": [
+            "train_13a",
+            "train_13b"
+        ]
+    },
+    {
+        "sort_name": "イア＝ラムセ",
+        "disp_name": "イア＝ラムセ",
+        "id_list": [
+            "robo_13a",
+            "robo_13b",
+            "robo_13a"
+        ]
+    },
+    {
+        "sort_name": "キャロル",
+        "disp_name": "キャロル",
+        "id_list": [
+            "casino_13a",
+            "casino_13b",
+            "casino_13a"
+        ]
+    },
+    {
+        "sort_name": "キャプテン．ジョリー",
+        "disp_name": "キャプテン．ジョリー",
+        "id_list": [
+            "viking_13a",
+            "viking_13b"
+        ]
+    },
+    {
+        "sort_name": "バウム",
+        "disp_name": "バウム",
+        "id_list": [
+            "horror_13a",
+            "horror_13b"
+        ]
+    },
+    {
+        "sort_name": "アロエ",
+        "disp_name": "アロエ",
+        "id_list": [
+            "qma_13"
+        ]
+    },
+    {
+        "sort_name": "コウリュウ",
+        "disp_name": "黄龍",
+        "id_list": [
+            "mfc_13"
+        ]
+    },
+    {
+        "sort_name": "ヒノモトレイコ",
+        "disp_name": "日ノ本零子",
+        "id_list": [
+            "reiko_13"
+        ]
+    },
+    {
+        "sort_name": "イマ",
+        "disp_name": "イマ",
+        "id_list": [
+            "yima_csa",
+            "yima_csb",
+            "yima_cs11a",
+            "yima_cs11b",
+            "yima_16a",
+            "yima_16b",
+            "yima_csa",
+            "yima_csa"
+        ]
+    },
+    {
+        "sort_name": "エイプリル",
+        "disp_name": "エイプリル",
+        "id_list": [
+            "april_14a",
+            "april_14b"
+        ]
+    },
+    {
+        "sort_name": "シャムシール",
+        "disp_name": "シャムシール",
+        "id_list": [
+            "berry_14a",
+            "berry_14b"
+        ]
+    },
+    {
+        "sort_name": "ワン・タン",
+        "disp_name": "ワン・タン",
+        "id_list": [
+            "tai_14a",
+            "tai_14b"
+        ]
+    },
+    {
+        "sort_name": "サドルシューズ",
+        "disp_name": "サドルシューズ",
+        "id_list": [
+            "party_14a",
+            "party_14b"
+        ]
+    },
+    {
+        "sort_name": "ドゥーム",
+        "disp_name": "DOOOOOM",
+        "id_list": [
+            "fff_14a",
+            "fff_14b"
+        ]
+    },
+    {
+        "sort_name": "ニコラシカ",
+        "disp_name": "ニコラシカ",
+        "id_list": [
+            "buru_14a",
+            "buru_14b"
+        ]
+    },
+    {
+        "sort_name": "ショウコ",
+        "disp_name": "硝子",
+        "id_list": [
+            "psy_14a",
+            "psy_14b",
+            "shoko_21a",
+            "shoko_21b",
+            "shoko_21c"
+        ]
+    },
+    {
+        "sort_name": "ミニッツ",
+        "disp_name": "ミニッツ",
+        "id_list": [
+            "moe_14a",
+            "moe_14b",
+            "minits_21a",
+            "minits_21b",
+            "minits_21c",
+            "minits_22a",
+            "minits_22b",
+            "minits_21a"
+        ]
+    },
+    {
+        "sort_name": "シャルロット",
+        "disp_name": "シャルロット",
+        "id_list": [
+            "rondo_14a",
+            "rondo_14b",
+            "rondo_14a"
+        ]
+    },
+    {
+        "sort_name": "Ｐ−１４",
+        "disp_name": "Ｐ−１４",
+        "id_list": [
+            "p14_14a",
+            "p14_14b"
+        ]
+    },
+    {
+        "sort_name": "ブレーメンズ",
+        "disp_name": "ブレーメンズ",
+        "id_list": [
+            "roba_14a",
+            "roba_14b"
+        ]
+    },
+    {
+        "sort_name": "ウーノ",
+        "disp_name": "ウーノ",
+        "id_list": [
+            "uno_14a",
+            "uno_14b"
+        ]
+    },
+    {
+        "sort_name": "アイコ",
+        "disp_name": "愛子",
+        "id_list": [
+            "ari_14a",
+            "ari_14b"
+        ]
+    },
+    {
+        "sort_name": "ミズマッシュ",
+        "disp_name": "ミズ・マッシュ",
+        "id_list": [
+            "mash_14a",
+            "mash_14b"
+        ]
+    },
+    {
+        "sort_name": "ツクバ",
+        "disp_name": "ツクバ",
+        "id_list": [
+            "denki_14a"
+        ]
+    },
+    {
+        "sort_name": "アキバ",
+        "disp_name": "アキバ",
+        "id_list": [
+            "denki_14b"
+        ]
+    },
+    {
+        "sort_name": "ブラウン",
+        "disp_name": "ブラウン",
+        "id_list": [
+            "africa_14a",
+            "africa_14b"
+        ]
+    },
+    {
+        "sort_name": "カモガワケンキュウイン",
+        "disp_name": "鴨川研究員",
+        "id_list": [
+            "yodo_14a",
+            "yodo_14b"
+        ]
+    },
+    {
+        "sort_name": "クリーミィ",
+        "disp_name": "クリーミィ",
+        "id_list": [
+            "groove_14a",
+            "groove_14b"
+        ]
+    },
+    {
+        "sort_name": "リンダイキハリー",
+        "disp_name": "リン＆ダイキ＆ハリー",
+        "id_list": [
+            "noria_14a",
+            "noria_14b"
+        ]
+    },
+    {
+        "sort_name": "フューチャン",
+        "disp_name": "フューチャン",
+        "id_list": [
+            "trance_14a",
+            "trance_14b"
+        ]
+    },
+    {
+        "sort_name": "ディー",
+        "disp_name": "Ｄ",
+        "id_list": [
+            "dmeta_14a",
+            "dmeta_14b"
+        ]
+    },
+    {
+        "sort_name": "エキドナ",
+        "disp_name": "エキドナ",
+        "id_list": [
+            "goa_14a",
+            "goa_14b",
+            "goa_14b"
+        ]
+    },
+    {
+        "sort_name": "ナルヒコ",
+        "disp_name": "ナルヒコ",
+        "id_list": [
+            "reiji_14a",
+            "reiji_14b"
+        ]
+    },
+    {
+        "sort_name": "コサイン",
+        "disp_name": "コサイン",
+        "id_list": [
+            "copin_14a",
+            "copin_14b"
+        ]
+    },
+    {
+        "sort_name": "ベティー",
+        "disp_name": "ベティー",
+        "id_list": [
+            "psb_14a",
+            "psb_14b",
+            "psb_14a"
+        ]
+    },
+    {
+        "sort_name": "パンチセンパイ",
+        "disp_name": "パンチ先輩",
+        "id_list": [
+            "ouen_14a",
+            "ouen_14b"
+        ]
+    },
+    {
+        "sort_name": "ショウ",
+        "disp_name": "翔",
+        "id_list": [
+            "yoshi_14a",
+            "yoshi_14b",
+            "syo_22a",
+            "syo_22b"
+        ]
+    },
+    {
+        "sort_name": "アックン",
+        "disp_name": "あっくん",
+        "id_list": [
+            "alpha_14a",
+            "alpha_14b"
+        ]
+    },
+    {
+        "sort_name": "フォトン",
+        "disp_name": "フォトン",
+        "id_list": [
+            "koga_14a",
+            "koga_14b"
+        ]
+    },
+    {
+        "sort_name": "ゴクソツクン",
+        "disp_name": "ごくそつくん",
+        "id_list": [
+            "ankoku_14a",
+            "ankoku_14b",
+            "ankoku_14a"
+        ]
+    },
+    {
+        "sort_name": "フィーバーロボ",
+        "disp_name": "フィーバーロボ",
+        "id_list": [
+            "robo_14a",
+            "robo_14b"
+        ]
+    },
+    {
+        "sort_name": "ヴィルヘルム",
+        "disp_name": "ヴィルヘルム",
+        "id_list": [
+            "taka_14a",
+            "taka_14b"
+        ]
+    },
+    {
+        "sort_name": "ミク",
+        "disp_name": "ミク",
+        "id_list": [
+            "nagumo_14a",
+            "nagumo_14b"
+        ]
+    },
+    {
+        "sort_name": "ポップン１４",
+        "disp_name": "ポップン１４",
+        "id_list": [
+            "senshi_14a",
+            "senshi_14b",
+            "senshi_14a"
+        ]
+    },
+    {
+        "sort_name": "ソラ",
+        "disp_name": "空",
+        "id_list": [
+            "okii_14a",
+            "okii_14b"
+        ]
+    },
+    {
+        "sort_name": "ビークン",
+        "disp_name": "ビーくん",
+        "id_list": [
+            "be_14a",
+            "be_14b"
+        ]
+    },
+    {
+        "sort_name": "イナリ",
+        "disp_name": "イナリ",
+        "id_list": [
+            "kon_15a",
+            "kon_15b"
+        ]
+    },
+    {
+        "sort_name": "オージェイツヨシ",
+        "disp_name": "ＯＪ　つよし",
+        "id_list": [
+            "oj_15a",
+            "oj_15b",
+            "oj_24a",
+            "oj_24b",
+            "oj_24a"
+        ]
+    },
+    {
+        "sort_name": "ナディ",
+        "disp_name": "ナディ",
+        "id_list": [
+            "inisie_15a",
+            "inisie_15b",
+            "inisie_15a"
+        ]
+    },
+    {
+        "sort_name": "シリウス",
+        "disp_name": "シリウス",
+        "id_list": [
+            "st02_15a",
+            "st02_15b",
+            "sirius_23a",
+            "sirius_23b",
+            "sirius_23a"
+        ]
+    },
+    {
+        "sort_name": "ディアマンテ",
+        "disp_name": "ディアマンテ",
+        "id_list": [
+            "vene_15a",
+            "vene_15b"
+        ]
+    },
+    {
+        "sort_name": "ギタケン",
+        "disp_name": "ギタケン",
+        "id_list": [
+            "gk_15a",
+            "gk_15b"
+        ]
+    },
+    {
+        "sort_name": "パロット",
+        "disp_name": "パロット",
+        "id_list": [
+            "kago_15a",
+            "kago_15b"
+        ]
+    },
+    {
+        "sort_name": "カノコ",
+        "disp_name": "鹿ノ子",
+        "id_list": [
+            "piano_15a",
+            "piano_15b",
+            "piano_15a"
+        ]
+    },
+    {
+        "sort_name": "ミッチャン",
+        "disp_name": "みっちゃん",
+        "id_list": [
+            "comic_15a",
+            "comic_15b",
+            "micchan_21a",
+            "micchan_21b",
+            "micchan_21a"
+        ]
+    },
+    {
+        "sort_name": "マーク",
+        "disp_name": "マーク",
+        "id_list": [
+            "hirata_15a",
+            "hirata_15b"
+        ]
+    },
+    {
+        "sort_name": "ヨウジロウ",
+        "disp_name": "洋次郎",
+        "id_list": [
+            "taiyo_15a",
+            "taiyo_15b"
+        ]
+    },
+    {
+        "sort_name": "ユメノミライ",
+        "disp_name": "夢野みらい",
+        "id_list": [
+            "mirai_15a",
+            "mirai_15b"
+        ]
+    },
+    {
+        "sort_name": "ユルール",
+        "disp_name": "ユルール",
+        "id_list": [
+            "cosmos_15a",
+            "cosmos_15b"
+        ]
+    },
+    {
+        "sort_name": "ナツボウ",
+        "disp_name": "なつ坊",
+        "id_list": [
+            "wac_15a",
+            "wac_15b"
+        ]
+    },
+    {
+        "sort_name": "ディージェイツヨシ",
+        "disp_name": "ＤＪ　つよし",
+        "id_list": [
+            "dj_15a",
+            "dj_15b"
+        ]
+    },
+    {
+        "sort_name": "ツバキ",
+        "disp_name": "椿",
+        "id_list": [
+            "asaki_15a",
+            "asaki_15b"
+        ]
+    },
+    {
+        "sort_name": "ククー",
+        "disp_name": "ククー",
+        "id_list": [
+            "iruka_15a",
+            "iruka_15b"
+        ]
+    },
+    {
+        "sort_name": "タオシャン",
+        "disp_name": "桃香",
+        "id_list": [
+            "terra_15a",
+            "terra_15b"
+        ]
+    },
+    {
+        "sort_name": "シモン",
+        "disp_name": "シモン",
+        "id_list": [
+            "aku_15a",
+            "aku_15b"
+        ]
+    },
+    {
+        "sort_name": "ハーネマン",
+        "disp_name": "ハーネマン",
+        "id_list": [
+            "war_15a",
+            "war_15b"
+        ]
+    },
+    {
+        "sort_name": "ズシン",
+        "disp_name": "ズシン",
+        "id_list": [
+            "dosin_15a",
+            "dosin_15b"
+        ]
+    },
+    {
+        "sort_name": "スーパーモグー",
+        "disp_name": "スーパーモグー",
+        "id_list": [
+            "mog_15a",
+            "mog_15b"
+        ]
+    },
+    {
+        "sort_name": "マイクロ",
+        "disp_name": "マイクロ",
+        "id_list": [
+            "kurione_15a",
+            "kurione_15b"
+        ]
+    },
+    {
+        "sort_name": "マダム・ラゴラ",
+        "disp_name": "マダム・ラゴラ",
+        "id_list": [
+            "akino_15a",
+            "akino_15b"
+        ]
+    },
+    {
+        "sort_name": "ロコ＊モコ",
+        "disp_name": "ロコ＊モコ",
+        "id_list": [
+            "miki_15a",
+            "miki_15b"
+        ]
+    },
+    {
+        "sort_name": "フィリ",
+        "disp_name": "フィリ",
+        "id_list": [
+            "kelt_15a",
+            "kelt_15b",
+            "fili_16",
+            "kelt_15a"
+        ]
+    },
+    {
+        "sort_name": "チチカカ",
+        "disp_name": "チチカカ",
+        "id_list": [
+            "naska_15a",
+            "naska_15b",
+            "naska_15a"
+        ]
+    },
+    {
+        "sort_name": "ウェルダン",
+        "disp_name": "ウェルダン",
+        "id_list": [
+            "kaku_15a",
+            "kaku_15b",
+            "kaku_15a"
+        ]
+    },
+    {
+        "sort_name": "ホシノヒト",
+        "disp_name": "星のひと",
+        "id_list": [
+            "yami_15a",
+            "yami_15b"
+        ]
+    },
+    {
+        "sort_name": "リソス",
+        "disp_name": "リソス",
+        "id_list": [
+            "uma_15a",
+            "uma_15b"
+        ]
+    },
+    {
+        "sort_name": "シグマ",
+        "disp_name": "シグマ",
+        "id_list": [
+            "hikari_15a",
+            "hikari_15b"
+        ]
+    },
+    {
+        "sort_name": "？",
+        "disp_name": "？",
+        "id_list": [
+            "mu_15a",
+            "mu_15b",
+            "hatena_24a",
+            "hatena_24b"
+        ]
+    },
+    {
+        "sort_name": "アンネース",
+        "disp_name": "アンネース",
+        "id_list": [
+            "apo"
+        ]
+    },
+    {
+        "sort_name": "オオカミショウネン",
+        "disp_name": "オオカミ少年",
+        "id_list": [
+            "prince",
+            "ripples_19",
+            "littleprayer"
+        ]
+    },
+    {
+        "sort_name": "スミレ",
+        "disp_name": "スミレ",
+        "id_list": [
+            "sumire_cs6a",
+            "sumire_cs6b",
+            "sumire_cs7a",
+            "sumire_cs7b",
+            "sumire_cs10a",
+            "sumire_cs10b",
+            "sumire_psp1a",
+            "sumire_psp1b",
+            "sumire_22a",
+            "sumire_22b",
+            "sumire_cs6a",
+            "sumire_cs10a"
+        ]
+    },
+    {
+        "sort_name": "キリ",
+        "disp_name": "キリ",
+        "id_list": [
+            "kili_csa",
+            "kili_csb"
+        ]
+    },
+    {
+        "sort_name": "フミヒコサン",
+        "disp_name": "文彦さん",
+        "id_list": [
+            "fumi_csa",
+            "fumi_csb",
+            "fumi_cs10a",
+            "fumi_cs10b",
+            "fumi_csa"
+        ]
+    },
+    {
+        "sort_name": "フカガワフナヲ",
+        "disp_name": "深川ふなを",
+        "id_list": [
+            "funawo_csa",
+            "funawo_csb"
+        ]
+    },
+    {
+        "sort_name": "チラ",
+        "disp_name": "智羅",
+        "id_list": [
+            "chira_csa",
+            "chira_csb"
+        ]
+    },
+    {
+        "sort_name": "サトウサン",
+        "disp_name": "サトウさん",
+        "id_list": [
+            "satou_16a",
+            "satou_16b"
+        ]
+    },
+    {
+        "sort_name": "ロザリー",
+        "disp_name": "ロザリー",
+        "id_list": [
+            "dormir_16a",
+            "dormir_16b",
+            "dormir_16a"
+        ]
+    },
+    {
+        "sort_name": "エッダ",
+        "disp_name": "エッダ",
+        "id_list": [
+            "edda_16a",
+            "edda_16b"
+        ]
+    },
+    {
+        "sort_name": "エレメンツ",
+        "disp_name": "えれ麺つ",
+        "id_list": [
+            "pasta_16a",
+            "pasta_16b"
+        ]
+    },
+    {
+        "sort_name": "チップ",
+        "disp_name": "チップ",
+        "id_list": [
+            "chip_16a",
+            "chip_16b",
+            "chip_16a"
+        ]
+    },
+    {
+        "sort_name": "イズミサン",
+        "disp_name": "いずみさん",
+        "id_list": [
+            "izumi_16a",
+            "izumi_16b"
+        ]
+    },
+    {
+        "sort_name": "ポプコン",
+        "disp_name": "ポプコン",
+        "id_list": [
+            "popcon_16a",
+            "popcon_16b"
+        ]
+    },
+    {
+        "sort_name": "レナ",
+        "disp_name": "レナ",
+        "id_list": [
+            "lena_16a",
+            "lena_16b"
+        ]
+    },
+    {
+        "sort_name": "カロリーヌヤンゲルス",
+        "disp_name": "カロリーヌ＆ヤンゲルス",
+        "id_list": [
+            "karoyan_16a",
+            "karoyan_16b"
+        ]
+    },
+    {
+        "sort_name": "ターコ",
+        "disp_name": "ター子",
+        "id_list": [
+            "tako_16a",
+            "tako_16b"
+        ]
+    },
+    {
+        "sort_name": "ケリマロ",
+        "disp_name": "ケリマロ",
+        "id_list": [
+            "maro_16a",
+            "maro_16b"
+        ]
+    },
+    {
+        "sort_name": "カケルクン",
+        "disp_name": "カケルくん",
+        "id_list": [
+            "kakeru_16a",
+            "kakeru_16b",
+            "kakeru_16a"
+        ]
+    },
+    {
+        "sort_name": "ハラヘッタ",
+        "disp_name": "ハラ＝ヘッタ",
+        "id_list": [
+            "hara_16a",
+            "hara_16b"
+        ]
+    },
+    {
+        "sort_name": "マジカル４",
+        "disp_name": "マジカル★４",
+        "id_list": [
+            "magical_16"
+        ]
+    },
+    {
+        "sort_name": "スモーク",
+        "disp_name": "スモーク",
+        "id_list": [
+            "jazz_16a",
+            "jazz_16b",
+            "smoke_19",
+            "jazz_16a",
+            "smoke_19"
+        ]
+    },
+    {
+        "sort_name": "コジロー",
+        "disp_name": "小次郎",
+        "id_list": [
+            "kojiro_16a",
+            "kojiro_16b",
+            "rm01"
+        ]
+    },
+    {
+        "sort_name": "パンデス",
+        "disp_name": "パンデス",
+        "id_list": [
+            "pandeth_16a",
+            "pandeth_16b"
+        ]
+    },
+    {
+        "sort_name": "ジーナ",
+        "disp_name": "ジーナ",
+        "id_list": [
+            "zina_16a",
+            "zina_16b"
+        ]
+    },
+    {
+        "sort_name": "スウィーツ",
+        "disp_name": "スウィーツ",
+        "id_list": [
+            "sweets_16a",
+            "sweets_16b"
+        ]
+    },
+    {
+        "sort_name": "バブルス",
+        "disp_name": "バブルス",
+        "id_list": [
+            "bubbles_16a",
+            "bubbles_16b"
+        ]
+    },
+    {
+        "sort_name": "ファティマ",
+        "disp_name": "ファティマ",
+        "id_list": [
+            "fatima_16a",
+            "fatima_16b",
+            "fatima_24a"
+        ]
+    },
+    {
+        "sort_name": "テントカント",
+        "disp_name": "テント・カント",
+        "id_list": [
+            "tent_16a",
+            "tent_16b",
+            "tent_16a"
+        ]
+    },
+    {
+        "sort_name": "ポップンドリーム",
+        "disp_name": "ポップンドリーム",
+        "id_list": [
+            "end_16"
+        ]
+    },
+    {
+        "sort_name": "スイセイローラ",
+        "disp_name": "彗星ローラ",
+        "id_list": [
+            "suisei_16a",
+            "suisei_16b",
+            "suisei_16a",
+            "suisei_16a"
+        ]
+    },
+    {
+        "sort_name": "ハウスガール",
+        "disp_name": "ハウスガール",
+        "id_list": [
+            "house_16"
+        ]
+    },
+    {
+        "sort_name": "ノクス",
+        "disp_name": "ノクス",
+        "id_list": [
+            "blind_16a"
+        ]
+    },
+    {
+        "sort_name": "マタン",
+        "disp_name": "マタン",
+        "id_list": [
+            "blind_16b"
+        ]
+    },
+    {
+        "sort_name": "シグシグ",
+        "disp_name": "ＳｉｇＳｉｇ",
+        "id_list": [
+            "sigsig_16"
+        ]
+    },
+    {
+        "sort_name": "エミ",
+        "disp_name": "エミ",
+        "id_list": [
+            "emi_16"
+        ]
+    },
+    {
+        "sort_name": "ナナシ",
+        "disp_name": "ナナシ",
+        "id_list": [
+            "nakaji_16"
+        ]
+    },
+    {
+        "sort_name": "タマキ",
+        "disp_name": "たまき",
+        "id_list": [
+            "tamaki_16"
+        ]
+    },
+    {
+        "sort_name": "イクエ",
+        "disp_name": "育江",
+        "id_list": [
+            "sorasumi_16a",
+            "sorasumi_16b"
+        ]
+    },
+    {
+        "sort_name": "ディック",
+        "disp_name": "ディック",
+        "id_list": [
+            "dick_psa",
+            "dick_psb"
+        ]
+    },
+    {
+        "sort_name": "オフィーリア",
+        "disp_name": "オフィーリア",
+        "id_list": [
+            "ophelia_csa",
+            "ophelia_csb",
+            "ophelia_csa"
+        ]
+    },
+    {
+        "sort_name": "ミシェル",
+        "disp_name": "ミシェル",
+        "id_list": [
+            "michel_csa",
+            "michel_csb",
+            "michel_csa"
+        ]
+    },
+    {
+        "sort_name": "アユム",
+        "disp_name": "あゆむ",
+        "id_list": [
+            "ayumu_csa",
+            "ayumu_csb",
+            "ayumu_21a",
+            "ayumu_21b",
+            "ayumu_csa"
+        ]
+    },
+    {
+        "sort_name": "カンタ",
+        "disp_name": "カンタ",
+        "id_list": [
+            "kanta_csa",
+            "kanta_csb",
+            "kanta_csb"
+        ]
+    },
+    {
+        "sort_name": "テトラ",
+        "disp_name": "テトラ",
+        "id_list": [
+            "tetra_csa",
+            "tetra_csb"
+        ]
+    },
+    {
+        "sort_name": "ロビッツ",
+        "disp_name": "ロビッツ",
+        "id_list": [
+            "robitz_csa",
+            "robitz_csb"
+        ]
+    },
+    {
+        "sort_name": "チナツ",
+        "disp_name": "ちなつ",
+        "id_list": [
+            "chinatsu_17a",
+            "chinatsu_17b",
+            "chinatsu_21a",
+            "chinatsu_21b"
+        ]
+    },
+    {
+        "sort_name": "エリカ",
+        "disp_name": "エリカ",
+        "id_list": [
+            "erika_17a",
+            "erika_17b",
+            "erika_17a",
+            "erika_17a"
+        ]
+    },
+    {
+        "sort_name": "ワイルド",
+        "disp_name": "ワイルド",
+        "id_list": [
+            "wild_17a",
+            "wild_17b"
+        ]
+    },
+    {
+        "sort_name": "モニモニ",
+        "disp_name": "モニモニ",
+        "id_list": [
+            "monimoni_17a",
+            "monimoni_17b",
+            "monimoni_17a"
+        ]
+    },
+    {
+        "sort_name": "ピロシキ",
+        "disp_name": "ピロシキ",
+        "id_list": [
+            "piroshiki_17a",
+            "piroshiki_17b"
+        ]
+    },
+    {
+        "sort_name": "ベンケイ",
+        "disp_name": "ＢＥＮ−Ｋ",
+        "id_list": [
+            "benk_17a",
+            "benk_17b"
+        ]
+    },
+    {
+        "sort_name": "ホシノソラ",
+        "disp_name": "星野そら",
+        "id_list": [
+            "hoshinosora_17a",
+            "hoshinosora_17b",
+            "hoshinosora_17a"
+        ]
+    },
+    {
+        "sort_name": "スターニャン",
+        "disp_name": "スター★にゃん",
+        "id_list": [
+            "starnyan_17a",
+            "starnyan_17b"
+        ]
+    },
+    {
+        "sort_name": "タタン",
+        "disp_name": "タタン",
+        "id_list": [
+            "tatin_17a",
+            "tatin_17b",
+            "tatin_24a"
+        ]
+    },
+    {
+        "sort_name": "ウル",
+        "disp_name": "ウル",
+        "id_list": [
+            "ur_17a",
+            "ur_17b"
+        ]
+    },
+    {
+        "sort_name": "キト",
+        "disp_name": "キト",
+        "id_list": [
+            "quito_17a",
+            "quito_17b"
+        ]
+    },
+    {
+        "sort_name": "エンプレス",
+        "disp_name": "エンプレス",
+        "id_list": [
+            "empress_17a",
+            "empress_17b"
+        ]
+    },
+    {
+        "sort_name": "ドクターフラスコ",
+        "disp_name": "Ｄｒ．フラスコ",
+        "id_list": [
+            "dr_17a",
+            "dr_17b"
+        ]
+    },
+    {
+        "sort_name": "ライラ",
+        "disp_name": "ライラ",
+        "id_list": [
+            "lyra_17a",
+            "lyra_17b"
+        ]
+    },
+    {
+        "sort_name": "スティーブ",
+        "disp_name": "スティーブ",
+        "id_list": [
+            "steve_17a",
+            "steve_17b"
+        ]
+    },
+    {
+        "sort_name": "ケイゴ",
+        "disp_name": "ケイゴ★",
+        "id_list": [
+            "keigo_17a",
+            "keigo_17b",
+            "keigo_17a"
+        ]
+    },
+    {
+        "sort_name": "マチコ",
+        "disp_name": "マチコ",
+        "id_list": [
+            "machiko_17a",
+            "machiko_17b"
+        ]
+    },
+    {
+        "sort_name": "エレノア",
+        "disp_name": "エレノア",
+        "id_list": [
+            "elenoa_17a",
+            "elenoa_17b",
+            "elenoa_17a"
+        ]
+    },
+    {
+        "sort_name": "ライム",
+        "disp_name": "らいむ",
+        "id_list": [
+            "raimu_17a",
+            "raimu_17b"
+        ]
+    },
+    {
+        "sort_name": "カイゼロ",
+        "disp_name": "カイ＆ゼロ",
+        "id_list": [
+            "elebits_17"
+        ]
+    },
+    {
+        "sort_name": "トリニティ",
+        "disp_name": "トリニティ",
+        "id_list": [
+            "trinity_17a",
+            "trinity_17b",
+            "trinity_17a"
+        ]
+    },
+    {
+        "sort_name": "ゲレゲレ",
+        "disp_name": "ゲレゲレ",
+        "id_list": [
+            "geregere_17a",
+            "geregere_17b"
+        ]
+    },
+    {
+        "sort_name": "ローズマリー",
+        "disp_name": "ローズマリー",
+        "id_list": [
+            "rosemary_17a",
+            "rosemary_17b",
+            "rosemary_20a",
+            "rosemary_20b",
+            "rosemary_20c"
+        ]
+    },
+    {
+        "sort_name": "オディール",
+        "disp_name": "オディール",
+        "id_list": [
+            "odile_17a",
+            "odile_17b",
+            "odile_17a",
+            "odile_17a"
+        ]
+    },
+    {
+        "sort_name": "ペロ",
+        "disp_name": "ペロ",
+        "id_list": [
+            "pelo_17a",
+            "pelo_17b"
+        ]
+    },
+    {
+        "sort_name": "シマー",
+        "disp_name": "しま〜",
+        "id_list": [
+            "shima_17a",
+            "shima_17b"
+        ]
+    },
+    {
+        "sort_name": "シラトリヒメコ",
+        "disp_name": "白鳥姫子",
+        "id_list": [
+            "himeko_17a",
+            "himeko_17b"
+        ]
+    },
+    {
+        "sort_name": "ツインビー",
+        "disp_name": "ツインビー",
+        "id_list": [
+            "twinbee"
+        ]
+    },
+    {
+        "sort_name": "ソナー",
+        "disp_name": "ソナー",
+        "id_list": [
+            "sonar_17a",
+            "sonar_17b"
+        ]
+    },
+    {
+        "sort_name": "ハッピー",
+        "disp_name": "はっぴ〜",
+        "id_list": [
+            "happpy_17a",
+            "happpy_17b"
+        ]
+    },
+    {
+        "sort_name": "イチジョウシレイ",
+        "disp_name": "一条司令",
+        "id_list": [
+            "ichijo_17a",
+            "ichijo_17b",
+            "ichijo_17a"
+        ]
+    },
+    {
+        "sort_name": "ゴルゴン",
+        "disp_name": "ゴルゴン",
+        "id_list": [
+            "gorgon_17a",
+            "gorgon_17b"
+        ]
+    },
+    {
+        "sort_name": "トドロキキソウ",
+        "disp_name": "轟競",
+        "id_list": [
+            "hero_17a"
+        ]
+    },
+    {
+        "sort_name": "トドロキハシル",
+        "disp_name": "轟走",
+        "id_list": [
+            "hero_17b"
+        ]
+    },
+    {
+        "sort_name": "サイレントルーム",
+        "disp_name": "サイレントルーム",
+        "id_list": [
+            "wac_17a",
+            "wac_17b"
+        ]
+    },
+    {
+        "sort_name": "ジャガー",
+        "disp_name": "ジャガー",
+        "id_list": [
+            "jag_9a",
+            "jag_9b"
+        ]
+    },
+    {
+        "sort_name": "スーツタイモリー",
+        "disp_name": "スーツ対モリー",
+        "id_list": [
+            "morry_suit_12a",
+            "morry_suit_12b"
+        ]
+    },
+    {
+        "sort_name": "ウーシェン",
+        "disp_name": "武生",
+        "id_list": [
+            "wusheng_13a",
+            "wusheng_13b"
+        ]
+    },
+    {
+        "sort_name": "アカツキ",
+        "disp_name": "アカツキ",
+        "id_list": [
+            "akatsuki_14a",
+            "akatsuki_14b",
+            "akatsuki_14a"
+        ]
+    },
+    {
+        "sort_name": "エックノックガール",
+        "disp_name": "エックノックガール",
+        "id_list": [
+            "ecnock_13a",
+            "ecnock_13b"
+        ]
+    },
+    {
+        "sort_name": "ロコ",
+        "disp_name": "ロコ",
+        "id_list": [
+            "roco_14a",
+            "roco_14b",
+            "roco_14a"
+        ]
+    },
+    {
+        "sort_name": "ミント",
+        "disp_name": "ミント",
+        "id_list": [
+            "mint_18a",
+            "mint_18b"
+        ]
+    },
+    {
+        "sort_name": "カガミ",
+        "disp_name": "カガミ",
+        "id_list": [
+            "kagami_18a",
+            "kagami_18b",
+            "kagami_24a"
+        ]
+    },
+    {
+        "sort_name": "カネノブ",
+        "disp_name": "カネノブ",
+        "id_list": [
+            "kanenobu_18a",
+            "kanenobu_18b"
+        ]
+    },
+    {
+        "sort_name": "シシツグ",
+        "disp_name": "獅子次",
+        "id_list": [
+            "shishitugu_18a",
+            "shishitugu_18b"
+        ]
+    },
+    {
+        "sort_name": "チキング",
+        "disp_name": "チキング",
+        "id_list": [
+            "chiking_18a",
+            "chiking_18b"
+        ]
+    },
+    {
+        "sort_name": "ベニ",
+        "disp_name": "紅",
+        "id_list": [
+            "beni_18a",
+            "beni_18b",
+            "beni_18a"
+        ]
+    },
+    {
+        "sort_name": "ゴシチ",
+        "disp_name": "吾七",
+        "id_list": [
+            "goshichi_18a",
+            "goshichi_18b"
+        ]
+    },
+    {
+        "sort_name": "モミジ",
+        "disp_name": "モミジ★",
+        "id_list": [
+            "mmg_18a",
+            "mmg_18b"
+        ]
+    },
+    {
+        "sort_name": "アヤメ",
+        "disp_name": "あやめ",
+        "id_list": [
+            "ayame_18a",
+            "ayame_18b"
+        ]
+    },
+    {
+        "sort_name": "スズヒメ",
+        "disp_name": "寿々姫",
+        "id_list": [
+            "suzuhime_18a",
+            "suzuhime_18b",
+            "suzuhime_18a"
+        ]
+    },
+    {
+        "sort_name": "ヤマブキ",
+        "disp_name": "山吹",
+        "id_list": [
+            "yamabuki_18a",
+            "yamabuki_18b"
+        ]
+    },
+    {
+        "sort_name": "キコロ",
+        "disp_name": "キコロ",
+        "id_list": [
+            "kiccoro_18a",
+            "kiccoro_18b",
+            "kiccoro_18a"
+        ]
+    },
+    {
+        "sort_name": "コクウ",
+        "disp_name": "コクウ",
+        "id_list": [
+            "kokuu_18a",
+            "kokuu_18b"
+        ]
+    },
+    {
+        "sort_name": "ハニコ",
+        "disp_name": "はに子",
+        "id_list": [
+            "hanico_18a",
+            "hanico_18b"
+        ]
+    },
+    {
+        "sort_name": "ヤヤコ",
+        "disp_name": "ややこ",
+        "id_list": [
+            "yayako_18a",
+            "yayako_18b"
+        ]
+    },
+    {
+        "sort_name": "エヌナーガ",
+        "disp_name": "Ｎ．ナーガ",
+        "id_list": [
+            "naga_18a",
+            "naga_18b"
+        ]
+    },
+    {
+        "sort_name": "エムシーエイチティー",
+        "disp_name": "ｍ．ｃ．Ｈ．Ｔ",
+        "id_list": [
+            "mcht_18a",
+            "mcht_18b"
+        ]
+    },
+    {
+        "sort_name": "タヌチヨ",
+        "disp_name": "たぬちよ",
+        "id_list": [
+            "tanuchiyo_18a",
+            "tanuchiyo_18b"
+        ]
+    },
+    {
+        "sort_name": "マサムネ",
+        "disp_name": "マサムネ",
+        "id_list": [
+            "masamune_18a",
+            "masamune_18b",
+            "masamune_18c"
+        ]
+    },
+    {
+        "sort_name": "キビ",
+        "disp_name": "キビ",
+        "id_list": [
+            "kivy_18a",
+            "kivy_18b"
+        ]
+    },
+    {
+        "sort_name": "リキュウ",
+        "disp_name": "リキュウ",
+        "id_list": [
+            "rq_18a",
+            "rq_18b"
+        ]
+    },
+    {
+        "sort_name": "デクスター",
+        "disp_name": "デクスター",
+        "id_list": [
+            "daichi_18a",
+            "daichi_18b"
+        ]
+    },
+    {
+        "sort_name": "クラノスケ",
+        "disp_name": "蔵ノ助",
+        "id_list": [
+            "3days_18a",
+            "3days_18b"
+        ]
+    },
+    {
+        "sort_name": "スケアクローズ",
+        "disp_name": "スケアクローズ",
+        "id_list": [
+            "ikki_18a",
+            "ikki_18b"
+        ]
+    },
+    {
+        "sort_name": "クロタチャン",
+        "disp_name": "黒太ちゃん",
+        "id_list": [
+            "tako_18a",
+            "tako_18b"
+        ]
+    },
+    {
+        "sort_name": "ダイ",
+        "disp_name": "ダイ",
+        "id_list": [
+            "dai_18a",
+            "dai_18b"
+        ]
+    },
+    {
+        "sort_name": "ペルリサン",
+        "disp_name": "ぺるりさん",
+        "id_list": [
+            "peri_18a",
+            "peri_18b"
+        ]
+    },
+    {
+        "sort_name": "ニノマル",
+        "disp_name": "弐ノ丸",
+        "id_list": [
+            "asaki_18a",
+            "asaki_18b"
+        ]
+    },
+    {
+        "sort_name": "クニオシ",
+        "disp_name": "クニオシ",
+        "id_list": [
+            "saki_18a",
+            "saki_18b",
+            "saki_18a"
+        ]
+    },
+    {
+        "sort_name": "ヒトリ",
+        "disp_name": "ヒトリ",
+        "id_list": [
+            "wac_18a",
+            "wac_18b",
+            "wac_18a"
+        ]
+    },
+    {
+        "sort_name": "ミミニャミ",
+        "disp_name": "ミミ＆ニャミ",
+        "id_list": [
+            "nengo_18a",
+            "end_20",
+            "miminyami_26a"
+        ]
+    },
+    {
+        "sort_name": "ギジリ",
+        "disp_name": "ギジリ",
+        "id_list": [
+            "giziri_18a",
+            "giziri_18b"
+        ]
+    },
+    {
+        "sort_name": "ゲツフウマ",
+        "disp_name": "月風魔",
+        "id_list": [
+            "getsufu_18"
+        ]
+    },
+    {
+        "sort_name": "ラルフ",
+        "disp_name": "ラルフ",
+        "id_list": [
+            "dracula_18"
+        ]
+    },
+    {
+        "sort_name": "ウチダイチモン",
+        "disp_name": "内田一門",
+        "id_list": [
+            "tsugaru_18"
+        ]
+    },
+    {
+        "sort_name": "ミウラヒカル",
+        "disp_name": "三浦ヒカル",
+        "id_list": [
+            "funfun_18"
+        ]
+    },
+    {
+        "sort_name": "ミヤビサン",
+        "disp_name": "みやびさん",
+        "id_list": [
+            "miyabi_12a",
+            "miyabi_12b"
+        ]
+    },
+    {
+        "sort_name": "ミココ",
+        "disp_name": "みここ",
+        "id_list": [
+            "micoco_12a",
+            "micoco_12b"
+        ]
+    },
+    {
+        "sort_name": "ヤナリ",
+        "disp_name": "ヤナリ",
+        "id_list": [
+            "yanari_12a",
+            "yanari_12b"
+        ]
+    },
+    {
+        "sort_name": "プリンスオブファレナ",
+        "disp_name": "プリンス・オブ・ファレナ",
+        "id_list": [
+            "p_falena_13"
+        ]
+    },
+    {
+        "sort_name": "ニノン",
+        "disp_name": "ニノン",
+        "id_list": [
+            "ninon_psp1a",
+            "ninon_psp1b"
+        ]
+    },
+    {
+        "sort_name": "クアトロ",
+        "disp_name": "クアトロ",
+        "id_list": [
+            "quattro_19a",
+            "quattro_19b",
+            "quattro_19a"
+        ]
+    },
+    {
+        "sort_name": "ビット",
+        "disp_name": "ビット",
+        "id_list": [
+            "bit_19a",
+            "bit_19b"
+        ]
+    },
+    {
+        "sort_name": "ケンジ",
+        "disp_name": "ケンジ",
+        "id_list": [
+            "kenji_19a",
+            "kenji_19b"
+        ]
+    },
+    {
+        "sort_name": "ドクトルジジーキャンキャン",
+        "disp_name": "Ｄｒ．ジジー＆キャンキャン",
+        "id_list": [
+            "jjcan_19a",
+            "jjcan_19b"
+        ]
+    },
+    {
+        "sort_name": "サラブレッド",
+        "disp_name": "サラ＆ブレッド",
+        "id_list": [
+            "sarahbred_19a",
+            "sarahbred_19b"
+        ]
+    },
+    {
+        "sort_name": "アシュレイボア",
+        "disp_name": "アシュレイ＝ボア",
+        "id_list": [
+            "ashley_19a",
+            "ashley_19b",
+            "ashley_19c"
+        ]
+    },
+    {
+        "sort_name": "エルソルーナ",
+        "disp_name": "エル・ソルーナ",
+        "id_list": [
+            "elsol_19a",
+            "elsol_19b",
+            "elsol_19a"
+        ]
+    },
+    {
+        "sort_name": "マリン",
+        "disp_name": "まりん",
+        "id_list": [
+            "marin_19a",
+            "marin_19b",
+            "marin_19a"
+        ]
+    },
+    {
+        "sort_name": "ネロ",
+        "disp_name": "ネロ",
+        "id_list": [
+            "nero_19a",
+            "nero_19b"
+        ]
+    },
+    {
+        "sort_name": "クマイサン",
+        "disp_name": "熊井さん",
+        "id_list": [
+            "kumai_19a",
+            "kumai_19b",
+            "kumai_19c"
+        ]
+    },
+    {
+        "sort_name": "モッフィー",
+        "disp_name": "モッフィー",
+        "id_list": [
+            "moffy_19a",
+            "moffy_19b",
+            "moffy_19c"
+        ]
+    },
+    {
+        "sort_name": "モニカ",
+        "disp_name": "モニカ",
+        "id_list": [
+            "monica_19a",
+            "monica_19b"
+        ]
+    },
+    {
+        "sort_name": "アリシア",
+        "disp_name": "アリシア",
+        "id_list": [
+            "alicia_19a",
+            "alicia_19b",
+            "alicia_19c",
+            "alicia_19c"
+        ]
+    },
+    {
+        "sort_name": "ヤッコチャン",
+        "disp_name": "薬子ちゃん",
+        "id_list": [
+            "yakko_19a",
+            "yakko_19b"
+        ]
+    },
+    {
+        "sort_name": "ゾーゾ",
+        "disp_name": "ゾーゾ",
+        "id_list": [
+            "zoozo_19a",
+            "zoozo_19b",
+            "zoozo_19a"
+        ]
+    },
+    {
+        "sort_name": "ヤミー",
+        "disp_name": "ヤミー",
+        "id_list": [
+            "yummy_19a",
+            "yummy_19b",
+            "yummy_19a"
+        ]
+    },
+    {
+        "sort_name": "エージェント",
+        "disp_name": "エージェント",
+        "id_list": [
+            "agent_19a",
+            "agent_19b",
+            "agent_19c",
+            "agent_19a"
+        ]
+    },
+    {
+        "sort_name": "レイナ",
+        "disp_name": "レイナ",
+        "id_list": [
+            "reina_psp1a",
+            "reina_psp1b"
+        ]
+    },
+    {
+        "sort_name": "トルテパフェ",
+        "disp_name": "トルテ＆パフェ",
+        "id_list": [
+            "torte_19a",
+            "torte_19b"
+        ]
+    },
+    {
+        "sort_name": "ＰＭＸ−９",
+        "disp_name": "ＰＭＸ−９",
+        "id_list": [
+            "race_19a",
+            "race_19b"
+        ]
+    },
+    {
+        "sort_name": "ムツキ",
+        "disp_name": "睦月",
+        "id_list": [
+            "mutsuki_cs14a",
+            "mutsuki_cs14b",
+            "mutuki_cs7a",
+            "mutuki_cs7b",
+            "mutuki_cs7a"
+        ]
+    },
+    {
+        "sort_name": "スムーチ",
+        "disp_name": "ｓｍｏｏｏｏｃｈ",
+        "id_list": [
+            "smooooch_19"
+        ]
+    },
+    {
+        "sort_name": "テッドピート",
+        "disp_name": "テッド＝ピート",
+        "id_list": [
+            "beatnik_19a",
+            "beatnik_19b"
+        ]
+    },
+    {
+        "sort_name": "カポーン",
+        "disp_name": "銭湯ロボ　カポーン",
+        "id_list": [
+            "sento_19a",
+            "sento_19b"
+        ]
+    },
+    {
+        "sort_name": "デボラ",
+        "disp_name": "デボラ",
+        "id_list": [
+            "deborah_19a",
+            "deborah_19b",
+            "deborah_19a"
+        ]
+    },
+    {
+        "sort_name": "マルゲリータ",
+        "disp_name": "マルゲ＆リータ",
+        "id_list": [
+            "pizza_19a",
+            "pizza_19b"
+        ]
+    },
+    {
+        "sort_name": "テツオ",
+        "disp_name": "鉄男",
+        "id_list": [
+            "tetsuo_19a",
+            "tetsuo_19b"
+        ]
+    },
+    {
+        "sort_name": "モックン",
+        "disp_name": "もっくん",
+        "id_list": [
+            "check_19a",
+            "check_19b"
+        ]
+    },
+    {
+        "sort_name": "エミーリオ",
+        "disp_name": "エミーリオ",
+        "id_list": [
+            "jazz_19a",
+            "jazz_19b"
+        ]
+    },
+    {
+        "sort_name": "チクタク",
+        "disp_name": "チク-タク",
+        "id_list": [
+            "clock_19a",
+            "clock_19b"
+        ]
+    },
+    {
+        "sort_name": "シオン",
+        "disp_name": "しおん",
+        "id_list": [
+            "shion_19a",
+            "shion_19b",
+            "shion_19c"
+        ]
+    },
+    {
+        "sort_name": "ルイナスルーム",
+        "disp_name": "ルイナスルーム",
+        "id_list": [
+            "wac_19a",
+            "wac_19b"
+        ]
+    },
+    {
+        "sort_name": "ザタワー１",
+        "disp_name": "ザタワー",
+        "id_list": [
+            "tower_191"
+        ]
+    },
+    {
+        "sort_name": "ザタワー２",
+        "disp_name": "ザタワー",
+        "id_list": [
+            "tower_192",
+            "tower_192"
+        ]
+    },
+    {
+        "sort_name": "ザガーデン",
+        "disp_name": "ザガーデン",
+        "id_list": [
+            "tower_193"
+        ]
+    },
+    {
+        "sort_name": "コボウズ",
+        "disp_name": "小坊主",
+        "id_list": [
+            "asaki_19a"
+        ]
+    },
+    {
+        "sort_name": "ニット",
+        "disp_name": "ニット",
+        "id_list": [
+            "knit_19a",
+            "knit_19b",
+            "knit_19c",
+            "knit_24a",
+            "knit_24b",
+            "knit_24c",
+            "knit_19a"
+        ]
+    },
+    {
+        "sort_name": "バウンティ",
+        "disp_name": "バウンティ",
+        "id_list": [
+            "bounty_20a",
+            "bounty_20b",
+            "bounty_21a",
+            "bounty_21b"
+        ]
+    },
+    {
+        "sort_name": "リカ",
+        "disp_name": "リカ",
+        "id_list": [
+            "lica_20a",
+            "lica_20b"
+        ]
+    },
+    {
+        "sort_name": "シーノイド",
+        "disp_name": "C-noid",
+        "id_list": [
+            "c_noid_20a",
+            "c_noid_20b",
+            "c_noid_20a"
+        ]
+    },
+    {
+        "sort_name": "ピュアクルリップ",
+        "disp_name": "ピュアクル♥リップ",
+        "id_list": [
+            "lip_20a",
+            "lip_20b",
+            "lip_20c",
+            "lip_20a",
+            "lip_20a"
+        ]
+    },
+    {
+        "sort_name": "シェリー",
+        "disp_name": "シェリー",
+        "id_list": [
+            "sherry_20a",
+            "sherry_20b",
+            "sherry_20a"
+        ]
+    },
+    {
+        "sort_name": "ニンジン",
+        "disp_name": "にんじん",
+        "id_list": [
+            "asaki_20a",
+            "asaki_20b",
+            "asaki_20a"
+        ]
+    },
+    {
+        "sort_name": "レオン",
+        "disp_name": "レオン",
+        "id_list": [
+            "leon_20a",
+            "leon_20b",
+            "leon_20a",
+            "leon_20a"
+        ]
+    },
+    {
+        "sort_name": "ニャンガ",
+        "disp_name": "ニャンガ",
+        "id_list": [
+            "nyanga_20a",
+            "nyanga_20b",
+            "nyanga_20a"
+        ]
+    },
+    {
+        "sort_name": "サン",
+        "disp_name": "サン",
+        "id_list": [
+            "san_20a",
+            "san_20b",
+            "san_20a"
+        ]
+    },
+    {
+        "sort_name": "ルート＠チョウドーケン",
+        "disp_name": "ルート＠超ドー研",
+        "id_list": [
+            "root_20a",
+            "root_20b",
+            "root_22a",
+            "root_22b"
+        ]
+    },
+    {
+        "sort_name": "イリス",
+        "disp_name": "イリス",
+        "id_list": [
+            "irys_20a",
+            "irys_20b",
+            "irys_20a"
+        ]
+    },
+    {
+        "sort_name": "アーク",
+        "disp_name": "アーク",
+        "id_list": [
+            "ark_20a",
+            "ark_20b",
+            "ark_20c",
+            "ark_20a",
+            "ark_20a"
+        ]
+    },
+    {
+        "sort_name": "パク",
+        "disp_name": "パク",
+        "id_list": [
+            "paku_20a",
+            "paku_20b"
+        ]
+    },
+    {
+        "sort_name": "グワンゼサマ",
+        "disp_name": "ぐわんぜさま",
+        "id_list": [
+            "guwanze_psp2a",
+            "guwanze_psp2b"
+        ]
+    },
+    {
+        "sort_name": "ハッシュマン",
+        "disp_name": "ハッシュマン",
+        "id_list": [
+            "hush_psp2a",
+            "hush_psp2b",
+            "hush_psp2a"
+        ]
+    },
+    {
+        "sort_name": "ヒュー",
+        "disp_name": "ヒュー",
+        "id_list": [
+            "hugh_9a",
+            "hugh_9b",
+            "hugh_9a"
+        ]
+    },
+    {
+        "sort_name": "ミホ",
+        "disp_name": "みほ",
+        "id_list": [
+            "miho_20a",
+            "miho_20b",
+            "miho_20a"
+        ]
+    },
+    {
+        "sort_name": "チャラオウ",
+        "disp_name": "チャラ王",
+        "id_list": [
+            "charao_20a",
+            "charao_20b",
+            "charao_20a"
+        ]
+    },
+    {
+        "sort_name": "ユウシャアアアア",
+        "disp_name": "勇者ああああ",
+        "id_list": [
+            "yusha_20a",
+            "yusha_20b",
+            "yusha_20a"
+        ]
+    },
+    {
+        "sort_name": "サッタン",
+        "disp_name": "さったん",
+        "id_list": [
+            "satan_20a",
+            "satan_20b"
+        ]
+    },
+    {
+        "sort_name": "ロードメェー",
+        "disp_name": "ロード メェー",
+        "id_list": [
+            "lord_20a",
+            "lord_20b",
+            "lord_20a"
+        ]
+    },
+    {
+        "sort_name": "マナ",
+        "disp_name": "マナ",
+        "id_list": [
+            "mana_20a",
+            "mana_20b",
+            "mana_20c"
+        ]
+    },
+    {
+        "sort_name": "テテトト",
+        "disp_name": "テテ・トト",
+        "id_list": [
+            "teto_20a",
+            "teto_20b"
+        ]
+    },
+    {
+        "sort_name": "ハナコ",
+        "disp_name": "ハナコ",
+        "id_list": [
+            "hanako_14a",
+            "hanako_14b"
+        ]
+    },
+    {
+        "sort_name": "パラボー",
+        "disp_name": "パラボー",
+        "id_list": [
+            "parabo_psp2a",
+            "parabo_psp2b"
+        ]
+    },
+    {
+        "sort_name": "プリリン",
+        "disp_name": "プリリン",
+        "id_list": [
+            "puririn_20a",
+            "puririn_20b"
+        ]
+    },
+    {
+        "sort_name": "マタハリ",
+        "disp_name": "マタ・ハリ",
+        "id_list": [
+            "nekohiro_20a",
+            "nekohiro_20b"
+        ]
+    },
+    {
+        "sort_name": "アイリーン",
+        "disp_name": "アイリーン",
+        "id_list": [
+            "togo_20a",
+            "togo_20b"
+        ]
+    },
+    {
+        "sort_name": "モイモイ",
+        "disp_name": "モイモイ",
+        "id_list": [
+            "ryu_20a",
+            "ryu_20b",
+            "ryu_20a",
+            "ryu_20b"
+        ]
+    },
+    {
+        "sort_name": "フレッシュマン",
+        "disp_name": "フレッシュマン",
+        "id_list": [
+            "tasuwa_20a",
+            "tasuwa_20b"
+        ]
+    },
+    {
+        "sort_name": "アミリア",
+        "disp_name": "ア・ミリア",
+        "id_list": [
+            "malchut_20a",
+            "malchut_20b"
+        ]
+    },
+    {
+        "sort_name": "ライゾウ",
+        "disp_name": "雷蔵",
+        "id_list": [
+            "raizou_20a",
+            "raizou_20b",
+            "raizou_20c"
+        ]
+    },
+    {
+        "sort_name": "キャッスル",
+        "disp_name": "キャッスル",
+        "id_list": [
+            "castle_20a",
+            "castle_20b",
+            "castle_20c"
+        ]
+    },
+    {
+        "sort_name": "ミサコチャン",
+        "disp_name": "ミサコちゃん",
+        "id_list": [
+            "misako_20a",
+            "misako_20b",
+            "misako_20c",
+            "misako_20a"
+        ]
+    },
+    {
+        "sort_name": "ミミニャミセイジン",
+        "disp_name": "ミミニャミ星人",
+        "id_list": [
+            "copius_mn"
+        ]
+    },
+    {
+        "sort_name": "ノーヴァ",
+        "disp_name": "ノーヴァ",
+        "id_list": [
+            "nova_20a",
+            "nova_20b",
+            "nova_20a"
+        ]
+    },
+    {
+        "sort_name": "ノネット",
+        "disp_name": "ノネット",
+        "id_list": [
+            "nonet_20a",
+            "nonet_20b",
+            "nonet_20a",
+            "nonet_pcb",
+            "nonet_pca"
+        ]
+    },
+    {
+        "sort_name": "ナオト",
+        "disp_name": "直人",
+        "id_list": [
+            "naoto_20a",
+            "naoto_20b"
+        ]
+    },
+    {
+        "sort_name": "カオリン",
+        "disp_name": "かおりん",
+        "id_list": [
+            "kaorin_20a",
+            "kaorin_20b",
+            "kaorin_20a",
+            "kaorin_20a"
+        ]
+    },
+    {
+        "sort_name": "テンコ",
+        "disp_name": "テンコ",
+        "id_list": [
+            "tenko_20a",
+            "tenko_20b"
+        ]
+    },
+    {
+        "sort_name": "ワン",
+        "disp_name": "ワン",
+        "id_list": [
+            "one_21a",
+            "one_21b",
+            "one_21c",
+            "one_21a"
+        ]
+    },
+    {
+        "sort_name": "レツ",
+        "disp_name": "烈",
+        "id_list": [
+            "retsu_21a",
+            "retsu_21b",
+            "retsu_21c",
+            "retsu_22b",
+            "retsu_22a",
+            "retsu_22a",
+            "retsu_22a",
+            "retsu_22a",
+            "retsu_22a",
+            "retsu_22b",
+            "retsu_25a",
+            "retsu_25b"
+        ]
+    },
+    {
+        "sort_name": "ニア",
+        "disp_name": "ニア",
+        "id_list": [
+            "nia_21a",
+            "nia_21b",
+            "nia_21c",
+            "nia_22a",
+            "nia_22b",
+            "nia_22a",
+            "nia_22a",
+            "nia_22a"
+        ]
+    },
+    {
+        "sort_name": "アン",
+        "disp_name": "アン",
+        "id_list": [
+            "anne_21a",
+            "anne_21b",
+            "anne_21c"
+        ]
+    },
+    {
+        "sort_name": "ヴィーナス",
+        "disp_name": "ヴィーナス",
+        "id_list": [
+            "venus_21a",
+            "venus_21b",
+            "venus_21a"
+        ]
+    },
+    {
+        "sort_name": "ジュネス",
+        "disp_name": "ジュネス",
+        "id_list": [
+            "genes_21a",
+            "genes_21b",
+            "genes_21a"
+        ]
+    },
+    {
+        "sort_name": "フウガ",
+        "disp_name": "風雅",
+        "id_list": [
+            "fuga_21a",
+            "fuga_21b",
+            "fuga_21c",
+            "fuga_22b",
+            "fuga_22a",
+            "fuga_22a",
+            "fuga_22a",
+            "fuga_22a",
+            "fuga_22a",
+            "fuga_22a"
+        ]
+    },
+    {
+        "sort_name": "シエル",
+        "disp_name": "シエル",
+        "id_list": [
+            "ciel_21a",
+            "ciel_21b",
+            "ciel_21a"
+        ]
+    },
+    {
+        "sort_name": "テンテン",
+        "disp_name": "テンテン",
+        "id_list": [
+            "tenten_21a",
+            "tenten_21b"
+        ]
+    },
+    {
+        "sort_name": "ヒウミ",
+        "disp_name": "氷海",
+        "id_list": [
+            "hiumi_21a",
+            "hiumi_21b",
+            "hiumi_21c",
+            "hiumi_22b",
+            "hiumi_22a",
+            "hiumi_22a",
+            "hiumi_22a",
+            "hiumi_22a"
+        ]
+    },
+    {
+        "sort_name": "オーリー",
+        "disp_name": "オーリー",
+        "id_list": [
+            "ollie_21a",
+            "ollie_21b"
+        ]
+    },
+    {
+        "sort_name": "ブラック",
+        "disp_name": "ブラック",
+        "id_list": [
+            "black_21a",
+            "black_21b",
+            "black_21c",
+            "black_22a",
+            "black_22b",
+            "black_22a"
+        ]
+    },
+    {
+        "sort_name": "コペル",
+        "disp_name": "こぺる",
+        "id_list": [
+            "copel_21a",
+            "copel_21b"
+        ]
+    },
+    {
+        "sort_name": "ウサヌコ",
+        "disp_name": "うさぬこ",
+        "id_list": [
+            "usanuko_21a",
+            "usanuko_21b",
+            "usanuko_21c",
+            "usanuko_21a"
+        ]
+    },
+    {
+        "sort_name": "リンカ",
+        "disp_name": "鈴花",
+        "id_list": [
+            "rinka_21a",
+            "rinka_21b",
+            "rinka_21c",
+            "rinka_22a",
+            "rinka_22b",
+            "rinka_22a",
+            "rinka_22a",
+            "rinka_25a",
+            "rinka_25b",
+            "rinka_22a"
+        ]
+    },
+    {
+        "sort_name": "ユウ",
+        "disp_name": "ユウ",
+        "id_list": [
+            "you_21a",
+            "you_21b"
+        ]
+    },
+    {
+        "sort_name": "ローリーポニー",
+        "disp_name": "ローリー・ポニー",
+        "id_list": [
+            "pony_21a",
+            "pony_21b"
+        ]
+    },
+    {
+        "sort_name": "セリカ",
+        "disp_name": "セリカ",
+        "id_list": [
+            "celica_21a",
+            "celica_21b"
+        ]
+    },
+    {
+        "sort_name": "プロキオン",
+        "disp_name": "プロキオン",
+        "id_list": [
+            "procyon_21a",
+            "procyon_21b"
+        ]
+    },
+    {
+        "sort_name": "オトベア",
+        "disp_name": "オトベア",
+        "id_list": [
+            "gdkuma_21",
+            "gdkuma_21"
+        ]
+    },
+    {
+        "sort_name": "オトベアアオ",
+        "disp_name": "オトベア(青)",
+        "id_list": [
+            "gdkuma_blue"
+        ]
+    },
+    {
+        "sort_name": "オトベアアカ",
+        "disp_name": "オトベア(赤)",
+        "id_list": [
+            "gdkuma_red"
+        ]
+    },
+    {
+        "sort_name": "グルッパー",
+        "disp_name": "ぐるっぱ〜",
+        "id_list": [
+            "guruppa_21a",
+            "guruppa_21b"
+        ]
+    },
+    {
+        "sort_name": "チセ",
+        "disp_name": "ちせ",
+        "id_list": [
+            "chise_21",
+            "chise_21"
+        ]
+    },
+    {
+        "sort_name": "テマリ",
+        "disp_name": "てまり",
+        "id_list": [
+            "temari_21a",
+            "temari_21b",
+            "temari_21c",
+            "temari_21a",
+            "temari_21a"
+        ]
+    },
+    {
+        "sort_name": "エレナザハロフ",
+        "disp_name": "エレナ・ザハロフ",
+        "id_list": [
+            "elena_21"
+        ]
+    },
+    {
+        "sort_name": "メウメウ",
+        "disp_name": "芽兎めう",
+        "id_list": [
+            "meu_21",
+            "meu_21"
+        ]
+    },
+    {
+        "sort_name": "シモツキリン",
+        "disp_name": "霜月凛",
+        "id_list": [
+            "rin_21",
+            "rin_21"
+        ]
+    },
+    {
+        "sort_name": "モード",
+        "disp_name": "モード",
+        "id_list": [
+            "maud_21"
+        ]
+    },
+    {
+        "sort_name": "ジョマンダ",
+        "disp_name": "ジョマンダ",
+        "id_list": [
+            "jomanda_21"
+        ]
+    },
+    {
+        "sort_name": "カノープス",
+        "disp_name": "カノープス",
+        "id_list": [
+            "canopus_21a",
+            "canopus_21b",
+            "canopus_21c"
+        ]
+    },
+    {
+        "sort_name": "コウモリオトコ",
+        "disp_name": "こうもりおとこ",
+        "id_list": [
+            "koumori_21a",
+            "koumori_21b"
+        ]
+    },
+    {
+        "sort_name": "アリサ",
+        "disp_name": "アリサ",
+        "id_list": [
+            "arisa_21a",
+            "arisa_21b",
+            "arisa_21a",
+            "arisa_21a"
+        ]
+    },
+    {
+        "sort_name": "エリリン",
+        "disp_name": "えりりん",
+        "id_list": [
+            "eririn_21a",
+            "eririn_21b"
+        ]
+    },
+    {
+        "sort_name": "レイシス",
+        "disp_name": "レイシス",
+        "id_list": [
+            "rasis_21"
+        ]
+    },
+    {
+        "sort_name": "ジルクファイド",
+        "disp_name": "ジルクファイド",
+        "id_list": [
+            "zirkfied_21a",
+            "zirkfied_21b"
+        ]
+    },
+    {
+        "sort_name": "ホイップ",
+        "disp_name": "ホイップ",
+        "id_list": [
+            "whip_21a",
+            "whip_21b"
+        ]
+    },
+    {
+        "sort_name": "ウタ",
+        "disp_name": "うた",
+        "id_list": [
+            "uta_21a",
+            "uta_21b",
+            "uta_21a",
+            "uta_21a"
+        ]
+    },
+    {
+        "sort_name": "ライアン",
+        "disp_name": "ライアン",
+        "id_list": [
+            "ryan_21a",
+            "ryan_21b"
+        ]
+    },
+    {
+        "sort_name": "ポチコ",
+        "disp_name": "ポチコ",
+        "id_list": [
+            "pochiko_21a",
+            "pochiko_21b",
+            "pochiko_21a"
+        ]
+    },
+    {
+        "sort_name": "グミ",
+        "disp_name": "GUMI",
+        "id_list": [
+            "gumi_21"
+        ]
+    },
+    {
+        "sort_name": "ヤマガタマリカ",
+        "disp_name": "山形まり花",
+        "id_list": [
+            "marika_21",
+            "marika_21"
+        ]
+    },
+    {
+        "sort_name": "イズミイブキ",
+        "disp_name": "和泉一舞",
+        "id_list": [
+            "eve_21",
+            "eve_22",
+            "eve_21"
+        ]
+    },
+    {
+        "sort_name": "モッフィーヌ",
+        "disp_name": "モッフィーヌ",
+        "id_list": [
+            "rm02"
+        ]
+    },
+    {
+        "sort_name": "フローラ",
+        "disp_name": "フローラ",
+        "id_list": [
+            "park_21a",
+            "park_21a"
+        ]
+    },
+    {
+        "sort_name": "フレーム",
+        "disp_name": "フレーム",
+        "id_list": [
+            "park_21b"
+        ]
+    },
+    {
+        "sort_name": "カスガサキコ",
+        "disp_name": "春日咲子",
+        "id_list": [
+            "sakiko_21",
+            "sakiko_21"
+        ]
+    },
+    {
+        "sort_name": "ラーズ",
+        "disp_name": "ラーズ",
+        "id_list": [
+            "rars_22a",
+            "rars_22b",
+            "rars_22a",
+            "rars_22a",
+            "rars_22a"
+        ]
+    },
+    {
+        "sort_name": "ヴァイス",
+        "disp_name": "ヴァイス",
+        "id_list": [
+            "weis_22a",
+            "weis_22b"
+        ]
+    },
+    {
+        "sort_name": "ミユウ",
+        "disp_name": "美結",
+        "id_list": [
+            "miyu_22a",
+            "miyu_22b"
+        ]
+    },
+    {
+        "sort_name": "ミチル",
+        "disp_name": "ミチル",
+        "id_list": [
+            "michiru_22a",
+            "michiru_22b"
+        ]
+    },
+    {
+        "sort_name": "ニコラ",
+        "disp_name": "ニコラ",
+        "id_list": [
+            "nicolas_22a",
+            "nicolas_22b"
+        ]
+    },
+    {
+        "sort_name": "タイガ",
+        "disp_name": "大牙",
+        "id_list": [
+            "taiga_22a",
+            "taiga_22b",
+            "taiga_22a"
+        ]
+    },
+    {
+        "sort_name": "ゼルハルト",
+        "disp_name": "ゼルハルト",
+        "id_list": [
+            "gerhard_22a",
+            "gerhard_22b"
+        ]
+    },
+    {
+        "sort_name": "ユヅル",
+        "disp_name": "弓弦",
+        "id_list": [
+            "yuzuru_22a",
+            "yuzuru_22b"
+        ]
+    },
+    {
+        "sort_name": "アカネ",
+        "disp_name": "茜",
+        "id_list": [
+            "akane_22a",
+            "akane_22b",
+            "akane_22a"
+        ]
+    },
+    {
+        "sort_name": "エクリプス",
+        "disp_name": "エクリプス",
+        "id_list": [
+            "eclipse_22a",
+            "eclipse_22b"
+        ]
+    },
+    {
+        "sort_name": "タクト",
+        "disp_name": "タクト",
+        "id_list": [
+            "takuto_22a",
+            "takuto_22b",
+            "takuto_24a",
+            "takuto_24b",
+            "takuto_22b"
+        ]
+    },
+    {
+        "sort_name": "グルタミン",
+        "disp_name": "ぐるたみん",
+        "id_list": [
+            "glutamine_22a"
+        ]
+    },
+    {
+        "sort_name": "マツシタ",
+        "disp_name": "松下",
+        "id_list": [
+            "matsushita_22a"
+        ]
+    },
+    {
+        "sort_name": "フナッシー",
+        "disp_name": "ふなっしー",
+        "id_list": [
+            "funassyi_22a"
+        ]
+    },
+    {
+        "sort_name": "マドカ",
+        "disp_name": "まどか",
+        "id_list": [
+            "madoka_22a",
+            "madoka_22b"
+        ]
+    },
+    {
+        "sort_name": "トア",
+        "disp_name": "トア",
+        "id_list": [
+            "toa_22a",
+            "toa_22b",
+            "toa_22a",
+            "toa_22a",
+            "toa_22a",
+            "toa_22a"
+        ]
+    },
+    {
+        "sort_name": "キリシマツカサ",
+        "disp_name": "霧島司",
+        "id_list": [
+            "tsukasa_22a",
+            "tsukasa_24a"
+        ]
+    },
+    {
+        "sort_name": "ダテキョウヤ",
+        "disp_name": "伊達京也",
+        "id_list": [
+            "kyoya_22a",
+            "kyoya_24a"
+        ]
+    },
+    {
+        "sort_name": "キリュウ",
+        "disp_name": "桐生",
+        "id_list": [
+            "kiryu_22a",
+            "kiryu_22b"
+        ]
+    },
+    {
+        "sort_name": "ラピストリア",
+        "disp_name": "ラピストリア",
+        "id_list": [
+            "lapistoria_22",
+            "ending_22"
+        ]
+    },
+    {
+        "sort_name": "ハーピア",
+        "disp_name": "ハーピア",
+        "id_list": [
+            "harpia_22a",
+            "harpia_22b"
+        ]
+    },
+    {
+        "sort_name": "ジェダイト",
+        "disp_name": "ジェダイト",
+        "id_list": [
+            "jadeite_22a",
+            "jadeite_22b"
+        ]
+    },
+    {
+        "sort_name": "ヴォルフガング",
+        "disp_name": "ヴォルフガング",
+        "id_list": [
+            "wolfgang_22a",
+            "wolfgang_22b"
+        ]
+    },
+    {
+        "sort_name": "ファントム",
+        "disp_name": "ファントム",
+        "id_list": [
+            "phantom_22a",
+            "phantom_22b",
+            "phantom_22a"
+        ]
+    },
+    {
+        "sort_name": "ラズリ",
+        "disp_name": "ラズリ",
+        "id_list": [
+            "lazuli_22a",
+            "lazuli_22b"
+        ]
+    },
+    {
+        "sort_name": "ランマ",
+        "disp_name": "乱麻",
+        "id_list": [
+            "ranma_22a",
+            "ranma_22b",
+            "ranma_22a"
+        ]
+    },
+    {
+        "sort_name": "イオ・ロア",
+        "disp_name": "イオ・ロア",
+        "id_list": [
+            "io_22a",
+            "io_22b",
+            "io_22a",
+            "io_26a",
+            "io_26b"
+        ]
+    },
+    {
+        "sort_name": "スイリ",
+        "disp_name": "翠里",
+        "id_list": [
+            "suiri_22a",
+            "suiri_22b",
+            "suiri_22a"
+        ]
+    },
+    {
+        "sort_name": "シノノメナツヒ",
+        "disp_name": "東雲夏陽",
+        "id_list": [
+            "natsuhi_22",
+            "natsuhi_22"
+        ]
+    },
+    {
+        "sort_name": "シノノメココナ",
+        "disp_name": "東雲心菜",
+        "id_list": [
+            "kokona_22",
+            "kokona_22"
+        ]
+    },
+    {
+        "sort_name": "ジェイド",
+        "disp_name": "ジェイド",
+        "id_list": [
+            "riji_22a",
+            "riji_22b",
+            "riji_22a"
+        ]
+    },
+    {
+        "sort_name": "ハクレイレイム",
+        "disp_name": "博麗霊夢",
+        "id_list": [
+            "reimu_22"
+        ]
+    },
+    {
+        "sort_name": "キリサメマリサ",
+        "disp_name": "霧雨魔理沙",
+        "id_list": [
+            "marisa_22"
+        ]
+    },
+    {
+        "sort_name": "アカドキョウノミコト",
+        "disp_name": "あかどきょうのみこと",
+        "id_list": [
+            "dokyou_22a"
+        ]
+    },
+    {
+        "sort_name": "アオドキョウノミコト",
+        "disp_name": "あおどきょうのみこと",
+        "id_list": [
+            "dokyou_22b"
+        ]
+    },
+    {
+        "sort_name": "ラピス",
+        "disp_name": "ラピス",
+        "id_list": [
+            "lapis_22"
+        ]
+    },
+    {
+        "sort_name": "ジン",
+        "disp_name": "ジン",
+        "id_list": [
+            "jin_23a",
+            "jin_23b"
+        ]
+    },
+    {
+        "sort_name": "シャル",
+        "disp_name": "シャル",
+        "id_list": [
+            "schall_23a",
+            "schall_23b",
+            "schall_23a"
+        ]
+    },
+    {
+        "sort_name": "ドスエ",
+        "disp_name": "どすえ",
+        "id_list": [
+            "dosue_23a",
+            "dosue_23b",
+            "dosue_23c",
+            "dosue_23d",
+            "dosue_23e",
+            "dosue_23f",
+            "dosue_23g"
+        ]
+    },
+    {
+        "sort_name": "アイ",
+        "disp_name": "あい",
+        "id_list": [
+            "ai_23a",
+            "ai_24a",
+            "ai_24b",
+            "ai_24c"
+        ]
+    },
+    {
+        "sort_name": "ウマルチャン",
+        "disp_name": "うまるちゃん",
+        "id_list": [
+            "umaru_23a"
+        ]
+    },
+    {
+        "sort_name": "リトルレーズン",
+        "disp_name": "リトルレーズン",
+        "id_list": [
+            "little_csa",
+            "little_csb"
+        ]
+    },
+    {
+        "sort_name": "ボブ・ザ・スパイダー",
+        "disp_name": "ボブ・ザ・スパイダー",
+        "id_list": [
+            "bob_csa",
+            "bob_csb"
+        ]
+    },
+    {
+        "sort_name": "グリム",
+        "disp_name": "グリム",
+        "id_list": [
+            "grim_23a",
+            "grim_23b",
+            "grim_23a",
+            "grim_23b"
+        ]
+    },
+    {
+        "sort_name": "エース",
+        "disp_name": "エース",
+        "id_list": [
+            "ace_23a",
+            "ace_23b"
+        ]
+    },
+    {
+        "sort_name": "イロハ",
+        "disp_name": "いろは",
+        "id_list": [
+            "iroha_23a",
+            "iroha_23b"
+        ]
+    },
+    {
+        "sort_name": "ダン",
+        "disp_name": "ダン",
+        "id_list": [
+            "dan_23a",
+            "dan_23b"
+        ]
+    },
+    {
+        "sort_name": "タナカサン",
+        "disp_name": "田中さん",
+        "id_list": [
+            "tanaka_23a",
+            "tanaka_23b"
+        ]
+    },
+    {
+        "sort_name": "ベラ",
+        "disp_name": "ベラ",
+        "id_list": [
+            "vela_23a",
+            "vela_23b"
+        ]
+    },
+    {
+        "sort_name": "ホルン",
+        "disp_name": "ほるん",
+        "id_list": [
+            "horn_23a",
+            "horn_23b",
+            "horn_23a"
+        ]
+    },
+    {
+        "sort_name": "アルヤ",
+        "disp_name": "アルヤ",
+        "id_list": [
+            "alya_23a",
+            "alya_23b"
+        ]
+    },
+    {
+        "sort_name": "メテオ",
+        "disp_name": "メテオ",
+        "id_list": [
+            "meteor_23a",
+            "meteor_23b",
+            "meteor_23a"
+        ]
+    },
+    {
+        "sort_name": "メリッサ",
+        "disp_name": "メリッサ",
+        "id_list": [
+            "melissa_23a",
+            "melissa_23b"
+        ]
+    },
+    {
+        "sort_name": "ルーフ",
+        "disp_name": "ルーフ",
+        "id_list": [
+            "loof_23a",
+            "loof_23b",
+            "loof_23a"
+        ]
+    },
+    {
+        "sort_name": "センシイイイイ",
+        "disp_name": "戦士いいいい",
+        "id_list": [
+            "senshi_23a",
+            "senshi_23b"
+        ]
+    },
+    {
+        "sort_name": "アミュレット",
+        "disp_name": "アミュレット",
+        "id_list": [
+            "amulet_23a",
+            "amulet_23b"
+        ]
+    },
+    {
+        "sort_name": "ヤグラドン",
+        "disp_name": "やぐらどん",
+        "id_list": [
+            "yagura_23a",
+            "yagura_23b"
+        ]
+    },
+    {
+        "sort_name": "ピスケ",
+        "disp_name": "ピスケ",
+        "id_list": [
+            "pisce_24a",
+            "pisce_24b"
+        ]
+    },
+    {
+        "sort_name": "ルーサン",
+        "disp_name": "ルーさん",
+        "id_list": [
+            "lou_24a",
+            "lou_24b"
+        ]
+    },
+    {
+        "sort_name": "タマモギンマル",
+        "disp_name": "玉藻銀丸",
+        "id_list": [
+            "tamamo_24a",
+            "tamamo_24b"
+        ]
+    },
+    {
+        "sort_name": "ジョウロヒメ",
+        "disp_name": "如雨露ひめ",
+        "id_list": [
+            "jyouro_24a",
+            "jyouro_24b",
+            "jyouro_24a"
+        ]
+    },
+    {
+        "sort_name": "エクラ",
+        "disp_name": "エクラ",
+        "id_list": [
+            "eclat_24a",
+            "eclat_24b"
+        ]
+    },
+    {
+        "sort_name": "チェルミン",
+        "disp_name": "ちぇるみん",
+        "id_list": [
+            "chermin_24a",
+            "chermin_24b",
+            "chermin_24a"
+        ]
+    },
+    {
+        "sort_name": "シグレ",
+        "disp_name": "時雨",
+        "id_list": [
+            "sigre_24a",
+            "sigre_24b",
+            "sigre_24a",
+            "sigre_24a"
+        ]
+    },
+    {
+        "sort_name": "パステルクン",
+        "disp_name": "パステルくん",
+        "id_list": [
+            "pastel_24a"
+        ]
+    },
+    {
+        "sort_name": "セイル",
+        "disp_name": "セイル",
+        "id_list": [
+            "fune_24a",
+            "fune_24b"
+        ]
+    },
+    {
+        "sort_name": "リル",
+        "disp_name": "リル",
+        "id_list": [
+            "kac_24a",
+            "kac_24b",
+            "kac_24a"
+        ]
+    },
+    {
+        "sort_name": "シュテンライガ",
+        "disp_name": "酒呑雷牙",
+        "id_list": [
+            "syuten_24a",
+            "syuten_24b"
+        ]
+    },
+    {
+        "sort_name": "ナビ",
+        "disp_name": "ナビ",
+        "id_list": [
+            "navi_24a",
+            "navi_24b"
+        ]
+    },
+    {
+        "sort_name": "ディズニー　ツムツム\"",
+        "disp_name": "ディズニー ツムツム\"",
+        "id_list": [
+            "tsumtsum_24a"
+        ]
+    },
+    {
+        "sort_name": "グレン",
+        "disp_name": "グレン",
+        "id_list": [
+            "glen_24a",
+            "glen_24b"
+        ]
+    },
+    {
+        "sort_name": "ストククラノスケ",
+        "disp_name": "崇徳鞍之丞",
+        "id_list": [
+            "sutoku_24a",
+            "sutoku_24b",
+            "sutoku_24a"
+        ]
+    },
+    {
+        "sort_name": "カグラ",
+        "disp_name": "神楽",
+        "id_list": [
+            "kagura_24a",
+            "kagura_24b"
+        ]
+    },
+    {
+        "sort_name": "エステル",
+        "disp_name": "エステル",
+        "id_list": [
+            "estel_24a",
+            "estel_24b",
+            "estel_24a"
+        ]
+    },
+    {
+        "sort_name": "ザタワー４",
+        "disp_name": "ザタワー",
+        "id_list": [
+            "tower_25a"
+        ]
+    },
+    {
+        "sort_name": "ベンベン",
+        "disp_name": "ベンベン",
+        "id_list": [
+            "bengbeng_12a",
+            "bengbeng_12b"
+        ]
+    },
+    {
+        "sort_name": "ドゥイユ",
+        "disp_name": "ドゥイユ",
+        "id_list": [
+            "deuil_25a",
+            "deuil_25b"
+        ]
+    },
+    {
+        "sort_name": "ノルニル",
+        "disp_name": "ノルニル",
+        "id_list": [
+            "nornir_25a",
+            "nornir_25b"
+        ]
+    },
+    {
+        "sort_name": "サンズ",
+        "disp_name": "サンズ",
+        "id_list": [
+            "sans_27a"
+        ]
+    },
+    {
+        "sort_name": "エルム",
+        "disp_name": "エルム",
+        "id_list": [
+            "elem_27a",
+            "elem_27b"
+        ]
+    }
+]

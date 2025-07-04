@@ -324,8 +324,31 @@ def generate_chara_json():
     outfile = open('./chara_all.json', 'w', encoding='utf8')
     json.dump(charalist, outfile, ensure_ascii=False)
 
+def reorder_chars():
+    charalist = []
+    
+    with open("./raws/_characters__202506250852.json", 'r') as raw:
+        dat = json.load(raw)
+        for entry in dat['characters']:
+            # identifier = entry['chara_id'].split('_')[0]
+            c_found = False
+            for c in charalist:
+                if c['sort_name'] == entry['sort_name']:
+                    c_found = True
+                    c['id_list'].append(entry['chara_id'])
+            if c_found == False:
+                newchara = {
+                    'sort_name': entry['sort_name'],
+                    'disp_name': entry['disp_name'],
+                    'id_list': [entry['chara_id']]
+                }
+                charalist.append(newchara)
+    
+    outfile = open('./chara_all_new.json', 'w', encoding='utf8')
+    json.dump(charalist, outfile, ensure_ascii=False)
+            
 def main():
-    generate_song_individual_frames()
+    reorder_chars()
 
 if __name__ == "__main__":
     main()
