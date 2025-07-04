@@ -330,16 +330,20 @@ def reorder_chars():
     with open("./raws/_characters__202506250852.json", 'r') as raw:
         dat = json.load(raw)
         for entry in dat['characters']:
-            # identifier = entry['chara_id'].split('_')[0]
+            identifier = entry['chara_id'].split('_')[0]
             c_found = False
             for c in charalist:
                 if c['sort_name'] == entry['sort_name']:
                     c_found = True
-                    c['id_list'].append(entry['chara_id'])
+                    if entry['chara_id'] not in c['id_list']:
+                        c['id_list'].append(entry['chara_id'])
             if c_found == False:
                 newchara = {
+                    'data_name': identifier,
                     'sort_name': entry['sort_name'],
                     'disp_name': entry['disp_name'],
+                    'disp_name_ko': "",
+                    'disp_name_en': "",
                     'id_list': [entry['chara_id']]
                 }
                 charalist.append(newchara)
